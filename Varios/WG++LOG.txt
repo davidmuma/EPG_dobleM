@@ -1,0 +1,121 @@
+<--- INICIO --->
+---   DM   ---
+[        ] Job finished at 10/01/2024 20:40:13 done in 2m 1s
+[        ] Job (rex) finished at 11/01/2024 00:15:06 done in 3s
+---   POR   ---
+[        ] Job finished at 11/01/2024 00:31:16 done in 1m 4s
+[        ] Job (rex) finished at 11/01/2024 00:31:30 done in 4s
+---   DEP   ---
+[        ] Job finished at 11/01/2024 00:46:58 done in 2m 19s
+[        ] Job (rex) finished at 11/01/2024 00:47:15 done in 6s
+---   FRA   ---
+[        ] Job finished at 11/01/2024 01:16:38 done in 1m 26s
+[        ] Job (rex) finished at 11/01/2024 01:16:53 done in 5s
+---   GER   ---
+[Error   ] no shows in indexpage!
+[        ] Job finished at 11/01/2024 02:01:39 done in 1m 27s
+[        ] Job (rex) finished at 11/01/2024 02:01:57 done in 6s
+---   MAN   ---
+[        ] LaLiga+ BARES · Job finished at 
+[        ] LaLiga TV BAR · Job finished at 
+[        ] LaLiga TV BAR 2 · Job finished at 
+[        ] LaLiga TV BAR 3 · Job finished at 
+[        ] LaLiga TV BAR 4 · Job finished at 
+[        ] DAZN BAR 1 · Job finished at 
+[        ] DAZN BAR 2 · Job finished at 
+[        ] Moto ADV · Job finished at 
+[        ] DBike · Job finished at 
+[        ] Iberalia pesca · Job finished at 
+[        ] Iberalia caza · Job finished at 
+[        ] Torolé TV · Job finished at 
+[        ] Global Telenovelas · Job finished at 
+[        ] Global Tendencias · Job finished at 
+[        ] Fight Time · Job finished at 
+[        ] CyL7 · Job finished at 
+[        ] CyL8 · Job finished at 
+[        ] Montilla TV · Job finished at 
+[        ] Vivir Torredelcampo TV · Job finished at 
+[        ] Vicomartele · Job finished at 
+[        ] TV Murciana · Job finished at 
+[        ] Náutica TV · Job finished at 
+[        ] Madinfor TV · Job finished at 
+[        ] Antena Motor · Job finished at 
+[        ] Escapa TV · Job finished at 
+[        ] REKTV · Job finished at 
+[        ] tlnovelas · Job finished at 
+[        ] PTV Malaga · Job finished at 
+[        ] PTV Cordoba · Job finished at 
+[        ] PTV Granada · Job finished at 
+[        ] PTV Sevilla · Job finished at 
+[        ] PTV Linares · Job finished at 
+[        ] PTV Almeria · Job finished at 
+[        ] fef · Job finished at 11/01/2024 02:30
+[        ] ligaf · Job finished at 11/01/2024 02:30
+[        ] Job (rex) finished at 11/01/2024 02:31:36 done in 7s
+---   TIVI   ---
+[        ] laligainside · Job finished at 11/01/2024 02:40:22 done in 8s
+[        ] laligaplus · Job finished at 11/01/2024 02:40:34 done in 3s
+[        ] mundotoro · Job finished at 11/01/2024 02:40:47 done in 4s
+[        ] fueltv · Job finished at 11/01/2024 02:41:17 done in 20s
+[        ] mmatv · Job finished at 11/01/2024 02:41:30 done in 4s
+[        ] THEJUMPLIVE · Job finished at 11/01/2024 02:42:58 done in 1m 19s
+[        ] happitv · Job finished at 11/01/2024 02:43:44 done in 36s
+[        ] sin_filtros · Job finished at 11/01/2024 02:44:37 done in 44s
+[        ] WATERBEAR · Job finished at 11/01/2024 02:44:55 done in 10s
+[        ] trace_brazuca · Job finished at 11/01/2024 02:45:15 done in 11s
+[        ] QELLO · Job finished at 11/01/2024 02:45:26 done in 2s
+[        ] now90s · Job finished at 11/01/2024 02:45:39 done in 4s
+[        ] now70s · Job finished at 11/01/2024 02:45:52 done in 4s
+[        ] now80s · Job finished at 11/01/2024 02:46:05 done in 4s
+[        ] JAZZ · Job finished at 11/01/2024 02:46:26 done in 12s
+[        ] azcinema · Job finished at 11/01/2024 02:46:40 done in 5s
+[        ] azclic · Job finished at 11/01/2024 02:47:01 done in 12s
+[        ] azcorazon · Job finished at 11/01/2024 02:47:14 done in 4s
+[        ] aztecainternacional · Job finished at 11/01/2024 02:47:30 done in 6s
+[        ] 13cultura · Job finished at 11/01/2024 02:47:54 done in 15s
+[        ] 13entretencion · Job finished at 11/01/2024 02:48:15 done in 11s
+[        ] film_and_co · Job finished at 11/01/2024 02:48:26 done in 2s
+[        ] FR_NOVELAS · Job finished at 11/01/2024 02:48:45 done in 9s
+[        ] FRIKI · Job finished at 11/01/2024 02:48:59 done in 5s
+[        ] lacorriente · Job finished at 11/01/2024 02:49:12 done in 4s
+[        ] lovenature · Job finished at 11/01/2024 02:49:31 done in 9s
+[        ] lovewine · Job finished at 11/01/2024 02:49:50 done in 10s
+[        ] lovetvtrailers · Job finished at 11/01/2024 02:50:15 done in 16s
+[        ] el_pais · Job finished at 11/01/2024 03:01:47 done in 28s
+[        ] elconfidencial · Job finished at 11/01/2024 03:02:13 done in 17s
+[        ] nesting · Job finished at 11/01/2024 03:02:37 done in 15s
+[        ] ADU05 · Job finished at 11/01/2024 03:02:48 done in 1s
+[        ] ADU06 · Job finished at 11/01/2024 03:03:00 done in 3s
+[        ] satenclassy · Job finished at 11/01/2024 03:03:13 done in 4s
+[        ] satentitanes · Job finished at 11/01/2024 03:03:26 done in 4s
+[        ] satenluxury · Job finished at 11/01/2024 03:03:40 done in 4s
+[        ] saten100espanol · Job finished at 11/01/2024 03:03:53 done in 4s
+[        ] Job (rex) finished at 11/01/2024 03:04:13 done in 7s
+---   O1   ---
+[        ] Job finished at 11/01/2024 03:18:45 done in 3m 33s
+[        ] Job (rex) finished at 11/01/2024 03:19:05 done in 7s
+---   O2   ---
+[        ] Job finished at 11/01/2024 03:34:59 done in 4m 47s
+[        ] Job (rex) finished at 11/01/2024 03:35:20 done in 8s
+---   VAR   ---
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[Error   ] no shows in indexpage!
+[        ] Job finished at 11/01/2024 03:52:50 done in 7m 38s
+[        ] Job (rex) finished at 11/01/2024 03:53:09 done in 7s
+---   M3   ---
+[        ] Job finished at 11/01/2024 04:08:49 done in 6m 37s
+[        ] Job (rex) finished at 11/01/2024 04:09:23 done in 15s
+---   DEP   ---
+[        ] Job finished at 11/01/2024 04:40:08 done in 1m 56s
+[        ] Job (rex) finished at 11/01/2024 04:40:24 done in 5s

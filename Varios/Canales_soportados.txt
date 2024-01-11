@@ -1,0 +1,509 @@
+1 - La 1
+2 - La 2
+3 - Antena 3
+4 - Cuatro
+5 - Telecinco
+6 - La Sexta
+7 - Movistar Plus+
+11 - Bajo demanda
+12 - M+ Cine
+13 - M+ Series
+14 - M+ Originales
+15 - M+ Vacaciones
+17 - M+ Documentales
+18 - M+ Música
+19 - La Resistencia 24H
+20 - M+ Clásicos
+21 - M+ Acción
+22 - M+ Comedia
+23 - M+ Drama
+24 - M+ Suspense
+25 - M+ Indie
+26 - M+ Cine Español
+30 - TCM
+31 - Canal Hollywood
+36 - Paramount Network
+37 - Be Mad
+38 - FOX
+39 - AXN
+40 - Warner TV
+41 - Comedy Central
+42 - Calle 13
+43 - Cosmo
+44 - SyFy
+48 - Energy
+49 - Factoría de Ficción
+50 - Neox
+51 - Multideporte
+53 - M+ Vamos
+54 - M+ LaLiga TV
+55 - DAZN LaLiga
+56 - LaLiga TV Hypermotion
+57 - M+ LaLiga TV 2
+58 - DAZN LaLiga 2
+59 - LaLiga TV Hypermotion 2
+60 - M+ Liga de Campeones
+61 - M+ Liga de Campeones 2
+62 - M+ Liga de Campeones 3
+63 - M+ Deportes
+64 - M+ Deportes 2
+65 - M+ Deportes 3
+66 - M+ Ellas Vamos
+67 - M+ Golf
+68 - M+ Golf 2
+69 - DAZN F1
+70 - DAZN 1
+71 - DAZN 2
+72 - Eurosport 1
+73 - Eurosport 2
+74 - GOL PLAY
+75 - Teledeporte
+77 - Caza y Pesca
+78 - Iberalia TV
+82 - National Geographic
+83 - Nat Geo Wild
+84 - Historia
+85 - Discovery
+92 - Canal Cocina
+93 - Decasa
+95 - Divinity
+96 - Nova
+99 - Enfamilia
+110 - Baby TV
+111 - Disney Junior
+113 - Nick JR
+114 - Nickelodeon
+115 - Dreamworks
+116 - Disney Channel
+117 - Boing
+118 - Clan
+120 - MTV España
+121 - MTV 00s
+123 - Mezzo
+124 - Mezzo Live
+125 - Classica
+127 - 24 Horas
+128 - BBC World News Europe
+129 - CNN International Europe
+132 - Al Jazeera English
+133 - France 24 (en Francais)
+136 - CNBC Europe
+137 - TV5 Monde Europe
+138 - Bloomberg TV Europe
+147 - Cubavisión Internacional
+148 - Telesur
+151 - Canal Sur Andalucía
+152 - TVGA Europa
+153 - Canal Extremadura Sat
+156 - Aragón TV Internacional
+160 - Vamos BAR
+161 - Vamos BAR 2
+162 - Vamos BAR 3
+167 - M+ Supercopa
+168 - M+ LaLiga TV 4
+176 - Movistar Plus+ 2
+178 - LaLiga TV Hypermotion 3
+180 - M+ Liga de Campeones 4
+181 - M+ Liga de Campeones 5
+182 - M+ Liga de Campeones 6
+183 - M+ Liga de Campeones 7
+184 - M+ Liga de Campeones 8
+185 - M+ Liga de Campeones 9
+186 - M+ Liga de Campeones 10
+187 - M+ Liga de Campeones 11
+188 - M+ Liga de Campeones 12
+189 - M+ Liga de Campeones 13
+190 - Playboy TV
+191 - M+ Deportes 4
+192 - M+ Deportes 5
+193 - M+ Deportes 6
+194 - M+ Deportes 7
+196 - DAZN 3
+197 - DAZN 4
+198 - Alquiler
+199 - Alquiler 1
+200 - Portada
+201 - 7 TV Región Murcia
+202 - À Punt
+203 - Aragón TV
+204 - TV Canaria
+205 - Canal Sur
+206 - Castilla la Mancha TV
+207 - La 7
+208 - ETB 1
+209 - Canal Extremadura
+210 - IB3 RTV Illes Balears
+211 - Navarra TV
+212 - Telemadrid
+213 - TPA
+214 - TV3
+215 - TVG-TV Galicia
+216 - Andalucía TV
+217 - ETB 2
+218 - La Ocho TV
+219 - La Otra
+220 - TVG 2
+232 - XTRM
+233 - Sundance TV
+234 - DARK
+235 - Somos
+245 - AMC
+246 - AXN Movies
+247 - TRECE
+251 - Atreseries
+276 - Real Madrid TV
+279 - El Garage TV
+280 - UBEAT
+286 - Odisea
+287 - AMC Break
+289 - DMAX
+290 - AMC Crime
+291 - BuenViaje
+294 - DKISS
+297 - Mega
+298 - Ten
+319 - ETB 3
+330 - FOX News
+331 - EuroNews
+335 - 1+1 Internacional
+339 - El Toro TV
+340 - Negocios TV
+342 - CGTN Español
+343 - Telefe Internacional
+344 - Canal de las Estrellas
+345 - TV Chile
+346 - TV Colombia
+349 - EWTN
+354 - TV3 Cat.
+355 - EITB Basque
+357 - Telemadrid Int.
+363 - Canal 33
+364 - Esport 3
+365 - 3 24
+366 - Betevé
+399 - Canal Fútbol Replay
+440 - M+ LaLiga TV UHD
+441 - M+ Liga de Campeones UHD
+442 - DAZN F1 4K
+443 - M+ Liga de Campeones 2 UHD
+LaLiga+ BARES
+LaLiga TV BAR
+LaLiga TV BAR 2
+LaLiga TV BAR 3
+LaLiga TV BAR 4
+DAZN BAR 1
+DAZN BAR 2
+Moto ADV
+DBike
+Iberalia pesca
+Iberalia caza
+Torolé TV
+Global Telenovelas
+Global Tendencias
+Fight Time
+CyL7
+CyL8
+Montilla TV
+Vivir Torredelcampo TV
+Vicomartele
+TV Murciana
+Náutica TV
+Madinfor TV
+Antena Motor
+Escapa TV
+REKTV
+tlnovelas
+PTV Malaga
+PTV Cordoba
+PTV Granada
+PTV Sevilla
+PTV Linares
+PTV Almeria
+FEF TV 1 Grupo 1
+FEF TV 2 Grupo 1
+FEF TV 3 Grupo 1
+FEF TV 4 Grupo 1
+FEF TV 5 Grupo 1
+FEF TV 6 Grupo 1
+FEF TV 7 Grupo 1
+FEF TV 8 Grupo 1
+FEF TV 9 Grupo 1
+FEF TV 10 Grupo 1
+FEF TV 1 Grupo 2
+FEF TV 2 Grupo 2
+FEF TV 3 Grupo 2
+FEF TV 4 Grupo 2
+FEF TV 5 Grupo 2
+FEF TV 6 Grupo 2
+FEF TV 7 Grupo 2
+FEF TV 8 Grupo 2
+FEF TV 9 Grupo 2
+FEF TV 10 Grupo 2
+Futsal TV 1 Masculino
+Futsal TV 2 Masculino
+Futsal TV 3 Masculino
+Futsal TV 4 Masculino
+Futsal TV 5 Masculino
+Futsal TV 6 Masculino
+Futsal TV 7 Masculino
+Futsal TV 8 Masculino
+Futsal TV 9 Masculino
+Futsal TV 10 Masculino
+Futsal TV 1 Femenino
+Futsal TV 2 Femenino
+Futsal TV 3 Femenino
+Futsal TV 4 Femenino
+Futsal TV 5 Femenino
+Futsal TV 6 Femenino
+Futsal TV 7 Femenino
+Futsal TV 8 Femenino
+Futsal TV 9 Femenino
+Futsal TV 10 Femenino
+DAZN LaLiga Femenina 1
+DAZN LaLiga Femenina 2
+DAZN LaLiga Femenina 3
+DAZN LaLiga Femenina 4
+DAZN LaLiga Femenina 5
+DAZN LaLiga Femenina 6
+DAZN LaLiga Femenina 7
+DAZN LaLiga Femenina 8
+DAZN LaLiga Femenina 9
+DAZN LaLiga Femenina 10
+LALIGA Inside
+LaLiga+
+Onetoro TV
+Fuel TV
+MMA TV
+Clipset TV
+HappiTV
+SinFiltros
+WaterBear
+TRACE Brazuca
+Quello Concerts
+NOW Rock
+NOW 70s
+NOW 80s
+Oh Jazz
+Cinema
+Clic
+Corazón
+Azteca Internacional
+13 Cultura
+13 Entretención
+Film&amp;Co
+Frecuencia Novelas
+Cine Friki
+La Corriente
+Love The Planet
+Love Wine
+Trailers
+Oficios perdidos
+El País
+El Confidencial
+Nesting TV
+Hustler TV
+Private
+Satén Classy
+Satén Titanes
+Satén Luxury
+Satén Español
+SonLife Broadcasting Network
+Sky News International
+Arirang TV
+NHK World TV
+VE PLUS TV
+La 1 CAT
+La 2 CAT
+TV3 CAT
+324 CAT
+SX3 CAT
+Canal33 CAT
+Esport3 CAT
+TV3CAT CAT
+Bon Dia TV
+Canal 7 Televalencia
+Onda Algeciras TV
+Canal Parlamento
+Tele Elx
+Información TV
+Club MTV
+MTV Hits
+MTV 80s
+MTV 90s
+BOM Cine
+Flooxer
+Kidz
+Aquí no hay quién viva
+El Hormiguero
+FoQ
+Equipo de investigación
+El club de la comedia
+Clásicos atresplayer
+Multicine atresplayer
+Comedia atresplayer
+Inquietos atresplayer
+ATRESplayer PREMIUM
+acontra+
+GH VIP 24h Plus
+GH VIP 24h
+mitele comedia
+mitele viajes
+Canal Star TVE HD
+Discovery Turbo
+FOX SPORTS
+FOX SPORTS 2
+FOX SPORTS 3
+Vivid TV
+beIN SPORTS
+beIN SPORTS ñ
+beIN SPORTS XTRA
+beIN SPORTS XTRA ñ
+AllFlamenco
+Festival 4K
+TV Ceuta
+Fashion TV
+ETB 4
+A7
+IB3 Global
+CanalSur 2
+A8
+Navarra TV2
+La 8
+Canal 4
+HIT TV
+Barcelona TV
+8 Madrid
+CYLTV HD
+TVR HD
+8 Mediterraneo
+7TV Andalucia
+TV Castellon
+Televigo
+Levante TV
+SELEKT
+Runtime Thriller-Terror
+Runtime Comedia
+Runtime Cine y Series
+Runtime Series
+Runtime Acción
+Runtime Crimen
+Runtime Romance
+RunTime Clásico
+Cines Verdi TV
+Cine Feel Good
+NatureTime
+Toon Goggles
+Lolly Kids
+Gametoon
+Myzen TV
+OUTtv
+Escapa TV
+INTI
+Vive Kanal D Drama
+Vivir con gatos
+Vivir con perros
+M+ Supercopa de España
+LaLiga+
+Trace Sports Stars
+Betis TV
+Sevilla FC Televisión
+Fast&amp;FunBox
+FightSports
+Fight Box HD
+Surf Channel
+Speed Factor 4K
+Motorvision
+MTV Live
+QWest Mix
+Sol Música
+TRACE Latina
+TRACE Urban
+iConcerts
+Djazz
+Cazavisión
+TR3CE
+Telemadrid Int.
+Deutsche W
+Pro TV
+Caracol TV
+France 2
+France 5
+M6
+Gulli
+Inglés total - Multinivel
+MyPadel TV
+PAC-12 Insider
+USGA TV
+EDGEsport
+Motorsport TV
+Nautical Channel
+Ski TV
+Tennis Channel
+Moto ADV
+Sport TV+ POR
+Sport TV1 POR
+Sport TV2 POR
+Sport TV3 POR
+Sport TV4 POR
+Sport TV5 POR
+Sport TV6 POR
+Sport TV NBA POR
+Eleven Sports 1 POR
+Eleven Sports 2 POR
+Eleven Sports 3 POR
+Eleven Sports 4 POR
+Eleven Sports 5 POR
+Eleven Sports 6 POR
+ARTE FRA
+FRANCE 24 FRA
+I24 NEWS FRA
+MTV FRA
+BEIN SPORTS 1 FRA
+BEIN SPORTS 2 FRA
+BEIN SPORTS 3 FRA
+MULTISPORTS 1 FRA
+MULTISPORTS 2 FRA
+MULTISPORTS 3 FRA
+MULTISPORTS 4 FRA
+MULTISPORTS 5 FRA
+MULTISPORTS 6 FRA
+BEIN SPORTS MAX 4 FRA
+BEIN SPORTS MAX 5 FRA
+BEIN SPORTS MAX 6 FRA
+BEIN SPORTS MAX 7 FRA
+BEIN SPORTS MAX 8 FRA
+BEIN SPORTS MAX 9 FRA
+BEIN SPORTS MAX 10 FRA
+EUROSPORT 1 FRA
+EUROSPORT 2 FRA
+EUROSPORT 360 1
+EUROSPORT 360 2
+EUROSPORT 360 3
+EUROSPORT 360 4
+ServusTV GER
+Das Erste GER
+ZDF GER
+RTL GER
+KiKA GER
+DAZN 1 GER
+DAZN 2 GER
+MTV GER
+ARTE GER
+Eurosport 1 GER
+Eurosport 2 GER
+MOTORVISION.TV
+SPORT1+
+eSPORTS1
+Red Bull TV GER
+SPORTDIGITAL FUSSBALL GER
+QVC GER
+Sky Sport News GER
+Sky Sport Top Event GER
+Sky Sport Bundesliga GER
+Sky Sport F1 GER
+Sky Sport Premier League GER
+Sky Sport Mix GER
+Sky Sport Tennis GER
+Sky Sport Golf GER
+Sky Sport Austria GER
+TRT Türk GER
