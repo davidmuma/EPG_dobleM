@@ -1,0 +1,339 @@
+<--- INICIO --->
+[  ZPR  ---> Error] Unable to update channel Fightbox HD POR
+[  ZPR  ---> Error] no index page data received from Fightbox HD POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Eurosport 1 POR
+[  ZPR  ---> Error] no index page data received from Eurosport 1 POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Eurosport 2 POR
+[  ZPR  ---> Error] no index page data received from Eurosport 2 POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sporting TV POR
+[  ZPR  ---> Error] no index page data received from Sporting TV POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sport TV+ POR HD
+[  ZPR  ---> Error] no index page data received from Sport TV+ POR HD
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sport TV1 POR HD
+[  ZPR  ---> Error] no index page data received from Sport TV1 POR HD
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sport TV2 POR HD
+[  ZPR  ---> Error] no index page data received from Sport TV2 POR HD
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sport TV3 POR HD
+[  ZPR  ---> Error] no index page data received from Sport TV3 POR HD
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sport TV4 POR HD
+[  ZPR  ---> Error] no index page data received from Sport TV4 POR HD
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sport TV5 POR HD
+[  ZPR  ---> Error] no index page data received from Sport TV5 POR HD
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sport TV6 POR HD
+[  ZPR  ---> Error] no index page data received from Sport TV6 POR HD
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Sport TV NBA POR
+[  ZPR  ---> Error] no index page data received from Sport TV NBA POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Eleven Sports 1 POR
+[  ZPR  ---> Error] no index page data received from Eleven Sports 1 POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Eleven Sports 2 POR
+[  ZPR  ---> Error] no index page data received from Eleven Sports 2 POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Eleven Sports 3 POR
+[  ZPR  ---> Error] no index page data received from Eleven Sports 3 POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Eleven Sports 4 POR
+[  ZPR  ---> Error] no index page data received from Eleven Sports 4 POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Eleven Sports 5 POR
+[  ZPR  ---> Error] no index page data received from Eleven Sports 5 POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ---> Error] Unable to update channel Eleven Sports 6 POR
+[  ZPR  ---> Error] no index page data received from Eleven Sports 6 POR
+[  ZPR  ---> Error] unable to update channel, try again later
+[  ZPR  ] Job finished at 02/07/2024 01:05:20 done in 15s
+[  ZFR  ] Job finished at 02/07/2024 01:21:24 done in 1m 20s
+[  ZDE  ] Job finished at 02/07/2024 01:36:33 done in 1m 28s
+[Warning ] error downloading page: Error while copying content to a stream.
+[  ZUK  ---> Error] index subpage loop reached maximum number (4)
+[  ZUK  ---> Error] see log file for details
+[  ZUK  ] Job finished at 02/07/2024 01:50:28 done in 23s
+    [  CLI  ] LaLiga TV BAR 4 · Job finished at 02/07/2024 02:30
+    [  CLI  ] Liga de campeones BAR · Job finished at 02/07/2024 02:30
+    [  CLI  ] Liga de campeones BAR 2 · Job finished at 02/07/2024 02:30
+    [  CLI  ] Liga de campeones BAR 3 · Job finished at 02/07/2024 02:30
+    [  CLI  ] Liga de campeones BAR 4 · Job finished at 02/07/2024 02:30
+    [  CLI  ] Liga de campeones BAR 5 · Job finished at 02/07/2024 02:30
+    [  CLI  ] Liga de campeones BAR 6 · Job finished at 02/07/2024 02:30
+    [  CLI  ] Liga de campeones BAR 7 · Job finished at 02/07/2024 02:30
+    [  CLI  ] Liga de campeones BAR 8 · Job finished at 02/07/2024 02:30
+    [  CLI  ] DAZN 1 BAR · Job finished at 02/07/2024 02:30
+    [  CLI  ] DAZN 2 BAR · Job finished at 02/07/2024 02:30
+    [  CLI  ] DAZN F1 BAR · Job finished at 02/07/2024 02:30
+    [  CLI  ] Ilorci · Job finished at 02/07/2024 02:30
+    [  CLI  ] VE · Job finished at 02/07/2024 02:30
+    [  CLI  ] Jamilena · Job finished at 02/07/2024 02:30
+    [  CLI  ] Lebrija TV · Job finished at 02/07/2024 02:30
+    [  CLI  ] Montilla TV · Job finished at 02/07/2024 02:30
+    [  CLI  ] Vivir Torredelcampo TV · Job finished at 02/07/2024 02:30
+    [  CLI  ] Vicomartele · Job finished at 02/07/2024 02:30
+    [  CLI  ] UcubiTV · Job finished at 02/07/2024 02:30
+    [  CLI  ] La Rambla TV · Job finished at 02/07/2024 02:30
+    [  CLI  ] ZIMAGEN TV · Job finished at 02/07/2024 02:30
+    [  CLI  ] Telepitu · Job finished at 02/07/2024 02:30
+    [  CLI  ] Tele Castro · Job finished at 02/07/2024 02:30
+    [  CLI  ] Moto ADV · Job finished at 02/07/2024 02:30
+    [  CLI  ] Torolé TV · Job finished at 02/07/2024 02:30
+    [  CLI  ] Iberalia pesca · Job finished at 02/07/2024 02:30
+    [  CLI  ] Iberalia caza · Job finished at 02/07/2024 02:31
+    [  CLI  ] Global Telenovelas · Job finished at 02/07/2024 02:31
+    [  CLI  ] Global Tendencias · Job finished at 02/07/2024 02:31
+    [  CLI  ] Fight Time · Job finished at 02/07/2024 02:31
+    [  CLI  ] DBike · Job finished at 02/07/2024 02:31
+    [  CLI  ] CyL7 · Job finished at 02/07/2024 02:31
+    [  CLI  ] CyL8 · Job finished at 02/07/2024 02:31
+    [  CLI  ] Náutica TV · Job finished at 02/07/2024 02:31
+    [  CLI  ] Madinfor TV · Job finished at 02/07/2024 02:31
+    [  CLI  ] Antena Motor · Job finished at 02/07/2024 02:31
+    [  CLI  ] Telecuervo · Job finished at 02/07/2024 02:31
+    [  CLI  ] Doce TV Mairena · Job finished at 02/07/2024 02:31
+    [  CLI  ] Atalaya · Job finished at 02/07/2024 02:31
+    [  CLI  ] Huelva TV · Job finished at 02/07/2024 02:32
+    [  CLI  ] Dhípica · Job finished at 02/07/2024 02:32
+    [  ZAP  ] REKTV · Job finished at 02/07/2024 02:32
+    [  ZAP  ] tlnovelas · Job finished at 02/07/2024 02:32
+    [  ZAP  ] PTV Malaga · Job finished at 02/07/2024 02:32
+    [  ZAP  ] PTV Cordoba · Job finished at 02/07/2024 02:32
+    [  ZAP  ] PTV Granada · Job finished at 02/07/2024 02:32
+    [  ZAP  ] PTV Sevilla · Job finished at 02/07/2024 02:32
+    [  ZAP  ] PTV Linares · Job finished at 02/07/2024 02:32
+    [  ZAP  ] PTV Almeria · Job finished at 02/07/2024 02:32
+    [  ZAP  ] DePelicula · Job finished at 02/07/2024 02:32
+    [  ZAP  ] DejateTV · Job finished at 02/07/2024 02:32
+    [  MAN  ] fef · Job finished at 02/07/2024 02:32
+    [  MAN  ] ligaf · Job finished at 02/07/2024 02:32
+    [  TIVI  ] Job finished at 02/07/2024 02:45
+[  O1  ] Job finished at 02/07/2024 03:03:17 done in 3m 12s
+[  O2  ] Job finished at 02/07/2024 03:19:07 done in 4m 2s
+[Warning ] error downloading page: Error while copying content to a stream.
+[  VAR  ---> Error] index subpage loop reached maximum number (4)
+[  VAR  ---> Error] see log file for details
+[Warning ] error downloading page: Error while copying content to a stream.
+[  VAR  ---> Error] Unable to update channel La 2 CAT
+[  VAR  ---> Error] Current culture: en-GB
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 02/07/2024 03:30:41
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 02/07/2024 03:34:19 done in 4m 14s
+[  M3  ] Job finished at 02/07/2024 03:54:21 done in 9m 16s
+[  M2  ] Job finished at 02/07/2024 04:08:37 done in 8m 32s
+[  M1  ] Job finished at 02/07/2024 04:26:43 done in 11m 38s
+[  DEP  ] Job finished at 02/07/2024 04:35:17 done in 5m 13s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 02/07/2024 04:45:24 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 02/07/2024 04:45:52 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 02/07/2024 04:46:26 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 02/07/2024 04:46:46 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 02/07/2024 04:47:10 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 02/07/2024 04:47:36 done in 10s
+        [  REX -> VAR  ] Job (rex) finished at 02/07/2024 04:47:52 done in 3s
+        [  REX -> O1  ] Job (rex) finished at 02/07/2024 04:48:14 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 02/07/2024 04:48:37 done in 8s
+        [  REX -> ZPT  ] Job (rex) finished at 02/07/2024 04:48:54 done in 4s
+        [  REX -> ZFR  ] Job (rex) finished at 02/07/2024 04:49:13 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 02/07/2024 04:49:34 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 02/07/2024 04:49:53 done in 5s
+            <--- Subiendo xmls 02/07/2024 04:50 --->
+[  M3  ] Job finished at 02/07/2024 08:08:48 done in 7m 44s
+[  M2  ] Job finished at 02/07/2024 08:16:59 done in 4m 54s
+[  M1  ] Job finished at 02/07/2024 08:30:15 done in 7m 10s
+[  DEP  ] Job finished at 02/07/2024 08:37:40 done in 3m 34s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 02/07/2024 08:45:23 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 02/07/2024 08:45:52 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 02/07/2024 08:46:25 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 02/07/2024 08:46:45 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 02/07/2024 08:47:09 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 02/07/2024 08:47:35 done in 10s
+        [  REX -> VAR  ] Job (rex) finished at 02/07/2024 08:47:51 done in 3s
+        [  REX -> O1  ] Job (rex) finished at 02/07/2024 08:48:13 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 02/07/2024 08:48:35 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 02/07/2024 08:48:52 done in 4s
+        [  REX -> ZFR  ] Job (rex) finished at 02/07/2024 08:49:11 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 02/07/2024 08:49:32 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 02/07/2024 08:49:51 done in 5s
+            <--- Subiendo xmls 02/07/2024 08:49 --->
+    [  CLI  ] LaLiga TV BAR 4 · Job finished at 02/07/2024 10:25
+    [  CLI  ] Liga de campeones BAR · Job finished at 02/07/2024 10:25
+    [  CLI  ] Liga de campeones BAR 2 · Job finished at 02/07/2024 10:25
+    [  CLI  ] Liga de campeones BAR 3 · Job finished at 02/07/2024 10:25
+    [  CLI  ] Liga de campeones BAR 4 · Job finished at 02/07/2024 10:25
+    [  CLI  ] Liga de campeones BAR 5 · Job finished at 02/07/2024 10:25
+    [  CLI  ] Liga de campeones BAR 6 · Job finished at 02/07/2024 10:25
+    [  CLI  ] Liga de campeones BAR 7 · Job finished at 02/07/2024 10:25
+    [  CLI  ] Liga de campeones BAR 8 · Job finished at 02/07/2024 10:25
+    [  CLI  ] DAZN 1 BAR · Job finished at 02/07/2024 10:25
+    [  CLI  ] DAZN 2 BAR · Job finished at 02/07/2024 10:25
+    [  CLI  ] DAZN F1 BAR · Job finished at 02/07/2024 10:25
+    [  CLI  ] Ilorci · Job finished at 02/07/2024 10:25
+    [  CLI  ] VE · Job finished at 02/07/2024 10:25
+    [  CLI  ] Jamilena · Job finished at 02/07/2024 10:25
+    [  CLI  ] Lebrija TV · Job finished at 02/07/2024 10:25
+    [  CLI  ] Montilla TV · Job finished at 02/07/2024 10:25
+    [  CLI  ] Vivir Torredelcampo TV · Job finished at 02/07/2024 10:25
+    [  CLI  ] Vicomartele · Job finished at 02/07/2024 10:25
+    [  CLI  ] UcubiTV · Job finished at 02/07/2024 10:25
+    [  CLI  ] La Rambla TV · Job finished at 02/07/2024 10:25
+    [  CLI  ] ZIMAGEN TV · Job finished at 02/07/2024 10:25
+    [  CLI  ] Telepitu · Job finished at 02/07/2024 10:25
+    [  CLI  ] Tele Castro · Job finished at 02/07/2024 10:25
+    [  CLI  ] Moto ADV · Job finished at 02/07/2024 10:25
+    [  CLI  ] Torolé TV · Job finished at 02/07/2024 10:25
+    [  CLI  ] Iberalia pesca · Job finished at 02/07/2024 10:25
+    [  CLI  ] Iberalia caza · Job finished at 02/07/2024 10:26
+    [  CLI  ] Global Telenovelas · Job finished at 02/07/2024 10:26
+    [  CLI  ] Global Tendencias · Job finished at 02/07/2024 10:26
+    [  CLI  ] Fight Time · Job finished at 02/07/2024 10:26
+    [  CLI  ] DBike · Job finished at 02/07/2024 10:26
+    [  CLI  ] CyL7 · Job finished at 02/07/2024 10:26
+    [  CLI  ] CyL8 · Job finished at 02/07/2024 10:26
+    [  CLI  ] Náutica TV · Job finished at 02/07/2024 10:26
+    [  CLI  ] Madinfor TV · Job finished at 02/07/2024 10:26
+    [  CLI  ] Antena Motor · Job finished at 02/07/2024 10:26
+    [  CLI  ] Telecuervo · Job finished at 02/07/2024 10:26
+    [  CLI  ] Doce TV Mairena · Job finished at 02/07/2024 10:26
+    [  CLI  ] Atalaya · Job finished at 02/07/2024 10:26
+    [  CLI  ] Huelva TV · Job finished at 02/07/2024 10:27
+    [  CLI  ] Dhípica · Job finished at 02/07/2024 10:27
+    [  ZAP  ] REKTV · Job finished at 02/07/2024 10:27
+    [  ZAP  ] tlnovelas · Job finished at 02/07/2024 10:27
+    [  ZAP  ] PTV Malaga · Job finished at 02/07/2024 10:27
+    [  ZAP  ] PTV Cordoba · Job finished at 02/07/2024 10:27
+    [  ZAP  ] PTV Granada · Job finished at 02/07/2024 10:27
+    [  ZAP  ] PTV Sevilla · Job finished at 02/07/2024 10:27
+    [  ZAP  ] PTV Linares · Job finished at 02/07/2024 10:27
+    [  ZAP  ] PTV Almeria · Job finished at 02/07/2024 10:27
+    [  ZAP  ] DePelicula · Job finished at 02/07/2024 10:27
+    [  ZAP  ] DejateTV · Job finished at 02/07/2024 10:27
+    [  MAN  ] fef · Job finished at 02/07/2024 10:27
+    [  MAN  ] ligaf · Job finished at 02/07/2024 10:27
+    [  TIVI  ] Job finished at 02/07/2024 10:35
+[  O1  ] Job finished at 02/07/2024 11:17:26 done in 2m 21s
+[  O2  ] Job finished at 02/07/2024 11:33:01 done in 2m 56s
+[Warning ] error downloading page: Error while copying content to a stream.
+[  VAR  ---> Error] index subpage loop reached maximum number (4)
+[  VAR  ---> Error] see log file for details
+[Warning ] error downloading page: Error while copying content to a stream.
+[  VAR  ---> Error] Unable to update channel La 2 CAT
+[  VAR  ---> Error] Current culture: en-GB
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 02/07/2024 11:45:52
+[  VAR  ] Job finished at 02/07/2024 11:49:37 done in 4m 32s
+[  M3  ] Job finished at 02/07/2024 12:04:55 done in 3m 50s
+[  M2  ] Job finished at 02/07/2024 12:15:15 done in 3m 10s
+[  M1  ] Job finished at 02/07/2024 12:27:33 done in 4m 28s
+[  DEP  ] Job finished at 02/07/2024 12:37:19 done in 3m 14s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 02/07/2024 12:45:24 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 02/07/2024 12:45:53 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 02/07/2024 12:46:27 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 02/07/2024 12:46:47 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 02/07/2024 12:47:11 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 02/07/2024 12:47:37 done in 10s
+        [  REX -> VAR  ] Job (rex) finished at 02/07/2024 12:47:53 done in 3s
+        [  REX -> O1  ] Job (rex) finished at 02/07/2024 12:48:15 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 02/07/2024 12:48:37 done in 8s
+        [  REX -> ZPT  ] Job (rex) finished at 02/07/2024 12:48:54 done in 4s
+        [  REX -> ZFR  ] Job (rex) finished at 02/07/2024 12:49:14 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 02/07/2024 12:49:35 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 02/07/2024 12:49:53 done in 5s
+            <--- Subiendo xmls 02/07/2024 12:50 --->
+    [  CLI  ] LaLiga TV BAR 4 · Job finished at 02/07/2024 15:25
+    [  CLI  ] Liga de campeones BAR · Job finished at 02/07/2024 15:25
+    [  CLI  ] Liga de campeones BAR 2 · Job finished at 02/07/2024 15:25
+    [  CLI  ] Liga de campeones BAR 3 · Job finished at 02/07/2024 15:25
+    [  CLI  ] Liga de campeones BAR 4 · Job finished at 02/07/2024 15:25
+    [  CLI  ] Liga de campeones BAR 5 · Job finished at 02/07/2024 15:25
+    [  CLI  ] Liga de campeones BAR 6 · Job finished at 02/07/2024 15:25
+    [  CLI  ] Liga de campeones BAR 7 · Job finished at 02/07/2024 15:25
+    [  CLI  ] Liga de campeones BAR 8 · Job finished at 02/07/2024 15:25
+    [  CLI  ] DAZN 1 BAR · Job finished at 02/07/2024 15:25
+    [  CLI  ] DAZN 2 BAR · Job finished at 02/07/2024 15:25
+    [  CLI  ] DAZN F1 BAR · Job finished at 02/07/2024 15:25
+    [  CLI  ] Ilorci · Job finished at 02/07/2024 15:25
+    [  CLI  ] VE · Job finished at 02/07/2024 15:25
+    [  CLI  ] Jamilena · Job finished at 02/07/2024 15:25
+    [  CLI  ] Lebrija TV · Job finished at 02/07/2024 15:25
+    [  CLI  ] Montilla TV · Job finished at 02/07/2024 15:25
+    [  CLI  ] Vivir Torredelcampo TV · Job finished at 02/07/2024 15:25
+    [  CLI  ] Vicomartele · Job finished at 02/07/2024 15:25
+    [  CLI  ] UcubiTV · Job finished at 02/07/2024 15:25
+    [  CLI  ] La Rambla TV · Job finished at 02/07/2024 15:25
+    [  CLI  ] ZIMAGEN TV · Job finished at 02/07/2024 15:25
+    [  CLI  ] Telepitu · Job finished at 02/07/2024 15:25
+    [  CLI  ] Tele Castro · Job finished at 02/07/2024 15:25
+    [  CLI  ] Moto ADV · Job finished at 02/07/2024 15:25
+    [  CLI  ] Torolé TV · Job finished at 02/07/2024 15:25
+    [  CLI  ] Iberalia pesca · Job finished at 02/07/2024 15:25
+    [  CLI  ] Iberalia caza · Job finished at 02/07/2024 15:26
+    [  CLI  ] Global Telenovelas · Job finished at 02/07/2024 15:26
+    [  CLI  ] Global Tendencias · Job finished at 02/07/2024 15:26
+    [  CLI  ] Fight Time · Job finished at 02/07/2024 15:26
+    [  CLI  ] DBike · Job finished at 02/07/2024 15:26
+    [  CLI  ] CyL7 · Job finished at 02/07/2024 15:26
+    [  CLI  ] CyL8 · Job finished at 02/07/2024 15:26
+    [  CLI  ] Náutica TV · Job finished at 02/07/2024 15:26
+    [  CLI  ] Madinfor TV · Job finished at 02/07/2024 15:26
+    [  CLI  ] Antena Motor · Job finished at 02/07/2024 15:26
+    [  CLI  ] Telecuervo · Job finished at 02/07/2024 15:26
+    [  CLI  ] Doce TV Mairena · Job finished at 02/07/2024 15:26
+    [  CLI  ] Atalaya · Job finished at 02/07/2024 15:26
+    [  CLI  ] Huelva TV · Job finished at 02/07/2024 15:27
+    [  CLI  ] Dhípica · Job finished at 02/07/2024 15:27
+    [  ZAP  ] REKTV · Job finished at 02/07/2024 15:27
+    [  ZAP  ] tlnovelas · Job finished at 02/07/2024 15:27
+    [  ZAP  ] PTV Malaga · Job finished at 02/07/2024 15:27
+    [  ZAP  ] PTV Cordoba · Job finished at 02/07/2024 15:27
+    [  ZAP  ] PTV Granada · Job finished at 02/07/2024 15:27
+    [  ZAP  ] PTV Sevilla · Job finished at 02/07/2024 15:27
+    [  ZAP  ] PTV Linares · Job finished at 02/07/2024 15:27
+    [  ZAP  ] PTV Almeria · Job finished at 02/07/2024 15:27
+    [  ZAP  ] DePelicula · Job finished at 02/07/2024 15:27
+    [  ZAP  ] DejateTV · Job finished at 02/07/2024 15:27
+    [  MAN  ] fef · Job finished at 02/07/2024 15:27
+    [  MAN  ] ligaf · Job finished at 02/07/2024 15:27
+    [  TIVI  ] Job finished at 02/07/2024 15:35
+[  M3  ] Job finished at 02/07/2024 16:04:48 done in 3m 43s
+[  M2  ] Job finished at 02/07/2024 16:15:13 done in 3m 8s
+[  M1  ] Job finished at 02/07/2024 16:28:04 done in 5m 0s
+[  DEP  ] Job finished at 02/07/2024 16:37:26 done in 3m 22s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 02/07/2024 16:45:24 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 02/07/2024 16:45:53 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 02/07/2024 16:46:27 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 02/07/2024 16:46:47 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 02/07/2024 16:47:11 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 02/07/2024 16:47:37 done in 10s
+        [  REX -> VAR  ] Job (rex) finished at 02/07/2024 16:47:53 done in 3s
+        [  REX -> O1  ] Job (rex) finished at 02/07/2024 16:48:15 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 02/07/2024 16:48:37 done in 8s
+        [  REX -> ZPT  ] Job (rex) finished at 02/07/2024 16:48:54 done in 4s
+        [  REX -> ZFR  ] Job (rex) finished at 02/07/2024 16:49:14 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 02/07/2024 16:49:35 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 02/07/2024 16:49:54 done in 5s
+            <--- Subiendo xmls 02/07/2024 16:50 --->
