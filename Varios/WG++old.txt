@@ -1,0 +1,193 @@
+<--- INICIO --->
+[  ZPT  ] Job finished at 20/10/2024 01:06:31 done in 1m 26s
+[  ZFR  ] Job finished at 20/10/2024 01:21:25 done in 1m 20s
+[  ZDE  ] Job finished at 20/10/2024 01:36:40 done in 1m 36s
+[  ZUK  ] Job finished at 20/10/2024 01:50:39 done in 35s
+[  O1  ] Job finished at 20/10/2024 03:02:44 done in 2m 39s
+[  M3  ] Job finished at 20/10/2024 03:54:10 done in 9m 5s
+[  M2  ] Job finished at 20/10/2024 04:07:44 done in 7m 39s
+[  M1  ] Job finished at 20/10/2024 04:25:31 done in 10m 27s
+[  DEP  ---> Error] no shows in indexpage!
+[  DEP  ] Job finished at 20/10/2024 04:35:19 done in 5m 14s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/10/2024 04:45:23 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 20/10/2024 04:45:51 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 20/10/2024 04:46:25 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 20/10/2024 04:46:45 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 20/10/2024 04:47:08 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 20/10/2024 04:47:36 done in 11s
+        [  REX -> VAR  ] Job (rex) finished at 20/10/2024 04:48:00 done in 9s
+        [  REX -> O1  ] Job (rex) finished at 20/10/2024 04:48:22 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 20/10/2024 04:48:44 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/10/2024 04:49:02 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/10/2024 04:49:21 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 20/10/2024 04:49:42 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 20/10/2024 04:50:01 done in 5s
+            <--- Subiendo xmls 20/10/2024 04:50 --->
+[  VAR  ---> Error] Unable to update channel TVCi
+[  VAR  ---> Error] Current culture: en-GB
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 20/10/2024 07:46:27
+[  VAR  ] Job finished at 20/10/2024 07:50:03 done in 4m 58s
+[  M3  ] Job finished at 20/10/2024 08:04:55 done in 3m 50s
+[  M2  ] Job finished at 20/10/2024 08:14:52 done in 2m 46s
+[  M1  ] Job finished at 20/10/2024 08:27:17 done in 4m 13s
+[  DEP  ---> Error] no shows in indexpage!
+[  DEP  ] Job finished at 20/10/2024 08:37:00 done in 2m 56s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/10/2024 08:45:23 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 20/10/2024 08:45:51 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 20/10/2024 08:46:25 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 20/10/2024 08:46:46 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 20/10/2024 08:47:08 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 20/10/2024 08:47:36 done in 12s
+        [  REX -> VAR  ] Job (rex) finished at 20/10/2024 08:48:01 done in 9s
+        [  REX -> O1  ] Job (rex) finished at 20/10/2024 08:48:23 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 20/10/2024 08:48:45 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/10/2024 08:49:03 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/10/2024 08:49:23 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 20/10/2024 08:49:44 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 20/10/2024 08:50:03 done in 6s
+            <--- Subiendo xmls 20/10/2024 08:50 --->
+[  O1  ] Job finished at 20/10/2024 11:17:14 done in 2m 9s
+[  VAR  ---> Error] Unable to update channel TVCi
+[  VAR  ---> Error] Current culture: en-GB
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 20/10/2024 11:54:02
+[  VAR  ] Job finished at 20/10/2024 11:56:54 done in 3m 48s
+[  M3  ] Job finished at 20/10/2024 12:04:40 done in 3m 35s
+[  M2  ] Job finished at 20/10/2024 12:14:48 done in 2m 43s
+[  M1  ] Job finished at 20/10/2024 12:26:53 done in 3m 49s
+[  DEP  ---> Error] no shows in indexpage!
+[  DEP  ] Job finished at 20/10/2024 12:36:55 done in 2m 51s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/10/2024 12:45:22 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 20/10/2024 12:45:50 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 20/10/2024 12:46:23 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 20/10/2024 12:46:43 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 20/10/2024 12:47:05 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 20/10/2024 12:47:33 done in 11s
+        [  REX -> VAR  ] Job (rex) finished at 20/10/2024 12:47:57 done in 9s
+        [  REX -> O1  ] Job (rex) finished at 20/10/2024 12:48:19 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 20/10/2024 12:48:40 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/10/2024 12:48:58 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/10/2024 12:49:17 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 20/10/2024 12:49:38 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 20/10/2024 12:49:57 done in 5s
+            <--- Subiendo xmls 20/10/2024 12:50 --->
+    [  TIVI  ]  Job finished at 20/10/2024 15:35
+    [  BAR  ] LaLiga TV BAR 4 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 7 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 20/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 20/10/2024 15:45
+    [  BAR  ] GolStadium BAR · Job finished at 20/10/2024 15:45
+    [  BAR  ] DAZN F1 BAR · Job finished at 20/10/2024 15:45
+    [  BAR  ] DAZN 1 BAR · Job finished at 20/10/2024 15:45
+    [  BAR  ] DAZN 2 BAR · Job finished at 20/10/2024 15:45
+    [  CLI  ---> Error] Ilorci no existe o no tiene información (20/10/2024 15:45)
+    [  CLI  ] VE · Job finished at 20/10/2024 15:45
+    [  CLI  ---> Error] Jamilena no existe o no tiene información (20/10/2024 15:45)
+    [  CLI  ] Lebrija TV · Job finished at 20/10/2024 15:45
+    [  CLI  ] Montilla TV · Job finished at 20/10/2024 15:45
+    [  CLI  ] Vivir Torredelcampo TV · Job finished at 20/10/2024 15:45
+    [  CLI  ] Vicomartele · Job finished at 20/10/2024 15:45
+    [  CLI  ---> Error] UcubiTV no existe o no tiene información (20/10/2024 15:45)
+    [  CLI  ] La Rambla TV · Job finished at 20/10/2024 15:45
+    [  CLI  ] ZIMAGEN TV · Job finished at 20/10/2024 15:46
+    [  CLI  ] Telepitu · Job finished at 20/10/2024 15:46
+    [  CLI  ] Tele Castro · Job finished at 20/10/2024 15:46
+    [  CLI  ] Torolé TV · Job finished at 20/10/2024 15:46
+    [  CLI  ] Iberalia pesca · Job finished at 20/10/2024 15:46
+    [  CLI  ] Iberalia caza · Job finished at 20/10/2024 15:46
+    [  CLI  ] Global Telenovelas · Job finished at 20/10/2024 15:46
+    [  CLI  ] Global Tendencias · Job finished at 20/10/2024 15:47
+    [  CLI  ] Fight Time · Job finished at 20/10/2024 15:47
+    [  CLI  ---> Error] DBike no se pudo descargar, usando fichero anterior (17 Oct 15:47)
+    [  CLI  ] DBike · Job finished at 20/10/2024 15:47
+    [  CLI  ] La 8 CyL · Job finished at 20/10/2024 15:47
+    [  CLI  ] Náutica TV · Job finished at 20/10/2024 15:47
+    [  CLI  ] Madinfor TV · Job finished at 20/10/2024 15:47
+    [  CLI  ] Antena Motor · Job finished at 20/10/2024 15:48
+    [  CLI  ---> Error] Telecuervo no existe o no tiene información (20/10/2024 15:48)
+    [  CLI  ] Doce TV Mairena · Job finished at 20/10/2024 15:48
+    [  CLI  ] Atalaya · Job finished at 20/10/2024 15:48
+    [  CLI  ] Huelva TV · Job finished at 20/10/2024 15:48
+    [  CLI  ] Dhípica · Job finished at 20/10/2024 15:48
+    [  ZAP  ] REKTV · Job finished at 20/10/2024 15:48
+    [  ZAP  ] tlnovelas · Job finished at 20/10/2024 15:48
+    [  ZAP  ] PTV Malaga · Job finished at 20/10/2024 15:49
+    [  ZAP  ---> Error] PTV Cordoba no existe o no tiene información (20/10/2024 15:49)
+    [  ZAP  ] PTV Granada · Job finished at 20/10/2024 15:49
+    [  ZAP  ---> Error] PTV Sevilla no existe o no tiene información (20/10/2024 15:49)
+    [  ZAP  ] PTV Linares · Job finished at 20/10/2024 15:49
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (20/10/2024 15:49)
+    [  ZAP  ] DePelícula · Job finished at 20/10/2024 15:49
+    [  ZAP  ] DejateTV · Job finished at 20/10/2024 15:49
+    [  ZAP  ] VEO TV · Job finished at 20/10/2024 15:49
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 20/10/2024 15:49
+    [  LIGAF  ] Job finished at 20/10/2024 15:49
+[  M3  ] Job finished at 20/10/2024 16:04:54 done in 3m 49s
+[  M2  ] Job finished at 20/10/2024 16:14:57 done in 2m 52s
+[  M1  ] Job finished at 20/10/2024 16:26:56 done in 3m 51s
+[  DEP  ---> Error] no shows in indexpage!
+[  DEP  ] Job finished at 20/10/2024 16:36:55 done in 2m 50s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/10/2024 16:45:23 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 20/10/2024 16:45:51 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 20/10/2024 16:46:26 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 20/10/2024 16:46:46 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 20/10/2024 16:47:09 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 20/10/2024 16:47:37 done in 12s
+        [  REX -> VAR  ] Job (rex) finished at 20/10/2024 16:48:03 done in 9s
+        [  REX -> O1  ] Job (rex) finished at 20/10/2024 16:48:25 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 20/10/2024 16:48:47 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/10/2024 16:49:05 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/10/2024 16:49:25 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 20/10/2024 16:49:46 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 20/10/2024 16:50:05 done in 6s
+            <--- Subiendo xmls 20/10/2024 16:50 --->
+[  ZPT  ] Job finished at 20/10/2024 17:06:35 done in 1m 30s
+[  ZFR  ] Job finished at 20/10/2024 17:22:32 done in 2m 27s
+[  ZDE  ] Job finished at 20/10/2024 17:36:47 done in 1m 42s
+[  ZUK  ] Job finished at 20/10/2024 17:51:05 done in 1m 0s
+[  O1  ] Job finished at 20/10/2024 19:17:03 done in 1m 59s
+[  VAR  ---> Error] Unable to update channel TVCi
+[  VAR  ---> Error] Current culture: en-GB
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 20/10/2024 19:45:53
+[  VAR  ---> Error] error downloading page : TimeOut (10 sec)
+[  VAR  ---> Error] retry 1 of 2 times
+[  VAR  ] Job finished at 20/10/2024 19:49:09 done in 4m 3s
+[  M3  ] Job finished at 20/10/2024 20:04:39 done in 3m 34s
+[  M2  ] Job finished at 20/10/2024 20:14:44 done in 2m 39s
+[  M1  ] Job finished at 20/10/2024 20:26:54 done in 3m 48s
+[  DEP  ---> Error] no shows in indexpage!
+[  DEP  ] Job finished at 20/10/2024 20:36:59 done in 2m 54s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/10/2024 20:45:23 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 20/10/2024 20:45:51 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 20/10/2024 20:46:25 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 20/10/2024 20:46:47 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 20/10/2024 20:47:09 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 20/10/2024 20:47:37 done in 12s
+        [  REX -> VAR  ] Job (rex) finished at 20/10/2024 20:48:01 done in 9s
+        [  REX -> O1  ] Job (rex) finished at 20/10/2024 20:48:23 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 20/10/2024 20:48:45 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/10/2024 20:49:03 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/10/2024 20:49:23 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 20/10/2024 20:49:43 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 20/10/2024 20:50:02 done in 6s
+            <--- Subiendo xmls 20/10/2024 20:50 --->
+<---  FIN  --->
