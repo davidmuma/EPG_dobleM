@@ -1,0 +1,389 @@
+<--- INICIO --->
+[  ZPT  ] Job finished at 24/10/2024 01:06:31 done in 1m 26s
+[  ZDE  ] Job finished at 24/10/2024 01:36:32 done in 1m 27s
+[  ZUK  ] Job finished at 24/10/2024 01:50:38 done in 33s
+[  O1  ] Job finished at 24/10/2024 03:02:28 done in 2m 23s
+[  O2  ] Job finished at 24/10/2024 03:17:35 done in 2m 30s
+[  M3  ] Job finished at 24/10/2024 03:49:54 done in 4m 50s
+[  M2  ] Job finished at 24/10/2024 04:03:33 done in 3m 28s
+[  M1  ] Job finished at 24/10/2024 04:19:39 done in 4m 34s
+       <--- REX --->
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+        [  REX -> M1  ] Job (rex) finished at 24/10/2024 04:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2024 04:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2024 04:46:35 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2024 04:46:55 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2024 04:47:18 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 24/10/2024 04:47:48 done in 12s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2024 04:48:16 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2024 04:48:39 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2024 04:49:01 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2024 04:49:20 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2024 04:49:40 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2024 04:50:02 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2024 04:50:21 done in 5s
+            <--- Subiendo xmls 24/10/2024 04:50 --->
+[  VAR  ] Job finished at 24/10/2024 07:51:19 done in 6m 15s
+[  M3  ] Job finished at 24/10/2024 08:05:29 done in 4m 24s
+[  M2  ] Job finished at 24/10/2024 08:14:57 done in 2m 52s
+[  M1  ] Job finished at 24/10/2024 08:27:55 done in 4m 50s
+       <--- REX --->
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+        [  REX -> M1  ] Job (rex) finished at 24/10/2024 08:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2024 08:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2024 08:46:35 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2024 08:46:56 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2024 08:47:19 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 24/10/2024 08:47:49 done in 12s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2024 08:48:16 done in 9s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2024 08:48:39 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2024 08:49:02 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2024 08:49:21 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2024 08:49:41 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2024 08:50:03 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2024 08:50:23 done in 6s
+            <--- Subiendo xmls 24/10/2024 08:50 --->
+[  XJSON  ] Job finished at 24/10/2024 10:43:56 done in 1h 28m 50s
+[  O1  ] Job finished at 24/10/2024 11:17:28 done in 2m 23s
+[  O2  ] Job finished at 24/10/2024 11:32:34 done in 2m 29s
+[  VAR  ] Job finished at 24/10/2024 11:49:09 done in 4m 4s
+[  M3  ] Job finished at 24/10/2024 12:05:07 done in 4m 2s
+[  M2  ] Job finished at 24/10/2024 12:14:28 done in 2m 23s
+[  M1  ] Job finished at 24/10/2024 12:27:00 done in 3m 54s
+       <--- REX --->
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+        [  REX -> M1  ] Job (rex) finished at 24/10/2024 12:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2024 12:45:56 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2024 12:46:33 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2024 12:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2024 12:47:16 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 24/10/2024 12:47:46 done in 11s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2024 12:48:12 done in 9s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2024 12:48:35 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2024 12:48:57 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2024 12:49:16 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2024 12:49:36 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2024 12:49:57 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2024 12:50:17 done in 5s
+            <--- Subiendo xmls 24/10/2024 12:50 --->
+    [  TIVI  ]  Job finished at 24/10/2024 15:35
+    [  BAR  ] LaLiga TV BAR 4 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 7 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 24/10/2024 15:45
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 24/10/2024 15:45
+    [  BAR  ] GolStadium BAR · Job finished at 24/10/2024 15:45
+    [  BAR  ] DAZN F1 BAR · Job finished at 24/10/2024 15:45
+    [  BAR  ] DAZN 1 BAR · Job finished at 24/10/2024 15:45
+    [  BAR  ] DAZN 2 BAR · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Ilorci no se pudo descargar, usando fichero anterior (18 Oct 15:45)
+    [  CLI  ] Ilorci · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] VE no se pudo descargar, usando fichero anterior (20 Oct 15:45)
+    [  CLI  ] VE · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Jamilena no se pudo descargar, usando fichero anterior (18 Oct 15:45)
+    [  CLI  ] Jamilena · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Lebrija TV no se pudo descargar, usando fichero anterior (20 Oct 15:45)
+    [  CLI  ] Lebrija TV · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Montilla TV no se pudo descargar, usando fichero anterior (20 Oct 15:45)
+    [  CLI  ] Montilla TV · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Vivir Torredelcampo TV no se pudo descargar, usando fichero anterior (20 Oct 15:45)
+    [  CLI  ] Vivir Torredelcampo TV · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Vicomartele no se pudo descargar, usando fichero anterior (20 Oct 15:45)
+    [  CLI  ] Vicomartele · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] UcubiTV no se pudo descargar, usando fichero anterior (14 Oct 15:46)
+    [  CLI  ] UcubiTV · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] La Rambla TV no se pudo descargar, usando fichero anterior (20 Oct 15:46)
+    [  CLI  ] La Rambla TV · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] ZIMAGEN TV no se pudo descargar, usando fichero anterior (20 Oct 15:46)
+    [  CLI  ] ZIMAGEN TV · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Telepitu no se pudo descargar, usando fichero anterior (20 Oct 15:46)
+    [  CLI  ] Telepitu · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Tele Castro no se pudo descargar, usando fichero anterior (20 Oct 15:46)
+    [  CLI  ] Tele Castro · Job finished at 24/10/2024 15:45
+    [  CLI  ---> Error] Torolé TV no se pudo descargar, usando fichero anterior (20 Oct 15:46)
+    [  CLI  ] Torolé TV · Job finished at 24/10/2024 15:46
+    [  CLI  ---> Error] Iberalia pesca no se pudo descargar, usando fichero anterior (20 Oct 15:46)
+    [  CLI  ] Iberalia pesca · Job finished at 24/10/2024 15:46
+    [  CLI  ---> Error] Iberalia caza no se pudo descargar, usando fichero anterior (20 Oct 15:46)
+    [  CLI  ] Iberalia caza · Job finished at 24/10/2024 15:46
+    [  CLI  ---> Error] Global Telenovelas no se pudo descargar, usando fichero anterior (20 Oct 15:47)
+    [  CLI  ] Global Telenovelas · Job finished at 24/10/2024 15:46
+    [  CLI  ---> Error] Global Tendencias no se pudo descargar, usando fichero anterior (20 Oct 15:47)
+    [  CLI  ] Global Tendencias · Job finished at 24/10/2024 15:46
+    [  CLI  ---> Error] Fight Time no se pudo descargar, usando fichero anterior (20 Oct 15:47)
+    [  CLI  ] Fight Time · Job finished at 24/10/2024 15:46
+    [  CLI  ---> Error] DBike no se pudo descargar, usando fichero anterior (17 Oct 15:47)
+    [  CLI  ] DBike · Job finished at 24/10/2024 15:46
+    [  CLI  ---> Error] La 8 CyL no se pudo descargar, usando fichero anterior (20 Oct 15:47)
+    [  CLI  ] La 8 CyL · Job finished at 24/10/2024 15:46
+    [  CLI  ---> Error] Náutica TV no se pudo descargar, usando fichero anterior (20 Oct 15:47)
+    [  CLI  ] Náutica TV · Job finished at 24/10/2024 15:47
+    [  CLI  ---> Error] Madinfor TV no se pudo descargar, usando fichero anterior (20 Oct 15:48)
+    [  CLI  ] Madinfor TV · Job finished at 24/10/2024 15:47
+    [  CLI  ---> Error] Antena Motor no se pudo descargar, usando fichero anterior (20 Oct 15:48)
+    [  CLI  ] Antena Motor · Job finished at 24/10/2024 15:47
+    [  CLI  ---> Error] Telecuervo no se pudo descargar, usando fichero anterior (7 Oct 15:48)
+    [  CLI  ] Telecuervo · Job finished at 24/10/2024 15:47
+    [  CLI  ---> Error] Doce TV Mairena no se pudo descargar, usando fichero anterior (20 Oct 15:48)
+    [  CLI  ] Doce TV Mairena · Job finished at 24/10/2024 15:47
+    [  CLI  ---> Error] Atalaya no se pudo descargar, usando fichero anterior (20 Oct 15:48)
+    [  CLI  ] Atalaya · Job finished at 24/10/2024 15:47
+    [  CLI  ---> Error] Huelva TV no se pudo descargar, usando fichero anterior (20 Oct 15:48)
+    [  CLI  ] Huelva TV · Job finished at 24/10/2024 15:47
+    [  CLI  ---> Error] Dhípica no se pudo descargar, usando fichero anterior (20 Oct 15:48)
+    [  CLI  ] Dhípica · Job finished at 24/10/2024 15:47
+    [  ZAP  ---> Error] REKTV no se pudo descargar, usando fichero anterior (20 Oct 15:48)
+    [  ZAP  ] REKTV · Job finished at 24/10/2024 15:47
+    [  ZAP  ---> Error] tlnovelas no se pudo descargar, usando fichero anterior (20 Oct 15:49)
+    [  ZAP  ] tlnovelas · Job finished at 24/10/2024 15:47
+    [  ZAP  ---> Error] PTV Malaga no se pudo descargar, usando fichero anterior (20 Oct 15:49)
+    [  ZAP  ] PTV Malaga · Job finished at 24/10/2024 15:47
+    [  ZAP  ---> Error] PTV Cordoba no se pudo descargar, usando fichero anterior (19 Oct 15:49)
+    [  ZAP  ] PTV Cordoba · Job finished at 24/10/2024 15:48
+    [  ZAP  ---> Error] PTV Granada no se pudo descargar, usando fichero anterior (20 Oct 15:49)
+    [  ZAP  ] PTV Granada · Job finished at 24/10/2024 15:48
+    [  ZAP  ---> Error] PTV Sevilla no se pudo descargar, usando fichero anterior (18 Oct 15:50)
+    [  ZAP  ] PTV Sevilla · Job finished at 24/10/2024 15:48
+    [  ZAP  ---> Error] PTV Linares no se pudo descargar, usando fichero anterior (20 Oct 15:49)
+    [  ZAP  ] PTV Linares · Job finished at 24/10/2024 15:48
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (24/10/2024 15:48)
+    [  ZAP  ---> Error] DePelícula no se pudo descargar, usando fichero anterior (20 Oct 15:49)
+    [  ZAP  ] DePelícula · Job finished at 24/10/2024 15:48
+    [  ZAP  ---> Error] DejateTV no se pudo descargar, usando fichero anterior (20 Oct 15:49)
+    [  ZAP  ] DejateTV · Job finished at 24/10/2024 15:48
+    [  ZAP  ---> Error] VEO TV no se pudo descargar, usando fichero anterior (20 Oct 15:49)
+    [  ZAP  ] VEO TV · Job finished at 24/10/2024 15:48
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 24/10/2024 15:48
+    [  LIGAF  ] Job finished at 24/10/2024 15:48
+[  M3  ] Job finished at 24/10/2024 16:05:26 done in 4m 22s
+[  M2  ] Job finished at 24/10/2024 16:14:38 done in 2m 33s
+[  M1  ] Job finished at 24/10/2024 16:26:53 done in 3m 48s
+       <--- REX --->
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+        [  REX -> M1  ] Job (rex) finished at 24/10/2024 16:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2024 16:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2024 16:46:34 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2024 16:46:54 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2024 16:47:17 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 24/10/2024 16:47:48 done in 12s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2024 16:48:14 done in 9s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2024 16:48:37 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2024 16:48:59 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2024 16:49:18 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2024 16:49:38 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2024 16:49:59 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2024 16:50:19 done in 5s
+            <--- Subiendo xmls 24/10/2024 16:50 --->
+[  ZPT  ] Job finished at 24/10/2024 17:06:36 done in 1m 31s
+[  ZFR  ] Job finished at 24/10/2024 17:23:24 done in 3m 19s
+[  ZDE  ] Job finished at 24/10/2024 17:36:58 done in 1m 53s
+[  ZUK  ] Job finished at 24/10/2024 17:51:12 done in 1m 7s
+[  O1  ] Job finished at 24/10/2024 19:17:00 done in 1m 55s
+[  O2  ] Job finished at 24/10/2024 19:32:12 done in 2m 7s
+[  VAR  ] Job finished at 24/10/2024 19:49:46 done in 4m 42s
+[  M3  ] Job finished at 24/10/2024 20:05:11 done in 4m 6s
+[  M2  ] Job finished at 24/10/2024 20:14:35 done in 2m 30s
+[  M1  ] Job finished at 24/10/2024 20:27:27 done in 4m 23s
+       <--- REX --->
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (40 sec)
+[  DEP  ---> Error] retry 2 of 2 times
+        [  REX -> M1  ] Job (rex) finished at 24/10/2024 20:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2024 20:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2024 20:46:34 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2024 20:46:55 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2024 20:47:18 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 24/10/2024 20:47:49 done in 12s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2024 20:48:15 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2024 20:48:39 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2024 20:49:01 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2024 20:49:20 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2024 20:49:40 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2024 20:50:02 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2024 20:50:22 done in 5s
+            <--- Subiendo xmls 24/10/2024 20:50 --->
