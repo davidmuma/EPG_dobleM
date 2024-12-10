@@ -1,0 +1,23 @@
+<--- INICIO --->
+[  O1  ] Job finished at 10/12/2024 03:03:01 done in 2m 56s
+[  O2  ] Job finished at 10/12/2024 03:17:40 done in 2m 35s
+[  M3  ] Job finished at 10/12/2024 03:52:15 done in 7m 10s
+[  M2  ] Job finished at 10/12/2024 04:05:40 done in 5m 36s
+[  M1  ] Job finished at 10/12/2024 04:21:14 done in 6m 10s
+[  DEP  ] Job finished at 10/12/2024 04:32:35 done in 2m 30s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 10/12/2024 04:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 10/12/2024 04:45:59 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 10/12/2024 04:46:37 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 10/12/2024 04:46:57 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 10/12/2024 04:47:19 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 10/12/2024 04:47:49 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 10/12/2024 04:48:12 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 10/12/2024 04:48:34 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 10/12/2024 04:49:07 done in 12s
+        [  REX -> ZVAR  ] Job (rex) finished at 10/12/2024 04:49:28 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 10/12/2024 04:49:47 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 10/12/2024 04:50:09 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 10/12/2024 04:50:32 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 10/12/2024 04:50:52 done in 6s
+            <--- Subiendo xmls 10/12/2024 04:51 --->
