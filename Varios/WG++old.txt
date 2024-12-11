@@ -1,0 +1,269 @@
+<--- INICIO --->
+[  O1  ] Job finished at 10/12/2024 03:03:01 done in 2m 56s
+[  O2  ] Job finished at 10/12/2024 03:17:40 done in 2m 35s
+[  M3  ] Job finished at 10/12/2024 03:52:15 done in 7m 10s
+[  M2  ] Job finished at 10/12/2024 04:05:40 done in 5m 36s
+[  M1  ] Job finished at 10/12/2024 04:21:14 done in 6m 10s
+[  DEP  ] Job finished at 10/12/2024 04:32:35 done in 2m 30s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 10/12/2024 04:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 10/12/2024 04:45:59 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 10/12/2024 04:46:37 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 10/12/2024 04:46:57 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 10/12/2024 04:47:19 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 10/12/2024 04:47:49 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 10/12/2024 04:48:12 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 10/12/2024 04:48:34 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 10/12/2024 04:49:07 done in 12s
+        [  REX -> ZVAR  ] Job (rex) finished at 10/12/2024 04:49:28 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 10/12/2024 04:49:47 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 10/12/2024 04:50:09 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 10/12/2024 04:50:32 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 10/12/2024 04:50:52 done in 6s
+            <--- Subiendo xmls 10/12/2024 04:51 --->
+[  ZPT  ] Job finished at 10/12/2024 07:11:20 done in 1m 15s
+[  ZFR  ] Job finished at 10/12/2024 07:21:05 done in 3m 0s
+[  ZDE  ] Job finished at 10/12/2024 07:27:58 done in 1m 53s
+[  ZUK  ] Job finished at 10/12/2024 07:34:51 done in 46s
+[  ZVAR  ] Job finished at 10/12/2024 07:46:24 done in 4m 20s
+[  VAR  ] Job finished at 10/12/2024 07:58:14 done in 8m 8s
+[  M3  ] Job finished at 10/12/2024 08:08:16 done in 7m 11s
+[  M2  ] Job finished at 10/12/2024 08:17:05 done in 5m 0s
+[  M1  ] Job finished at 10/12/2024 08:30:04 done in 6m 59s
+[  DEP  ] Job finished at 10/12/2024 08:36:48 done in 2m 43s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 10/12/2024 08:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 10/12/2024 08:45:58 done in 11s
+        [  REX -> DEP  ] Job (rex) finished at 10/12/2024 08:46:36 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 10/12/2024 08:46:57 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 10/12/2024 08:47:26 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 10/12/2024 08:47:49 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 10/12/2024 08:48:11 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 10/12/2024 08:48:44 done in 12s
+        [  REX -> ZVAR  ] Job (rex) finished at 10/12/2024 08:49:04 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 10/12/2024 08:49:24 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 10/12/2024 08:49:44 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 10/12/2024 08:50:06 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 10/12/2024 08:50:26 done in 6s
+            <--- Subiendo xmls 10/12/2024 08:50 --->
+[  O1  ] Job finished at 10/12/2024 11:12:33 done in 2m 29s
+[  O2  ] Job finished at 10/12/2024 11:32:24 done in 2m 19s
+[  VAR  ] Job finished at 10/12/2024 11:46:35 done in 6m 31s
+[  M3  ] Job finished at 10/12/2024 12:07:50 done in 6m 45s
+[  M2  ] Job finished at 10/12/2024 12:16:52 done in 4m 47s
+[  M1  ] Job finished at 10/12/2024 12:29:10 done in 6m 6s
+[  DEP  ] Job finished at 10/12/2024 12:36:41 done in 2m 36s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 10/12/2024 12:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 10/12/2024 12:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 10/12/2024 12:46:36 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 10/12/2024 12:46:57 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 10/12/2024 12:47:18 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 10/12/2024 12:47:47 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 10/12/2024 12:48:11 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 10/12/2024 12:48:33 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 10/12/2024 12:49:05 done in 12s
+        [  REX -> ZVAR  ] Job (rex) finished at 10/12/2024 12:49:26 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 10/12/2024 12:49:46 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 10/12/2024 12:50:06 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 10/12/2024 12:50:28 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 10/12/2024 12:50:48 done in 5s
+            <--- Subiendo xmls 10/12/2024 12:50 --->
+    [  TIVI  ]  Job finished at 10/12/2024 15:30
+    [  BAR  ---> Error] LaLiga TV BAR 4 no existe o no tiene información (10/12/2024 15:40)
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 7 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 10/12/2024 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 10/12/2024 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 10/12/2024 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 10/12/2024 15:40
+    [  BAR  ---> Error] DAZN 1 BAR no existe o no tiene información (10/12/2024 15:40)
+    [  BAR  ---> Error] DAZN 2 BAR no existe o no tiene información (10/12/2024 15:40)
+    [  CLI  ] Torolé TV · Job finished at 10/12/2024 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 10/12/2024 15:40
+    [  CLI  ] Iberalia caza · Job finished at 10/12/2024 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 10/12/2024 15:40
+    [  CLI  ] Global Tendencias · Job finished at 10/12/2024 15:40
+    [  CLI  ] Fight Time · Job finished at 10/12/2024 15:41
+    [  CLI  ] DBike · Job finished at 10/12/2024 15:41
+    [  CLI  ] La 8 CyL · Job finished at 10/12/2024 15:41
+    [  CLI  ] Náutica TV · Job finished at 10/12/2024 15:41
+    [  CLI  ] Antena Motor · Job finished at 10/12/2024 15:41
+    [  CLI  ] Dhípica · Job finished at 10/12/2024 15:41
+    [  ZAP  ] REKTV · Job finished at 10/12/2024 15:42
+    [  ZAP  ] tlnovelas · Job finished at 10/12/2024 15:42
+    [  ZAP  ] DePelícula · Job finished at 10/12/2024 15:42
+    [  ZAP  ] DejateTV · Job finished at 10/12/2024 15:42
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 10/12/2024 15:42
+    [  LIGAF  ] Job finished at 10/12/2024 15:42
+[  M3  ] Job finished at 10/12/2024 16:07:30 done in 6m 25s
+[  M2  ] Job finished at 10/12/2024 16:16:54 done in 4m 49s
+[  M1  ] Job finished at 10/12/2024 16:29:07 done in 6m 3s
+[  DEP  ] Job finished at 10/12/2024 16:36:53 done in 2m 48s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 10/12/2024 16:45:27 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 10/12/2024 16:45:59 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 10/12/2024 16:46:38 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 10/12/2024 16:46:59 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 10/12/2024 16:47:20 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 10/12/2024 16:47:50 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 10/12/2024 16:48:13 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 10/12/2024 16:48:35 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 10/12/2024 16:49:08 done in 12s
+        [  REX -> ZVAR  ] Job (rex) finished at 10/12/2024 16:49:29 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 10/12/2024 16:49:48 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 10/12/2024 16:50:09 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 10/12/2024 16:50:31 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 10/12/2024 16:50:51 done in 5s
+            <--- Subiendo xmls 10/12/2024 16:50 --->
+[  ZPT  ] Job finished at 10/12/2024 18:11:11 done in 1m 6s
+[  ZFR  ] Job finished at 10/12/2024 18:19:42 done in 1m 38s
+[  ZDE  ] Job finished at 10/12/2024 18:28:00 done in 1m 55s
+[  ZUK  ] Job finished at 10/12/2024 18:34:43 done in 37s
+[  ZVAR  ] Job finished at 10/12/2024 18:43:54 done in 1m 50s
+[  O1  ] Job finished at 10/12/2024 19:17:00 done in 1m 55s
+[  O2  ] Job finished at 10/12/2024 19:32:05 done in 2m 0s
+[  VAR  ] Job finished at 10/12/2024 19:53:10 done in 8m 5s
+[  M3  ---> Error] Unable to update channel Navarra TV
+[  M3  ---> Error] no index page data received from Navarra TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel CMM TV
+[  M3  ---> Error] no index page data received from CMM TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel La 7 CyL
+[  M3  ---> Error] no index page data received from La 7 CyL
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TV3
+[  M3  ---> Error] no index page data received from TV3
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Canal Sur HD
+[  M3  ---> Error] no index page data received from Canal Sur HD
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Sundance TV
+[  M3  ---> Error] no index page data received from Sundance TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel EuroNews
+[  M3  ---> Error] no index page data received from EuroNews
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Nuestra Tele Internacional
+[  M3  ---> Error] no index page data received from Nuestra Tele Internacional
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel EWTN
+[  M3  ---> Error] no index page data received from EWTN
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Telemadrid Internacional
+[  M3  ---> Error] no index page data received from Telemadrid Internacional
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ] Job finished at 10/12/2024 20:08:27 done in 7m 22s
+[  M2  ---> Error] Unable to update channel Baby TV
+[  M2  ---> Error] no index page data received from Baby TV
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Nick JR
+[  M2  ---> Error] no index page data received from Nick JR
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Dreamworks HD
+[  M2  ---> Error] no index page data received from Dreamworks HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Al Jazeera English HD
+[  M2  ---> Error] no index page data received from Al Jazeera English HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel TV5 Monde Europe HD
+[  M2  ---> Error] no index page data received from TV5 Monde Europe HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Bloomberg TV Europe
+[  M2  ---> Error] no index page data received from Bloomberg TV Europe
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Cubavisión Internacional HD
+[  M2  ---> Error] no index page data received from Cubavisión Internacional HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Canal Extremadura SAT
+[  M2  ---> Error] no index page data received from Canal Extremadura SAT
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Aragón TV Internacional
+[  M2  ---> Error] no index page data received from Aragón TV Internacional
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ] Job finished at 10/12/2024 20:16:46 done in 4m 41s
+[  M1  ---> Error] Unable to update channel M+ BBC Earth
+[  M1  ---> Error] no index page data received from M+ BBC Earth
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ PopUp
+[  M1  ---> Error] no index page data received from M+ PopUp
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Paramount Network
+[  M1  ---> Error] no index page data received from Paramount Network
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Be Mad
+[  M1  ---> Error] no index page data received from Be Mad
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Nat Geo Wild HD
+[  M1  ---> Error] no index page data received from Nat Geo Wild HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Decasa
+[  M1  ---> Error] no index page data received from Decasa
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Nova
+[  M1  ---> Error] no index page data received from Nova
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ] Job finished at 10/12/2024 20:29:33 done in 6m 28s
+[  DEP  ---> Error] Unable to update channel M+ Copa del Rey
+[  DEP  ---> Error] no index page data received from M+ Copa del Rey
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV Hypermotion 2
+[  DEP  ---> Error] no index page data received from LaLiga TV Hypermotion 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 2 HD
+[  DEP  ---> Error] no index page data received from M+ Deportes 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Ellas Vamos HD
+[  DEP  ---> Error] no index page data received from M+ Ellas Vamos HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Golf HD
+[  DEP  ---> Error] no index page data received from M+ Golf HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 12
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 12
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 13
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 13
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 4
+[  DEP  ---> Error] no index page data received from M+ Deportes 4
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 5
+[  DEP  ---> Error] no index page data received from M+ Deportes 5
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 6
+[  DEP  ---> Error] no index page data received from M+ Deportes 6
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 7
+[  DEP  ---> Error] no index page data received from M+ Deportes 7
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Vamos BAR 2
+[  DEP  ---> Error] no index page data received from Vamos BAR 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ] Job finished at 10/12/2024 20:37:24 done in 3m 19s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 10/12/2024 20:45:27 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 10/12/2024 20:46:00 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 10/12/2024 20:46:38 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 10/12/2024 20:46:59 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 10/12/2024 20:47:21 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 10/12/2024 20:47:51 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 10/12/2024 20:48:15 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 10/12/2024 20:48:38 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 10/12/2024 20:49:11 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 10/12/2024 20:49:32 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 10/12/2024 20:49:52 done in 6s
+        [  REX -> ZFR  ] Job (rex) finished at 10/12/2024 20:50:12 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 10/12/2024 20:50:35 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 10/12/2024 20:50:55 done in 6s
+            <--- Subiendo xmls 10/12/2024 20:51 --->
+<---  FIN  --->

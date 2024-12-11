@@ -1,0 +1,817 @@
+<--- INICIO --->
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel ETB4
+[  O1  ---> Error] no index page data received from ETB4
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel TPA7 Asturias
+[  O1  ---> Error] no index page data received from TPA7 Asturias
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel TPA8 Asturias
+[  O1  ---> Error] no index page data received from TPA8 Asturias
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Navarra TV2
+[  O1  ---> Error] no index page data received from Navarra TV2
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel La 8 Valladolid
+[  O1  ---> Error] no index page data received from La 8 Valladolid
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel 8madrid TV
+[  O1  ---> Error] no index page data received from 8madrid TV
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Barcelona TV
+[  O1  ---> Error] no index page data received from Barcelona TV
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel TVR Rioja
+[  O1  ---> Error] no index page data received from TVR Rioja
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel TeleVigo
+[  O1  ---> Error] no index page data received from TeleVigo
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Canal Sur 2
+[  O1  ---> Error] no index page data received from Canal Sur 2
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel 7TV Andalucía
+[  O1  ---> Error] no index page data received from 7TV Andalucía
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel TV de Castelló
+[  O1  ---> Error] no index page data received from TV de Castelló
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Levante TV
+[  O1  ---> Error] no index page data received from Levante TV
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Canal 4 Tenerife
+[  O1  ---> Error] no index page data received from Canal 4 Tenerife
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel TV Ceuta
+[  O1  ---> Error] no index page data received from TV Ceuta
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Festival 4K
+[  O1  ---> Error] no index page data received from Festival 4K
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel HIT TV
+[  O1  ---> Error] no index page data received from HIT TV
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel SELEKT
+[  O1  ---> Error] no index page data received from SELEKT
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] Unable to update channel Runtime Thriller-Terror
+[  O1  ---> Error] no index page data received from Runtime Thriller-Terror
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Runtime Comedia
+[  O1  ---> Error] no index page data received from Runtime Comedia
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Runtime Cine y Series
+[  O1  ---> Error] no index page data received from Runtime Cine y Series
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Runtime Series
+[  O1  ---> Error] no index page data received from Runtime Series
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Runtime Acción
+[  O1  ---> Error] no index page data received from Runtime Acción
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Runtime Crimen
+[  O1  ---> Error] no index page data received from Runtime Crimen
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Runtime Romance
+[  O1  ---> Error] no index page data received from Runtime Romance
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Cines Verdi TV
+[  O1  ---> Error] no index page data received from Cines Verdi TV
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Cine Feel Good
+[  O1  ---> Error] no index page data received from Cine Feel Good
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel NatureTime
+[  O1  ---> Error] no index page data received from NatureTime
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Toon Goggles
+[  O1  ---> Error] no index page data received from Toon Goggles
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Gametoon
+[  O1  ---> Error] no index page data received from Gametoon
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Myzen TV
+[  O1  ---> Error] no index page data received from Myzen TV
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel OUTtv
+[  O1  ---> Error] no index page data received from OUTtv
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Vivir con gatos
+[  O1  ---> Error] no index page data received from Vivir con gatos
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Vivir con perros
+[  O1  ---> Error] no index page data received from Vivir con perros
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Sangre Fría
+[  O1  ---> Error] no index page data received from Sangre Fría
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel Moto ADV
+[  O1  ---> Error] no index page data received from Moto ADV
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ] Job finished at 11/12/2024 03:03:31 done in 3m 26s
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel TRACE Sports Stars
+[  O2  ---> Error] no index page data received from TRACE Sports Stars
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Betis TV
+[  O2  ---> Error] no index page data received from Betis TV
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Sevilla FC Televisión
+[  O2  ---> Error] no index page data received from Sevilla FC Televisión
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Fast&FunBox
+[  O2  ---> Error] no index page data received from Fast&FunBox
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel FightSports
+[  O2  ---> Error] no index page data received from FightSports
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Fight Box HD
+[  O2  ---> Error] no index page data received from Fight Box HD
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Surf Channel
+[  O2  ---> Error] no index page data received from Surf Channel
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Motorvision
+[  O2  ---> Error] no index page data received from Motorvision
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel MTV Live
+[  O2  ---> Error] no index page data received from MTV Live
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel QWest Mix
+[  O2  ---> Error] no index page data received from QWest Mix
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Sol Música
+[  O2  ---> Error] no index page data received from Sol Música
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel TRACE Latina
+[  O2  ---> Error] no index page data received from TRACE Latina
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel TRACE Urban
+[  O2  ---> Error] no index page data received from TRACE Urban
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel iConcerts
+[  O2  ---> Error] no index page data received from iConcerts
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Djazz
+[  O2  ---> Error] no index page data received from Djazz
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Cazavisión
+[  O2  ---> Error] no index page data received from Cazavisión
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel TR3CE
+[  O2  ---> Error] no index page data received from TR3CE
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Deutsche W
+[  O2  ---> Error] no index page data received from Deutsche W
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Pro TV
+[  O2  ---> Error] no index page data received from Pro TV
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Caracol TV
+[  O2  ---> Error] no index page data received from Caracol TV
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel France 2
+[  O2  ---> Error] no index page data received from France 2
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel France 5
+[  O2  ---> Error] no index page data received from France 5
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel M6
+[  O2  ---> Error] no index page data received from M6
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Gulli
+[  O2  ---> Error] no index page data received from Gulli
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Nautical Channel
+[  O2  ---> Error] no index page data received from Nautical Channel
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Tennis Channel
+[  O2  ---> Error] no index page data received from Tennis Channel
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ] Job finished at 11/12/2024 03:17:35 done in 2m 31s
+[  M3  ---> Error] Unable to update channel À Punt
+[  M3  ---> Error] no index page data received from À Punt
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Aragón TV
+[  M3  ---> Error] no index page data received from Aragón TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Navarra TV
+[  M3  ---> Error] no index page data received from Navarra TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TPA Asturias
+[  M3  ---> Error] no index page data received from TPA Asturias
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel CMM TV
+[  M3  ---> Error] no index page data received from CMM TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel La 7 CyL
+[  M3  ---> Error] no index page data received from La 7 CyL
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel ETB1
+[  M3  ---> Error] no index page data received from ETB1
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel ETB2
+[  M3  ---> Error] no index page data received from ETB2
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TVG
+[  M3  ---> Error] no index page data received from TVG
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TVG2
+[  M3  ---> Error] no index page data received from TVG2
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Canal Extremadura
+[  M3  ---> Error] no index page data received from Canal Extremadura
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Telemadrid
+[  M3  ---> Error] no index page data received from Telemadrid
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel La Otra
+[  M3  ---> Error] no index page data received from La Otra
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TV3
+[  M3  ---> Error] no index page data received from TV3
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel La 7 Murcia
+[  M3  ---> Error] no index page data received from La 7 Murcia
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Canal Sur HD
+[  M3  ---> Error] no index page data received from Canal Sur HD
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel La Ocho Mediterráneo
+[  M3  ---> Error] no index page data received from La Ocho Mediterráneo
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel IB3 TV Illes Balears
+[  M3  ---> Error] no index page data received from IB3 TV Illes Balears
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Max Avances
+[  M3  ---> Error] no index page data received from Max Avances
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel SkyShowtime
+[  M3  ---> Error] no index page data received from SkyShowtime
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel XTRM
+[  M3  ---> Error] no index page data received from XTRM
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] Unable to update channel Sundance TV
+[  M3  ---> Error] no index page data received from Sundance TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] Unable to update channel DARK
+[  M3  ---> Error] no index page data received from DARK
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] Unable to update channel Somos
+[  M3  ---> Error] no index page data received from Somos
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] Unable to update channel AMC HD
+[  M3  ---> Error] no index page data received from AMC HD
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TRECE
+[  M3  ---> Error] no index page data received from TRECE
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Real Madrid TV
+[  M3  ---> Error] no index page data received from Real Madrid TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Garage TV
+[  M3  ---> Error] no index page data received from Garage TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel UBEAT
+[  M3  ---> Error] no index page data received from UBEAT
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Odisea
+[  M3  ---> Error] no index page data received from Odisea
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel AMC Break
+[  M3  ---> Error] no index page data received from AMC Break
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] Unable to update channel AMC Crime
+[  M3  ---> Error] no index page data received from AMC Crime
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] Unable to update channel BuenViaje
+[  M3  ---> Error] no index page data received from BuenViaje
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Mega
+[  M3  ---> Error] no index page data received from Mega
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Ten
+[  M3  ---> Error] no index page data received from Ten
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel ETB3
+[  M3  ---> Error] no index page data received from ETB3
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel EuroNews
+[  M3  ---> Error] no index page data received from EuroNews
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel El Toro TV
+[  M3  ---> Error] no index page data received from El Toro TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Negocios TV
+[  M3  ---> Error] no index page data received from Negocios TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel CGTN Español
+[  M3  ---> Error] no index page data received from CGTN Español
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel CGTN Documentary
+[  M3  ---> Error] no index page data received from CGTN Documentary
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Canal de las Estrellas
+[  M3  ---> Error] no index page data received from Canal de las Estrellas
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TV Chile
+[  M3  ---> Error] no index page data received from TV Chile
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Nuestra Tele Internacional
+[  M3  ---> Error] no index page data received from Nuestra Tele Internacional
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel EWTN
+[  M3  ---> Error] no index page data received from EWTN
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] Unable to update channel EITB Basque
+[  M3  ---> Error] no index page data received from EITB Basque
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Telemadrid Internacional
+[  M3  ---> Error] no index page data received from Telemadrid Internacional
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel SX3
+[  M3  ---> Error] no index page data received from SX3
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Esport 3
+[  M3  ---> Error] no index page data received from Esport 3
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Canal Fútbol Replay
+[  M3  ---> Error] no index page data received from Canal Fútbol Replay
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ] Job finished at 11/12/2024 03:52:21 done in 7m 16s
+[  M2  ---> Error] Unable to update channel Baby TV
+[  M2  ---> Error] no index page data received from Baby TV
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Disney Junior
+[  M2  ---> Error] no index page data received from Disney Junior
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Nick JR
+[  M2  ---> Error] no index page data received from Nick JR
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] error downloading page : TimeOut (20 sec)
+[  M2  ---> Error] retry 1 of 2 times
+[  M2  ---> Error] Unable to update channel Nickelodeon HD
+[  M2  ---> Error] no index page data received from Nickelodeon HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Dreamworks HD
+[  M2  ---> Error] no index page data received from Dreamworks HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Disney Channel HD
+[  M2  ---> Error] no index page data received from Disney Channel HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] error downloading page : TimeOut (20 sec)
+[  M2  ---> Error] retry 1 of 2 times
+[  M2  ---> Error] Unable to update channel Boing
+[  M2  ---> Error] no index page data received from Boing
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Clan
+[  M2  ---> Error] no index page data received from Clan
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel MTV 00s
+[  M2  ---> Error] no index page data received from MTV 00s
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] error downloading page : TimeOut (20 sec)
+[  M2  ---> Error] retry 1 of 2 times
+[  M2  ---> Error] error downloading page : TimeOut (40 sec)
+[  M2  ---> Error] retry 2 of 2 times
+[  M2  ---> Error] Unable to update channel Mezzo Live HD
+[  M2  ---> Error] no index page data received from Mezzo Live HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Classica HD
+[  M2  ---> Error] no index page data received from Classica HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel CNN International Europe
+[  M2  ---> Error] no index page data received from CNN International Europe
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel CNBC Europe HD
+[  M2  ---> Error] no index page data received from CNBC Europe HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel TV5 Monde Europe HD
+[  M2  ---> Error] no index page data received from TV5 Monde Europe HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Bloomberg TV Europe
+[  M2  ---> Error] no index page data received from Bloomberg TV Europe
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Cubavisión Internacional HD
+[  M2  ---> Error] no index page data received from Cubavisión Internacional HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Telesur HD
+[  M2  ---> Error] no index page data received from Telesur HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Canal Sur Andalucía
+[  M2  ---> Error] no index page data received from Canal Sur Andalucía
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel TVG Europa HD
+[  M2  ---> Error] no index page data received from TVG Europa HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Canal Extremadura SAT
+[  M2  ---> Error] no index page data received from Canal Extremadura SAT
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] error downloading page : TimeOut (20 sec)
+[  M2  ---> Error] retry 1 of 2 times
+[  M2  ---> Error] error downloading page : TimeOut (40 sec)
+[  M2  ---> Error] retry 2 of 2 times
+[  M2  ---> Error] Unable to update channel Aragón TV Internacional
+[  M2  ---> Error] no index page data received from Aragón TV Internacional
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Alquiler HD
+[  M2  ---> Error] no index page data received from Alquiler HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] error downloading page : TimeOut (20 sec)
+[  M2  ---> Error] retry 1 of 2 times
+[  M2  ] Job finished at 11/12/2024 04:04:56 done in 4m 51s
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] Unable to update channel Antena 3 HD
+[  M1  ---> Error] no index page data received from Antena 3 HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Cuatro HD
+[  M1  ---> Error] no index page data received from Cuatro HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Telecinco HD
+[  M1  ---> Error] no index page data received from Telecinco HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel La Sexta HD
+[  M1  ---> Error] no index page data received from La Sexta HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Originales HD
+[  M1  ---> Error] no index page data received from M+ Originales HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ BBC Earth
+[  M1  ---> Error] no index page data received from M+ BBC Earth
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Documentales HD
+[  M1  ---> Error] no index page data received from M+ Documentales HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] Unable to update channel La Resistencia 24H
+[  M1  ---> Error] no index page data received from La Resistencia 24H
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Clásicos HD
+[  M1  ---> Error] no index page data received from M+ Clásicos HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Acción HD
+[  M1  ---> Error] no index page data received from M+ Acción HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Comedia HD
+[  M1  ---> Error] no index page data received from M+ Comedia HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] error downloading page : TimeOut (40 sec)
+[  M1  ---> Error] retry 2 of 2 times
+[  M1  ---> Error] Unable to update channel M+ PopUp
+[  M1  ---> Error] no index page data received from M+ PopUp
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel TCM HD
+[  M1  ---> Error] no index page data received from TCM HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Canal Hollywood HD
+[  M1  ---> Error] no index page data received from Canal Hollywood HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Paramount Network
+[  M1  ---> Error] no index page data received from Paramount Network
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Be Mad
+[  M1  ---> Error] no index page data received from Be Mad
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] Unable to update channel Warner TV HD
+[  M1  ---> Error] no index page data received from Warner TV HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Comedy Central HD
+[  M1  ---> Error] no index page data received from Comedy Central HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Cosmo HD
+[  M1  ---> Error] no index page data received from Cosmo HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel SyFy HD
+[  M1  ---> Error] no index page data received from SyFy HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Energy
+[  M1  ---> Error] no index page data received from Energy
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] Unable to update channel Factoría de Ficción
+[  M1  ---> Error] no index page data received from Factoría de Ficción
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Nat Geo Wild HD
+[  M1  ---> Error] no index page data received from Nat Geo Wild HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Historia
+[  M1  ---> Error] no index page data received from Historia
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] Unable to update channel Discovery
+[  M1  ---> Error] no index page data received from Discovery
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] error downloading page : TimeOut (20 sec)
+[  M1  ---> Error] retry 1 of 2 times
+[  M1  ---> Error] Unable to update channel Canal Cocina
+[  M1  ---> Error] no index page data received from Canal Cocina
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Divinity
+[  M1  ---> Error] no index page data received from Divinity
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Nova
+[  M1  ---> Error] no index page data received from Nova
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ] Job finished at 11/12/2024 04:21:40 done in 6m 36s
+[  DEP  ---> Error] Unable to update channel M+ Copa del Rey
+[  DEP  ---> Error] no index page data received from M+ Copa del Rey
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN LaLiga HD
+[  DEP  ---> Error] no index page data received from DAZN LaLiga HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV Hypermotion HD
+[  DEP  ---> Error] no index page data received from LaLiga TV Hypermotion HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga TV 2 HD
+[  DEP  ---> Error] no index page data received from M+ LaLiga TV 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN LaLiga 2 HD
+[  DEP  ---> Error] no index page data received from DAZN LaLiga 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV Hypermotion 2
+[  DEP  ---> Error] no index page data received from LaLiga TV Hypermotion 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 2 HD
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 3 HD
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 3 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes HD
+[  DEP  ---> Error] no index page data received from M+ Deportes HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 2 HD
+[  DEP  ---> Error] no index page data received from M+ Deportes 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 3
+[  DEP  ---> Error] no index page data received from M+ Deportes 3
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Ellas Vamos HD
+[  DEP  ---> Error] no index page data received from M+ Ellas Vamos HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Golf HD
+[  DEP  ---> Error] no index page data received from M+ Golf HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Golf 2 HD
+[  DEP  ---> Error] no index page data received from M+ Golf 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN F1 HD
+[  DEP  ---> Error] no index page data received from DAZN F1 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN 1 HD
+[  DEP  ---> Error] no index page data received from DAZN 1 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Eurosport 1 HD
+[  DEP  ---> Error] no index page data received from Eurosport 1 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Eurosport 2
+[  DEP  ---> Error] no index page data received from Eurosport 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Teledeporte
+[  DEP  ---> Error] no index page data received from Teledeporte
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga TV 3 HD
+[  DEP  ---> Error] no index page data received from M+ LaLiga TV 3 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga TV 4
+[  DEP  ---> Error] no index page data received from M+ LaLiga TV 4
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Movistar Plus+ 2 HD
+[  DEP  ---> Error] no index page data received from Movistar Plus+ 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV Hypermotion 3
+[  DEP  ---> Error] no index page data received from LaLiga TV Hypermotion 3
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 4
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 4
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 5
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 5
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 6
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 6
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 7
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 7
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 8
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 8
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 9
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 9
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 10
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 10
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 11
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 11
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 12
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 12
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 13
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 13
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 4
+[  DEP  ---> Error] no index page data received from M+ Deportes 4
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 5
+[  DEP  ---> Error] no index page data received from M+ Deportes 5
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 6
+[  DEP  ---> Error] no index page data received from M+ Deportes 6
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 7
+[  DEP  ---> Error] no index page data received from M+ Deportes 7
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 8
+[  DEP  ---> Error] no index page data received from M+ Deportes 8
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN 3 HD
+[  DEP  ---> Error] no index page data received from DAZN 3 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN 4 HD
+[  DEP  ---> Error] no index page data received from DAZN 4 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga TV UHD
+[  DEP  ---> Error] no index page data received from M+ LaLiga TV UHD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Vamos BAR
+[  DEP  ---> Error] no index page data received from Vamos BAR
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Vamos BAR 2
+[  DEP  ---> Error] no index page data received from Vamos BAR 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV BAR HD
+[  DEP  ---> Error] no index page data received from LaLiga TV BAR HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV BAR 2
+[  DEP  ---> Error] no index page data received from LaLiga TV BAR 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV BAR 3
+[  DEP  ---> Error] no index page data received from LaLiga TV BAR 3
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ] Job finished at 11/12/2024 04:30:52 done in 47s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 11/12/2024 04:45:24 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 11/12/2024 04:45:54 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 11/12/2024 04:46:30 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 11/12/2024 04:46:50 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 11/12/2024 04:47:11 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 11/12/2024 04:47:41 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 11/12/2024 04:48:03 done in 6s
+        [  REX -> O2  ] Job (rex) finished at 11/12/2024 04:48:24 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 11/12/2024 04:48:57 done in 12s
+        [  REX -> ZVAR  ] Job (rex) finished at 11/12/2024 04:49:18 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 11/12/2024 04:49:38 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 11/12/2024 04:49:58 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 11/12/2024 04:50:20 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 11/12/2024 04:50:40 done in 5s
+            <--- Subiendo xmls 11/12/2024 04:50 --->
