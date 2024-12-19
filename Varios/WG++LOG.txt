@@ -1,0 +1,109 @@
+<--- INICIO --->
+[  O1  ] Job finished at 19/12/2024 03:10:14 done in 10m 10s
+[  O2  ] Job finished at 19/12/2024 03:17:27 done in 2m 22s
+[  M3  ] Job finished at 19/12/2024 03:52:17 done in 7m 12s
+[  M2  ] Job finished at 19/12/2024 04:05:09 done in 5m 4s
+[  M1  ---> Error] Unable to update channel M+ Anime
+[  M1  ---> Error] no index page data received from M+ Anime
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ PopUp 2
+[  M1  ---> Error] no index page data received from M+ PopUp 2
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ] Job finished at 19/12/2024 04:21:13 done in 6m 8s
+[  DEP  ] Job finished at 19/12/2024 04:33:10 done in 3m 5s
+[  ZPT  ] Job finished at 19/12/2024 07:11:23 done in 1m 18s
+[  ZFR  ] Job finished at 19/12/2024 07:21:20 done in 3m 16s
+[  ZDE  ] Job finished at 19/12/2024 07:27:55 done in 1m 50s
+[  ZUK  ] Job finished at 19/12/2024 07:34:52 done in 47s
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec)
+[  ZVAR  ---> Error] retry 2 of 2 times
+[  ZVAR  ---> Error] Unable to update channel Atrescine
+[  ZVAR  ---> Error] no index page data received from Atrescine
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec)
+[  ZVAR  ---> Error] retry 2 of 2 times
+[  ZVAR  ---> Error] Unable to update channel Vivid TV
+[  ZVAR  ---> Error] no index page data received from Vivid TV
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec)
+[  ZVAR  ---> Error] retry 2 of 2 times
+[  ZVAR  ---> Error] Unable to update channel MTV Classic
+[  ZVAR  ---> Error] no index page data received from MTV Classic
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ] Job finished at 19/12/2024 07:45:59 done in 3m 54s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 19/12/2024 07:57:57 done in 7m 52s
+[  M3  ] Job finished at 19/12/2024 08:09:05 done in 7m 59s
+[  M2  ] Job finished at 19/12/2024 08:16:48 done in 4m 43s
+[  M1  ---> Error] Unable to update channel M+ Anime
+[  M1  ---> Error] no index page data received from M+ Anime
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ PopUp 2
+[  M1  ---> Error] no index page data received from M+ PopUp 2
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ] Job finished at 19/12/2024 08:29:39 done in 6m 34s
+[  DEP  ] Job finished at 19/12/2024 08:37:11 done in 3m 7s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 19/12/2024 08:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 19/12/2024 08:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 19/12/2024 08:46:35 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 19/12/2024 08:46:57 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 19/12/2024 08:47:18 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 19/12/2024 08:47:47 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 19/12/2024 08:48:16 done in 11s
+        [  REX -> O2  ] Job (rex) finished at 19/12/2024 08:48:39 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 19/12/2024 08:49:12 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 19/12/2024 08:49:32 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 19/12/2024 08:49:52 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 19/12/2024 08:50:12 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 19/12/2024 08:50:33 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 19/12/2024 08:50:53 done in 5s
+            <--- Subiendo xmls 19/12/2024 08:51 --->
+[  O1  ] Job finished at 19/12/2024 11:13:29 done in 3m 24s
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Gulli
+[  O2  ---> Error] no index page data received from Gulli
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ---> Error] error downloading page : TimeOut (5 sec)
+[  O2  ---> Error] retry 1 of 1 times
+[  O2  ---> Error] Unable to update channel Nautical Channel
+[  O2  ---> Error] no index page data received from Nautical Channel
+[  O2  ---> Error] unable to update channel, try again later
+[  O2  ] Job finished at 19/12/2024 11:32:20 done in 2m 15s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 19/12/2024 11:47:12 done in 7m 7s
+[  M3  ] Job finished at 19/12/2024 12:07:42 done in 6m 37s
+[  M2  ] Job finished at 19/12/2024 12:16:32 done in 4m 26s
+[  M1  ---> Error] Unable to update channel M+ Anime
+[  M1  ---> Error] no index page data received from M+ Anime
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ PopUp 2
+[  M1  ---> Error] no index page data received from M+ PopUp 2
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ] Job finished at 19/12/2024 12:28:50 done in 5m 46s
+[  DEP  ] Job finished at 19/12/2024 12:37:12 done in 3m 7s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 19/12/2024 12:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 19/12/2024 12:45:58 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 19/12/2024 12:46:36 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 19/12/2024 12:46:57 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 19/12/2024 12:47:19 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 19/12/2024 12:47:47 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 19/12/2024 12:48:11 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 19/12/2024 12:48:33 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 19/12/2024 12:49:06 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 19/12/2024 12:49:27 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 19/12/2024 12:49:46 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 19/12/2024 12:50:06 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 19/12/2024 12:50:28 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 19/12/2024 12:50:48 done in 5s
+            <--- Subiendo xmls 19/12/2024 12:50 --->
