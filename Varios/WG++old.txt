@@ -1,0 +1,161 @@
+<--- INICIO --->
+[  O1  ] Job finished at 23/12/2024 03:02:32 done in 2m 27s
+[  O2  ] Job finished at 23/12/2024 03:17:39 done in 2m 35s
+[  M3  ] Job finished at 23/12/2024 03:52:26 done in 7m 21s
+[  M2  ] Job finished at 23/12/2024 04:05:18 done in 5m 13s
+[  M1  ] Job finished at 23/12/2024 04:21:14 done in 6m 9s
+[  DEP  ] Job finished at 23/12/2024 04:32:50 done in 2m 45s
+[  ZPT  ] Job finished at 23/12/2024 07:11:22 done in 1m 18s
+[  ZFR  ] Job finished at 23/12/2024 07:20:24 done in 2m 20s
+[  ZDE  ] Job finished at 23/12/2024 07:27:45 done in 1m 41s
+[  ZUK  ] Job finished at 23/12/2024 07:34:54 done in 49s
+[  ZVAR  ] Job finished at 23/12/2024 07:43:58 done in 1m 53s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 23/12/2024 07:56:52 done in 6m 47s
+[  M3  ] Job finished at 23/12/2024 08:07:19 done in 6m 14s
+[  M2  ] Job finished at 23/12/2024 08:16:53 done in 4m 49s
+[  M1  ] Job finished at 23/12/2024 08:28:43 done in 5m 38s
+[  DEP  ] Job finished at 23/12/2024 08:36:52 done in 2m 48s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/12/2024 08:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 23/12/2024 08:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 23/12/2024 08:46:37 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 23/12/2024 08:46:58 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 23/12/2024 08:47:20 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 23/12/2024 08:47:48 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 23/12/2024 08:48:11 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/12/2024 08:48:33 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 23/12/2024 08:49:07 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 23/12/2024 08:49:28 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 23/12/2024 08:49:48 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 23/12/2024 08:50:08 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 23/12/2024 08:50:30 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 23/12/2024 08:50:50 done in 6s
+            <--- Subiendo xmls 23/12/2024 08:50 --->
+[  O1  ] Job finished at 23/12/2024 11:12:00 done in 1m 55s
+[  O2  ] Job finished at 23/12/2024 11:32:14 done in 2m 10s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 23/12/2024 11:46:59 done in 6m 54s
+[  M3  ] Job finished at 23/12/2024 12:07:32 done in 6m 27s
+[  M2  ] Job finished at 23/12/2024 12:17:07 done in 5m 2s
+[  M1  ] Job finished at 23/12/2024 12:28:41 done in 5m 36s
+[  DEP  ] Job finished at 23/12/2024 12:36:55 done in 2m 51s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/12/2024 12:45:28 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 23/12/2024 12:46:00 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 23/12/2024 12:46:39 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 23/12/2024 12:47:00 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 23/12/2024 12:47:21 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 23/12/2024 12:47:49 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 23/12/2024 12:48:12 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/12/2024 12:48:34 done in 6s
+        [  REX -> TIVI  ] Job (rex) finished at 23/12/2024 12:49:07 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 23/12/2024 12:49:28 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 23/12/2024 12:49:47 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 23/12/2024 12:50:07 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 23/12/2024 12:50:29 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 23/12/2024 12:50:49 done in 6s
+            <--- Subiendo xmls 23/12/2024 12:50 --->
+    [  TIVI  ]  Job finished at 23/12/2024 15:30
+    [  BAR  ] LaLiga TV BAR 4 · Job finished at 23/12/2024 15:40
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 3 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 4 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 5 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 6 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 7 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 8 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 9 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 10 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 11 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 12 no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 23/12/2024 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 23/12/2024 15:40
+    [  BAR  ---> Error] DAZN 1 BAR no existe o no tiene información (23/12/2024 15:40)
+    [  BAR  ---> Error] DAZN 2 BAR no existe o no tiene información (23/12/2024 15:40)
+    [  CLI  ---> Error] Torolé TV no se pudo descargar, usando fichero anterior (21 Dec 15:40)
+    [  CLI  ] Torolé TV · Job finished at 23/12/2024 15:40
+    [  CLI  ---> Error] Iberalia pesca no se pudo descargar, usando fichero anterior (21 Dec 15:40)
+    [  CLI  ] Iberalia pesca · Job finished at 23/12/2024 15:40
+    [  CLI  ---> Error] Iberalia caza no se pudo descargar, usando fichero anterior (21 Dec 15:40)
+    [  CLI  ] Iberalia caza · Job finished at 23/12/2024 15:40
+    [  CLI  ---> Error] Global Telenovelas no se pudo descargar, usando fichero anterior (21 Dec 15:40)
+    [  CLI  ] Global Telenovelas · Job finished at 23/12/2024 15:40
+    [  CLI  ---> Error] Global Tendencias no se pudo descargar, usando fichero anterior (21 Dec 15:40)
+    [  CLI  ] Global Tendencias · Job finished at 23/12/2024 15:40
+    [  CLI  ---> Error] Fight Time no se pudo descargar, usando fichero anterior (21 Dec 15:41)
+    [  CLI  ] Fight Time · Job finished at 23/12/2024 15:40
+    [  CLI  ---> Error] DBike no se pudo descargar, usando fichero anterior (21 Dec 15:41)
+    [  CLI  ] DBike · Job finished at 23/12/2024 15:40
+    [  CLI  ---> Error] La 8 CyL no se pudo descargar, usando fichero anterior (21 Dec 15:41)
+    [  CLI  ] La 8 CyL · Job finished at 23/12/2024 15:41
+    [  CLI  ---> Error] Náutica TV no se pudo descargar, usando fichero anterior (21 Dec 15:41)
+    [  CLI  ] Náutica TV · Job finished at 23/12/2024 15:41
+    [  CLI  ---> Error] Antena Motor no se pudo descargar, usando fichero anterior (21 Dec 15:41)
+    [  CLI  ] Antena Motor · Job finished at 23/12/2024 15:41
+    [  CLI  ---> Error] Dhípica no se pudo descargar, usando fichero anterior (21 Dec 15:42)
+    [  CLI  ] Dhípica · Job finished at 23/12/2024 15:41
+    [  ZAP  ---> Error] REKTV no se pudo descargar, usando fichero anterior (21 Dec 15:42)
+    [  ZAP  ] REKTV · Job finished at 23/12/2024 15:41
+    [  ZAP  ---> Error] tlnovelas no se pudo descargar, usando fichero anterior (12 Dec 15:42)
+    [  ZAP  ] tlnovelas · Job finished at 23/12/2024 15:41
+    [  ZAP  ---> Error] DePelícula no se pudo descargar, usando fichero anterior (21 Dec 15:42)
+    [  ZAP  ] DePelícula · Job finished at 23/12/2024 15:41
+    [  ZAP  ---> Error] DejateTV no se pudo descargar, usando fichero anterior (12 Dec 15:42)
+    [  ZAP  ] DejateTV · Job finished at 23/12/2024 15:41
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 23/12/2024 15:41
+    [  LIGAF  ] Job finished at 23/12/2024 15:41
+[  M3  ] Job finished at 23/12/2024 16:07:28 done in 6m 23s
+[  M2  ] Job finished at 23/12/2024 16:16:49 done in 4m 44s
+[  M1  ] Job finished at 23/12/2024 16:29:12 done in 6m 7s
+[  DEP  ] Job finished at 23/12/2024 16:37:04 done in 2m 59s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/12/2024 16:45:28 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 23/12/2024 16:46:00 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 23/12/2024 16:46:40 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 23/12/2024 16:47:01 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 23/12/2024 16:47:22 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 23/12/2024 16:47:51 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 23/12/2024 16:48:14 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/12/2024 16:48:37 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 23/12/2024 16:49:11 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 23/12/2024 16:49:31 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 23/12/2024 16:49:51 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 23/12/2024 16:50:11 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 23/12/2024 16:50:32 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 23/12/2024 16:50:53 done in 6s
+            <--- Subiendo xmls 23/12/2024 16:51 --->
+[  ZPT  ] Job finished at 23/12/2024 18:11:11 done in 1m 6s
+[  ZFR  ] Job finished at 23/12/2024 18:19:14 done in 1m 10s
+[  ZDE  ] Job finished at 23/12/2024 18:27:34 done in 1m 30s
+[  ZUK  ] Job finished at 23/12/2024 18:34:39 done in 34s
+[  ZVAR  ] Job finished at 23/12/2024 18:43:23 done in 1m 17s
+[  O1  ] Job finished at 23/12/2024 19:16:58 done in 1m 54s
+[  O2  ] Job finished at 23/12/2024 19:32:04 done in 1m 59s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 23/12/2024 19:52:16 done in 7m 11s
+[  M3  ] Job finished at 23/12/2024 20:07:26 done in 6m 21s
+[  M2  ] Job finished at 23/12/2024 20:16:50 done in 4m 45s
+[  M1  ] Job finished at 23/12/2024 20:29:00 done in 5m 55s
+[  DEP  ] Job finished at 23/12/2024 20:37:02 done in 2m 57s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 23/12/2024 20:45:28 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 23/12/2024 20:46:01 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 23/12/2024 20:46:39 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 23/12/2024 20:47:01 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 23/12/2024 20:47:22 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 23/12/2024 20:47:51 done in 10s
+        [  REX -> O1  ] Job (rex) finished at 23/12/2024 20:48:14 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 23/12/2024 20:48:36 done in 7s
+        [  REX -> TIVI  ] Job (rex) finished at 23/12/2024 20:49:10 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 23/12/2024 20:49:31 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 23/12/2024 20:49:51 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 23/12/2024 20:50:10 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 23/12/2024 20:50:32 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 23/12/2024 20:50:52 done in 6s
+            <--- Subiendo xmls 23/12/2024 20:51 --->
+<---  FIN  --->
