@@ -1,0 +1,176 @@
+<--- INICIO --->
+[  O1  ] Job finished at 18/01/2025 03:04:11 done in 4m 6s
+[  O2  ] Job finished at 18/01/2025 03:19:06 done in 4m 1s
+[  M3  ] Job finished at 18/01/2025 03:50:37 done in 5m 31s
+[  M2  ] Job finished at 18/01/2025 04:04:40 done in 4m 35s
+[  M1  ] Job finished at 18/01/2025 04:20:53 done in 5m 48s
+[  DEP  ] Job finished at 18/01/2025 04:33:18 done in 3m 13s
+[  ZPT  ] Job finished at 18/01/2025 07:11:15 done in 1m 10s
+[  ZFR  ] Job finished at 18/01/2025 07:20:15 done in 2m 10s
+[  ZDE  ] Job finished at 18/01/2025 07:27:41 done in 1m 37s
+[  ZUK  ] Job finished at 18/01/2025 07:34:45 done in 41s
+[  ZVAR  ] Job finished at 18/01/2025 07:44:16 done in 2m 11s
+[  VAR  ] Job finished at 18/01/2025 07:59:26 done in 9m 21s
+[  M3  ] Job finished at 18/01/2025 08:08:24 done in 7m 19s
+[  M2  ] Job finished at 18/01/2025 08:16:37 done in 4m 32s
+[  M1  ] Job finished at 18/01/2025 08:29:33 done in 6m 28s
+[  DEP  ] Job finished at 18/01/2025 08:37:30 done in 3m 25s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 18/01/2025 08:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 18/01/2025 08:45:56 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 18/01/2025 08:46:31 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 18/01/2025 08:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 18/01/2025 08:47:14 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 18/01/2025 08:47:43 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 18/01/2025 08:48:09 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 18/01/2025 08:48:34 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 18/01/2025 08:49:07 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 18/01/2025 08:49:28 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 18/01/2025 08:49:48 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 18/01/2025 08:50:08 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 18/01/2025 08:50:30 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 18/01/2025 08:50:50 done in 6s
+            <--- Subiendo xmls 18/01/2025 08:50 --->
+[  O1  ] Job finished at 18/01/2025 11:13:28 done in 3m 22s
+[  O2  ] Job finished at 18/01/2025 11:33:17 done in 3m 13s
+[  VAR  ] Job finished at 18/01/2025 11:46:40 done in 6m 36s
+[  M3  ] Job finished at 18/01/2025 12:06:04 done in 5m 0s
+[  M2  ] Job finished at 18/01/2025 12:16:08 done in 4m 3s
+[  M1  ] Job finished at 18/01/2025 12:28:41 done in 5m 36s
+[  DEP  ] Job finished at 18/01/2025 12:37:48 done in 3m 43s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 18/01/2025 12:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 18/01/2025 12:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 18/01/2025 12:46:34 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 18/01/2025 12:46:56 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 18/01/2025 12:47:17 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 18/01/2025 12:47:46 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 18/01/2025 12:48:12 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 18/01/2025 12:48:37 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 18/01/2025 12:49:11 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 18/01/2025 12:49:32 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 18/01/2025 12:49:52 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 18/01/2025 12:50:12 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 18/01/2025 12:50:34 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 18/01/2025 12:50:54 done in 6s
+            <--- Subiendo xmls 18/01/2025 12:51 --->
+    [  TIVI  ]  Job finished at 18/01/2025 15:30
+    [  BAR  ---> Error] LaLiga TV BAR 4 no existe o no tiene información (18/01/2025 15:40)
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 18/01/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 18/01/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 18/01/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 18/01/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 18/01/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 7 · Job finished at 18/01/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 18/01/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 18/01/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 18/01/2025 15:40
+    [  BAR  ---> Error] Liga de Campeones BAR 11 no existe o no tiene información (18/01/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 12 no existe o no tiene información (18/01/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 18/01/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 18/01/2025 15:40
+    [  BAR  ] DAZN 1 BAR · Job finished at 18/01/2025 15:40
+    [  BAR  ] DAZN 2 BAR · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] Torolé TV no se pudo descargar, usando fichero anterior (7 Jan 15:40)
+    [  CLI  ] Torolé TV · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] Iberalia pesca no se pudo descargar, usando fichero anterior (7 Jan 15:40)
+    [  CLI  ] Iberalia pesca · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] Iberalia caza no se pudo descargar, usando fichero anterior (7 Jan 15:40)
+    [  CLI  ] Iberalia caza · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] Global Telenovelas no se pudo descargar, usando fichero anterior (7 Jan 15:40)
+    [  CLI  ] Global Telenovelas · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] Global Tendencias no se pudo descargar, usando fichero anterior (7 Jan 15:40)
+    [  CLI  ] Global Tendencias · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] Fight Time no se pudo descargar, usando fichero anterior (7 Jan 15:40)
+    [  CLI  ] Fight Time · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] DBike no se pudo descargar, usando fichero anterior (7 Jan 15:40)
+    [  CLI  ] DBike · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] La 8 CyL no se pudo descargar, usando fichero anterior (7 Jan 15:41)
+    [  CLI  ] La 8 CyL · Job finished at 18/01/2025 15:40
+    [  CLI  ---> Error] Náutica TV no se pudo descargar, usando fichero anterior (7 Jan 15:41)
+    [  CLI  ] Náutica TV · Job finished at 18/01/2025 15:41
+    [  CLI  ---> Error] Antena Motor no se pudo descargar, usando fichero anterior (7 Jan 15:41)
+    [  CLI  ] Antena Motor · Job finished at 18/01/2025 15:41
+    [  CLI  ---> Error] Dhípica no se pudo descargar, usando fichero anterior (7 Jan 15:41)
+    [  CLI  ] Dhípica · Job finished at 18/01/2025 15:41
+    [  ZAP  ---> Error] REKTV no se pudo descargar, usando fichero anterior (7 Jan 15:41)
+    [  ZAP  ] REKTV · Job finished at 18/01/2025 15:41
+    [  ZAP  ---> Error] tlnovelas no se pudo descargar, usando fichero anterior (7 Jan 15:41)
+    [  ZAP  ] tlnovelas · Job finished at 18/01/2025 15:41
+    [  ZAP  ---> Error] DePelícula no se pudo descargar, usando fichero anterior (7 Jan 15:41)
+    [  ZAP  ] DePelícula · Job finished at 18/01/2025 15:41
+    [  ZAP  ---> Error] DejateTV no se pudo descargar, usando fichero anterior (6 Jan 15:41)
+    [  ZAP  ] DejateTV · Job finished at 18/01/2025 15:41
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 18/01/2025 15:41
+    [  LIGAF  ] Job finished at 18/01/2025 15:41
+[  M3  ] Job finished at 18/01/2025 16:06:39 done in 5m 34s
+[  M2  ] Job finished at 18/01/2025 16:16:18 done in 4m 12s
+[  M1  ] Job finished at 18/01/2025 16:28:57 done in 5m 53s
+[  DEP  ] Job finished at 18/01/2025 16:37:36 done in 3m 31s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 18/01/2025 16:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 18/01/2025 16:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 18/01/2025 16:46:33 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 18/01/2025 16:46:55 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 18/01/2025 16:47:16 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 18/01/2025 16:47:45 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 18/01/2025 16:48:11 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 18/01/2025 16:48:36 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 18/01/2025 16:49:10 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 18/01/2025 16:49:31 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 18/01/2025 16:49:51 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 18/01/2025 16:50:11 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 18/01/2025 16:50:32 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 18/01/2025 16:50:52 done in 6s
+            <--- Subiendo xmls 18/01/2025 16:51 --->
+[  ZPT  ] Job finished at 18/01/2025 18:11:05 done in 1m 0s
+[  ZFR  ] Job finished at 18/01/2025 18:19:22 done in 1m 17s
+[  ZDE  ] Job finished at 18/01/2025 18:27:40 done in 1m 35s
+[  ZUK  ] Job finished at 18/01/2025 18:34:37 done in 33s
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec)
+[  ZVAR  ---> Error] retry 2 of 2 times
+[  ZVAR  ---> Error] Unable to update channel Atrescine
+[  ZVAR  ---> Error] no index page data received from Atrescine
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec)
+[  ZVAR  ---> Error] retry 2 of 2 times
+[  ZVAR  ---> Error] Unable to update channel Vivid TV
+[  ZVAR  ---> Error] no index page data received from Vivid TV
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec)
+[  ZVAR  ---> Error] retry 2 of 2 times
+[  ZVAR  ---> Error] Unable to update channel MTV Classic
+[  ZVAR  ---> Error] no index page data received from MTV Classic
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ] Job finished at 18/01/2025 18:45:29 done in 3m 23s
+[  O1  ] Job finished at 18/01/2025 19:17:36 done in 2m 32s
+[  O2  ] Job finished at 18/01/2025 19:32:59 done in 2m 55s
+[  VAR  ] Job finished at 18/01/2025 19:51:57 done in 6m 53s
+[  M3  ] Job finished at 18/01/2025 20:06:10 done in 5m 5s
+[  M2  ] Job finished at 18/01/2025 20:16:10 done in 4m 6s
+[  M1  ] Job finished at 18/01/2025 20:28:49 done in 5m 45s
+[  DEP  ] Job finished at 18/01/2025 20:37:40 done in 3m 35s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 18/01/2025 20:45:25 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 18/01/2025 20:45:56 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 18/01/2025 20:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 18/01/2025 20:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 18/01/2025 20:47:14 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 18/01/2025 20:47:44 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 18/01/2025 20:48:10 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 18/01/2025 20:48:35 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 18/01/2025 20:49:08 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 18/01/2025 20:49:30 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 18/01/2025 20:49:49 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 18/01/2025 20:50:09 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 18/01/2025 20:50:32 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 18/01/2025 20:50:52 done in 6s
+            <--- Subiendo xmls 18/01/2025 20:51 --->
+<---  FIN  --->
