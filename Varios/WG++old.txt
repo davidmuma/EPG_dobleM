@@ -1,0 +1,170 @@
+<--- INICIO --->
+[  O1  ] Job finished at 22/02/2025 03:03:25 done in 3m 20s
+[  O2  ] Job finished at 22/02/2025 03:18:34 done in 3m 29s
+[  M3  ] Job finished at 22/02/2025 03:50:30 done in 5m 26s
+[  M2  ] Job finished at 22/02/2025 04:04:49 done in 4m 45s
+[  M1  ] Job finished at 22/02/2025 04:20:55 done in 5m 50s
+[  DEP  ] Job finished at 22/02/2025 04:33:22 done in 3m 17s
+[  ZPT  ] Job finished at 22/02/2025 07:11:08 done in 1m 3s
+[  ZFR  ] Job finished at 22/02/2025 07:20:22 done in 2m 17s
+[  ZDE  ] Job finished at 22/02/2025 07:27:44 done in 1m 39s
+[  ZUK  ] Job finished at 22/02/2025 07:35:00 done in 54s
+[  ZVAR  ] Job finished at 22/02/2025 07:44:42 done in 2m 38s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 22/02/2025 07:59:48 done in 9m 44s
+[  M3  ] Job finished at 22/02/2025 08:08:17 done in 7m 12s
+[  M2  ] Job finished at 22/02/2025 08:17:03 done in 4m 58s
+[  M1  ] Job finished at 22/02/2025 08:29:59 done in 6m 54s
+[  DEP  ] Job finished at 22/02/2025 08:37:29 done in 3m 25s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 22/02/2025 08:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 22/02/2025 08:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 22/02/2025 08:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 22/02/2025 08:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 22/02/2025 08:47:15 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 22/02/2025 08:47:45 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 22/02/2025 08:48:11 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 22/02/2025 08:48:36 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 22/02/2025 08:49:10 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 22/02/2025 08:49:31 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 22/02/2025 08:49:50 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 22/02/2025 08:50:11 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 22/02/2025 08:50:32 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 22/02/2025 08:50:52 done in 5s
+            <--- Subiendo xmls 22/02/2025 08:51 --->
+[  O1  ] Job finished at 22/02/2025 11:13:46 done in 3m 41s
+[  O2  ] Job finished at 22/02/2025 11:33:15 done in 3m 10s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 22/02/2025 11:46:56 done in 6m 51s
+[  M3  ] Job finished at 22/02/2025 12:05:55 done in 4m 49s
+[  M2  ] Job finished at 22/02/2025 12:16:31 done in 4m 27s
+[  M1  ] Job finished at 22/02/2025 12:28:37 done in 5m 33s
+[  DEP  ] Job finished at 22/02/2025 12:37:28 done in 3m 23s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 22/02/2025 12:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 22/02/2025 12:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 22/02/2025 12:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 22/02/2025 12:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 22/02/2025 12:47:15 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 22/02/2025 12:47:46 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 22/02/2025 12:48:11 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 22/02/2025 12:48:36 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 22/02/2025 12:49:10 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 22/02/2025 12:49:31 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 22/02/2025 12:49:51 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 22/02/2025 12:50:11 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 22/02/2025 12:50:32 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 22/02/2025 12:50:52 done in 5s
+            <--- Subiendo xmls 22/02/2025 12:51 --->
+    [  TIVI  ]  Job finished at 22/02/2025 15:30
+    [  BAR  ---> Error] LaLiga TV BAR 4 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 3 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 4 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 5 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 6 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 7 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 8 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 9 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 10 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 11 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 12 no existe o no tiene información (22/02/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 22/02/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 22/02/2025 15:40
+    [  BAR  ] DAZN 1 BAR · Job finished at 22/02/2025 15:40
+    [  BAR  ] DAZN 2 BAR · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] Torolé TV no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Torolé TV · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] Iberalia pesca no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Iberalia pesca · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] Iberalia caza no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Iberalia caza · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] Global Telenovelas no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Global Telenovelas · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] Global Tendencias no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Global Tendencias · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] Fight Time no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Fight Time · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] DBike no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] DBike · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] La 8 CyL no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  CLI  ] La 8 CyL · Job finished at 22/02/2025 15:40
+    [  CLI  ---> Error] Náutica TV no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  CLI  ] Náutica TV · Job finished at 22/02/2025 15:41
+    [  CLI  ---> Error] Antena Motor no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  CLI  ] Antena Motor · Job finished at 22/02/2025 15:41
+    [  CLI  ---> Error] Dhípica no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  CLI  ] Dhípica · Job finished at 22/02/2025 15:41
+    [  ZAP  ---> Error] REKTV no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  ZAP  ] REKTV · Job finished at 22/02/2025 15:41
+    [  ZAP  ---> Error] tlnovelas no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  ZAP  ] tlnovelas · Job finished at 22/02/2025 15:41
+    [  ZAP  ---> Error] DePelícula no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  ZAP  ] DePelícula · Job finished at 22/02/2025 15:41
+    [  ZAP  ---> Error] DejateTV no se pudo descargar, usando fichero anterior (18 Feb 15:42)
+    [  ZAP  ] DejateTV · Job finished at 22/02/2025 15:41
+    [  dazn  ] NFL Network · Job finished at 22/02/2025 15:41
+    [  dazn  ---> Error] Red Bull TV no existe o no tiene información (22/02/2025 15:41)
+    [  dazn  ] Matchroom Boxing · Job finished at 22/02/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 22/02/2025 15:41
+    [  dazn  ---> Error] Unbeaten no existe o no tiene información (22/02/2025 15:41)
+    [  dazn  ] PDC Darts · Job finished at 22/02/2025 15:41
+    [  dazn  ] Motorvision TV · Job finished at 22/02/2025 15:41
+    [  dazn  ] PowerSports World · Job finished at 22/02/2025 15:41
+    [  dazn  ] SportStak · Job finished at 22/02/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 22/02/2025 15:41
+    [  dazn  ] ACL Cornhole TV · Job finished at 22/02/2025 15:41
+    [  dazn  ] Billiard TV · Job finished at 22/02/2025 15:41
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 22/02/2025 15:41
+    [  LIGAF  ] Job finished at 22/02/2025 15:41
+[  M3  ] Job finished at 22/02/2025 16:07:14 done in 6m 9s
+[  M2  ] Job finished at 22/02/2025 16:16:50 done in 4m 46s
+[  M1  ] Job finished at 22/02/2025 16:28:54 done in 5m 49s
+[  DEP  ] Job finished at 22/02/2025 16:37:26 done in 3m 21s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 22/02/2025 16:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 22/02/2025 16:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 22/02/2025 16:46:33 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 22/02/2025 16:46:54 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 22/02/2025 16:47:16 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 22/02/2025 16:47:47 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 22/02/2025 16:48:13 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 22/02/2025 16:48:38 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 22/02/2025 16:49:12 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 22/02/2025 16:49:33 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 22/02/2025 16:49:52 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 22/02/2025 16:50:12 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 22/02/2025 16:50:34 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 22/02/2025 16:50:54 done in 5s
+            <--- Subiendo xmls 22/02/2025 16:51 --->
+[  ZPT  ] Job finished at 22/02/2025 18:11:00 done in 56s
+[  ZFR  ] Job finished at 22/02/2025 18:19:18 done in 1m 13s
+[  ZDE  ] Job finished at 22/02/2025 18:27:33 done in 1m 28s
+[  ZUK  ] Job finished at 22/02/2025 18:34:36 done in 31s
+[  ZVAR  ] Job finished at 22/02/2025 18:43:49 done in 1m 44s
+[  O1  ] Job finished at 22/02/2025 19:17:39 done in 2m 34s
+[  O2  ] Job finished at 22/02/2025 19:32:56 done in 2m 51s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 22/02/2025 19:52:56 done in 7m 51s
+[  M3  ] Job finished at 22/02/2025 20:06:11 done in 5m 6s
+[  M2  ] Job finished at 22/02/2025 20:16:45 done in 4m 41s
+[  M1  ] Job finished at 22/02/2025 20:28:48 done in 5m 43s
+[  DEP  ] Job finished at 22/02/2025 20:37:34 done in 3m 29s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 22/02/2025 20:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 22/02/2025 20:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 22/02/2025 20:46:31 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 22/02/2025 20:46:52 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 22/02/2025 20:47:14 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 22/02/2025 20:47:45 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 22/02/2025 20:48:10 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 22/02/2025 20:48:36 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 22/02/2025 20:49:09 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 22/02/2025 20:49:30 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 22/02/2025 20:49:50 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 22/02/2025 20:50:10 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 22/02/2025 20:50:31 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 22/02/2025 20:50:51 done in 5s
+            <--- Subiendo xmls 22/02/2025 20:50 --->
+<---  FIN  --->
