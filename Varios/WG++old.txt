@@ -1,0 +1,231 @@
+<--- INICIO --->
+[  O1  ] Job finished at 25/02/2025 03:03:29 done in 3m 24s
+[  O2  ] Job finished at 25/02/2025 03:18:35 done in 3m 31s
+[  M3  ] Job finished at 25/02/2025 03:50:36 done in 5m 32s
+[  M2  ] Job finished at 25/02/2025 04:05:15 done in 5m 10s
+[  M1  ] Job finished at 25/02/2025 04:20:47 done in 5m 43s
+[  DEP  ] Job finished at 25/02/2025 04:33:13 done in 3m 9s
+[  ZPT  ] Job finished at 25/02/2025 07:11:17 done in 1m 12s
+[  ZFR  ] Job finished at 25/02/2025 07:20:51 done in 2m 45s
+[  ZDE  ] Job finished at 25/02/2025 07:27:54 done in 1m 50s
+[  ZUK  ] Job finished at 25/02/2025 07:34:51 done in 46s
+[  ZVAR  ] Job finished at 25/02/2025 07:45:55 done in 3m 51s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 25/02/2025 07:58:38 done in 8m 32s
+[  M3  ] Job finished at 25/02/2025 08:09:41 done in 8m 37s
+[  M1  ] Job finished at 25/02/2025 08:32:37 done in 9m 32s
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] Unable to update channel M+ LaLiga TV 3 HD
+[  DEP  ---> Error] no index page data received from M+ LaLiga TV 3 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga TV 4
+[  DEP  ---> Error] no index page data received from M+ LaLiga TV 4
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 14
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 14
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 15
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 15
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 16
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 16
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 17
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 17
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 18
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 18
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 19
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 19
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Movistar Plus+ 2 HD
+[  DEP  ---> Error] no index page data received from Movistar Plus+ 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV Hypermotion 3
+[  DEP  ---> Error] no index page data received from LaLiga TV Hypermotion 3
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 4
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 4
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 5
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 5
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 6
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 6
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 7
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 7
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 8
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 8
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 9
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 9
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ---> Error] error downloading page : TimeOut (20 sec)
+[  DEP  ---> Error] retry 1 of 2 times
+[  DEP  ] Job finished at 25/02/2025 08:38:13 done in 4m 8s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 25/02/2025 08:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 25/02/2025 08:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 25/02/2025 08:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 25/02/2025 08:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 25/02/2025 08:47:15 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 25/02/2025 08:47:45 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 25/02/2025 08:48:11 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 25/02/2025 08:48:36 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 25/02/2025 08:49:09 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 25/02/2025 08:49:30 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 25/02/2025 08:49:50 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 25/02/2025 08:50:10 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 25/02/2025 08:50:32 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 25/02/2025 08:50:51 done in 5s
+            <--- Subiendo xmls 25/02/2025 08:50 --->
+[  O1  ] Job finished at 25/02/2025 11:13:13 done in 3m 8s
+[  O2  ] Job finished at 25/02/2025 11:33:06 done in 3m 1s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 25/02/2025 11:47:52 done in 7m 47s
+[  M3  ] Job finished at 25/02/2025 12:05:49 done in 4m 43s
+[  M2  ] Job finished at 25/02/2025 12:16:32 done in 4m 27s
+[  M1  ] Job finished at 25/02/2025 12:28:38 done in 5m 34s
+[  DEP  ] Job finished at 25/02/2025 12:37:21 done in 3m 16s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 25/02/2025 12:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 25/02/2025 12:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 25/02/2025 12:46:33 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 25/02/2025 12:46:54 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 25/02/2025 12:47:16 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 25/02/2025 12:47:47 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 25/02/2025 12:48:13 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 25/02/2025 12:48:39 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 25/02/2025 12:49:13 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 25/02/2025 12:49:35 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 25/02/2025 12:49:55 done in 6s
+        [  REX -> ZFR  ] Job (rex) finished at 25/02/2025 12:50:15 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 25/02/2025 12:50:37 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 25/02/2025 12:50:57 done in 5s
+            <--- Subiendo xmls 25/02/2025 12:51 --->
+    [  TIVI  ]  Job finished at 25/02/2025 15:31
+    [  BAR  ---> Error] LaLiga TV BAR 4 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 3 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 4 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 5 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 6 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 7 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 8 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 9 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 10 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 11 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 12 no existe o no tiene información (25/02/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 25/02/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 25/02/2025 15:40
+    [  BAR  ] DAZN 1 BAR · Job finished at 25/02/2025 15:40
+    [  BAR  ] DAZN 2 BAR · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] Torolé TV no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Torolé TV · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] Iberalia pesca no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Iberalia pesca · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] Iberalia caza no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Iberalia caza · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] Global Telenovelas no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Global Telenovelas · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] Global Tendencias no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Global Tendencias · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] Fight Time no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] Fight Time · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] DBike no se pudo descargar, usando fichero anterior (18 Feb 15:40)
+    [  CLI  ] DBike · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] La 8 CyL no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  CLI  ] La 8 CyL · Job finished at 25/02/2025 15:40
+    [  CLI  ---> Error] Náutica TV no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  CLI  ] Náutica TV · Job finished at 25/02/2025 15:41
+    [  CLI  ---> Error] Antena Motor no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  CLI  ] Antena Motor · Job finished at 25/02/2025 15:41
+    [  CLI  ---> Error] Dhípica no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  CLI  ] Dhípica · Job finished at 25/02/2025 15:41
+    [  ZAP  ---> Error] REKTV no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  ZAP  ] REKTV · Job finished at 25/02/2025 15:41
+    [  ZAP  ---> Error] tlnovelas no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  ZAP  ] tlnovelas · Job finished at 25/02/2025 15:41
+    [  ZAP  ---> Error] DePelícula no se pudo descargar, usando fichero anterior (18 Feb 15:41)
+    [  ZAP  ] DePelícula · Job finished at 25/02/2025 15:41
+    [  ZAP  ---> Error] DejateTV no se pudo descargar, usando fichero anterior (18 Feb 15:42)
+    [  ZAP  ] DejateTV · Job finished at 25/02/2025 15:41
+    [  dazn  ] NFL Network · Job finished at 25/02/2025 15:41
+    [  dazn  ---> Error] Red Bull TV no existe o no tiene información (25/02/2025 15:41)
+    [  dazn  ] Matchroom Boxing · Job finished at 25/02/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 25/02/2025 15:41
+    [  dazn  ---> Error] Unbeaten no existe o no tiene información (25/02/2025 15:41)
+    [  dazn  ] PDC Darts · Job finished at 25/02/2025 15:41
+    [  dazn  ] Motorvision TV · Job finished at 25/02/2025 15:41
+    [  dazn  ] PowerSports World · Job finished at 25/02/2025 15:41
+    [  dazn  ] SportStak · Job finished at 25/02/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 25/02/2025 15:41
+    [  dazn  ] ACL Cornhole TV · Job finished at 25/02/2025 15:41
+    [  dazn  ] Billiard TV · Job finished at 25/02/2025 15:41
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 25/02/2025 15:41
+    [  LIGAF  ] Job finished at 25/02/2025 15:41
+[  M3  ] Job finished at 25/02/2025 16:05:48 done in 4m 43s
+[  M2  ---> Error] error downloading page : TimeOut (20 sec)
+[  M2  ---> Error] retry 1 of 2 times
+[  M2  ] Job finished at 25/02/2025 16:16:51 done in 4m 46s
+[  M1  ] Job finished at 25/02/2025 16:28:36 done in 5m 31s
+[  DEP  ] Job finished at 25/02/2025 16:37:27 done in 3m 22s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 25/02/2025 16:45:27 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 25/02/2025 16:45:59 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 25/02/2025 16:46:33 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 25/02/2025 16:46:55 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 25/02/2025 16:47:17 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 25/02/2025 16:47:48 done in 12s
+        [  REX -> O1  ] Job (rex) finished at 25/02/2025 16:48:15 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 25/02/2025 16:48:40 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 25/02/2025 16:49:14 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 25/02/2025 16:49:36 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 25/02/2025 16:49:56 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 25/02/2025 16:50:17 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 25/02/2025 16:50:38 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 25/02/2025 16:50:58 done in 5s
+            <--- Subiendo xmls 25/02/2025 16:51 --->
+[  ZPT  ] Job finished at 25/02/2025 18:11:09 done in 1m 3s
+[  ZFR  ] Job finished at 25/02/2025 18:19:18 done in 1m 13s
+[  ZDE  ] Job finished at 25/02/2025 18:27:37 done in 1m 32s
+[  ZUK  ] Job finished at 25/02/2025 18:34:34 done in 29s
+[  ZVAR  ] Job finished at 25/02/2025 18:43:52 done in 1m 47s
+[  O1  ] Job finished at 25/02/2025 19:17:36 done in 2m 31s
+[  O2  ] Job finished at 25/02/2025 19:32:54 done in 2m 50s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 25/02/2025 19:52:19 done in 7m 14s
+[  M3  ] Job finished at 25/02/2025 20:06:01 done in 4m 56s
+[  M2  ] Job finished at 25/02/2025 20:16:34 done in 4m 29s
+[  M1  ] Job finished at 25/02/2025 20:28:39 done in 5m 35s
+[  DEP  ] Job finished at 25/02/2025 20:37:24 done in 3m 19s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 25/02/2025 20:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 25/02/2025 20:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 25/02/2025 20:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 25/02/2025 20:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 25/02/2025 20:47:15 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 25/02/2025 20:47:46 done in 11s
+        [  REX -> O1  ] Job (rex) finished at 25/02/2025 20:48:12 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 25/02/2025 20:48:37 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 25/02/2025 20:49:10 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 25/02/2025 20:49:32 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 25/02/2025 20:49:51 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 25/02/2025 20:50:11 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 25/02/2025 20:50:33 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 25/02/2025 20:50:52 done in 5s
+            <--- Subiendo xmls 25/02/2025 20:51 --->
+<---  FIN  --->
