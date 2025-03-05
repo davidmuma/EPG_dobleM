@@ -1,0 +1,176 @@
+<--- INICIO --->
+[  O1  ] Job finished at 05/03/2025 03:03:48 done in 3m 42s
+[  O2  ] Job finished at 05/03/2025 03:18:44 done in 3m 39s
+[  M3  ] Job finished at 05/03/2025 03:50:31 done in 5m 27s
+[  M2  ] Job finished at 05/03/2025 04:04:43 done in 4m 38s
+[  M1  ] Job finished at 05/03/2025 04:20:41 done in 5m 37s
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 18
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 18
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ] Job finished at 05/03/2025 04:33:19 done in 3m 14s
+[  ZPT  ] Job finished at 05/03/2025 07:11:12 done in 1m 7s
+[  ZFR  ] Job finished at 05/03/2025 07:20:19 done in 2m 14s
+[  ZDE  ---> Error] Unable to update channel DE | Rally TV
+[  ZDE  ---> Error] no index page data received from DE | Rally TV
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 05/03/2025 07:27:56 done in 1m 51s
+[  ZUK  ] Job finished at 05/03/2025 07:34:46 done in 42s
+[  ZVAR  ---> Error] no shows in indexpage!
+[  ZVAR  ] Job finished at 05/03/2025 07:46:07 done in 4m 2s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 05/03/2025 07:58:59 done in 8m 54s
+[  M3  ] Job finished at 05/03/2025 08:06:29 done in 5m 24s
+[  M2  ] Job finished at 05/03/2025 08:16:43 done in 4m 38s
+[  M1  ] Job finished at 05/03/2025 08:29:06 done in 6m 1s
+[  DEP  ] Job finished at 05/03/2025 08:37:13 done in 3m 9s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 05/03/2025 08:45:25 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 05/03/2025 08:45:56 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 05/03/2025 08:46:31 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 05/03/2025 08:46:52 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 05/03/2025 08:47:14 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 05/03/2025 08:48:07 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 05/03/2025 08:48:40 done in 12s
+        [  REX -> ZVAR  ] Job (rex) finished at 05/03/2025 08:49:03 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 05/03/2025 08:49:22 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 05/03/2025 08:49:42 done in 5s
+        [  REX -> ZUK  ] Job (rex) finished at 05/03/2025 08:50:14 done in 5s
+            <--- Subiendo xmls 05/03/2025 08:50 --->
+[  O1  ] Job finished at 05/03/2025 11:12:22 done in 2m 17s
+[  O2  ] Job finished at 05/03/2025 11:32:49 done in 2m 44s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 05/03/2025 11:46:29 done in 6m 24s
+[  M3  ] Job finished at 05/03/2025 12:06:16 done in 5m 11s
+[  M2  ] Job finished at 05/03/2025 12:16:27 done in 4m 22s
+[  M1  ] Job finished at 05/03/2025 12:28:37 done in 5m 32s
+[  DEP  ] Job finished at 05/03/2025 12:37:22 done in 3m 18s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 05/03/2025 12:45:26 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 05/03/2025 12:45:58 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 05/03/2025 12:46:33 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 05/03/2025 12:46:54 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 05/03/2025 12:47:16 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 05/03/2025 12:47:48 done in 12s
+        [  REX -> O1  ] Job (rex) finished at 05/03/2025 12:48:13 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 05/03/2025 12:48:37 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 05/03/2025 12:49:10 done in 12s
+        [  REX -> ZVAR  ] Job (rex) finished at 05/03/2025 12:49:33 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 05/03/2025 12:49:52 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 05/03/2025 12:50:12 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 05/03/2025 12:50:34 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 05/03/2025 12:50:53 done in 5s
+            <--- Subiendo xmls 05/03/2025 12:51 --->
+    [  TIVI  ]  Job finished at 05/03/2025 15:31
+    [  BAR  ] LaLiga TV BAR 4 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 7 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 05/03/2025 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 05/03/2025 15:40
+    [  BAR  ---> Error] Liga de Campeones BAR 11 no existe o no tiene información (05/03/2025 15:40)
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 05/03/2025 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 05/03/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 05/03/2025 15:40
+    [  BAR  ] DAZN 1 BAR · Job finished at 05/03/2025 15:40
+    [  BAR  ] DAZN 2 BAR · Job finished at 05/03/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 05/03/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 05/03/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 05/03/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 05/03/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 05/03/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 05/03/2025 15:40
+    [  CLI  ] DBike · Job finished at 05/03/2025 15:41
+    [  CLI  ] Náutica TV · Job finished at 05/03/2025 15:41
+    [  CLI  ] Antena Motor · Job finished at 05/03/2025 15:41
+    [  CLI  ] Dhípica · Job finished at 05/03/2025 15:41
+    [  ZAP  ] REKTV · Job finished at 05/03/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 05/03/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 05/03/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 05/03/2025 15:42
+    [  dazn  ] NFL Network · Job finished at 05/03/2025 15:42
+    [  dazn  ] Red Bull TV · Job finished at 05/03/2025 15:42
+    [  dazn  ] Matchroom Boxing · Job finished at 05/03/2025 15:42
+    [  dazn  ] Boxing TV · Job finished at 05/03/2025 15:42
+    [  dazn  ] Unbeaten · Job finished at 05/03/2025 15:42
+    [  dazn  ] PDC Darts · Job finished at 05/03/2025 15:42
+    [  dazn  ] Motorvision TV · Job finished at 05/03/2025 15:42
+    [  dazn  ] PowerSports World · Job finished at 05/03/2025 15:42
+    [  dazn  ] SportStak · Job finished at 05/03/2025 15:42
+    [  dazn  ] PLL Network · Job finished at 05/03/2025 15:42
+    [  dazn  ] ACL Cornhole TV · Job finished at 05/03/2025 15:42
+    [  dazn  ] Billiard TV · Job finished at 05/03/2025 15:42
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 05/03/2025 15:42
+    [  LIGAF  ] Job finished at 05/03/2025 15:42
+[  M3  ] Job finished at 05/03/2025 16:05:53 done in 4m 47s
+[  M2  ] Job finished at 05/03/2025 16:16:30 done in 4m 25s
+[  M1  ] Job finished at 05/03/2025 16:28:40 done in 5m 35s
+[  DEP  ] Job finished at 05/03/2025 16:37:35 done in 3m 30s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 05/03/2025 16:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 05/03/2025 16:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 05/03/2025 16:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 05/03/2025 16:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 05/03/2025 16:47:15 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 05/03/2025 16:47:47 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 05/03/2025 16:48:12 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 05/03/2025 16:48:36 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 05/03/2025 16:49:10 done in 13s
+        [  REX -> ZVAR  ] Job (rex) finished at 05/03/2025 16:49:33 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 05/03/2025 16:49:52 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 05/03/2025 16:50:12 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 05/03/2025 16:50:34 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 05/03/2025 16:50:53 done in 5s
+            <--- Subiendo xmls 05/03/2025 16:51 --->
+[  ZPT  ] Job finished at 05/03/2025 18:11:13 done in 1m 8s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 05/03/2025 18:14:06 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 05/03/2025 18:14:37 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 05/03/2025 18:15:13 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 05/03/2025 18:15:34 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 05/03/2025 18:15:56 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 05/03/2025 18:16:29 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 05/03/2025 18:16:54 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 05/03/2025 18:17:18 done in 8s
+        [  REX -> TIVI  ] Job (rex) finished at 05/03/2025 18:17:34 done in 3s
+        [  REX -> ZVAR  ] Job (rex) finished at 05/03/2025 18:17:56 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 05/03/2025 18:18:19 done in 8s
+        [  REX -> ZFR  ] Job (rex) finished at 05/03/2025 18:18:40 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 05/03/2025 18:19:01 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 05/03/2025 18:19:21 done in 5s
+            <--- Subiendo xmls 05/03/2025 18:19 --->
+[  ZDE  ---> Error] Unable to update channel DE | Rally TV
+[  ZDE  ---> Error] no index page data received from DE | Rally TV
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZUK  ] Job finished at 05/03/2025 18:34:36 done in 31s
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ] Job finished at 05/03/2025 18:55:57 done in 13m 52s
+[  O1  ] Job finished at 05/03/2025 19:17:13 done in 2m 8s
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ] Job finished at 05/03/2025 19:31:46 done in 1m 41s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 05/03/2025 19:54:49 done in 9m 43s
+[  M3  ] Job finished at 05/03/2025 20:05:52 done in 4m 47s
+[  M2  ] Job finished at 05/03/2025 20:16:32 done in 4m 27s
+[  M1  ] Job finished at 05/03/2025 20:28:59 done in 5m 54s
+[  DEP  ] Job finished at 05/03/2025 20:37:42 done in 3m 37s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 05/03/2025 20:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 05/03/2025 20:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 05/03/2025 20:46:31 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 05/03/2025 20:46:52 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 05/03/2025 20:47:14 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 05/03/2025 20:47:47 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 05/03/2025 20:48:11 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 05/03/2025 20:48:36 done in 8s
+        [  REX -> ZVAR  ] Job (rex) finished at 05/03/2025 20:48:59 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 05/03/2025 20:49:18 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 05/03/2025 20:49:38 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 05/03/2025 20:50:00 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 05/03/2025 20:50:19 done in 5s
+            <--- Subiendo xmls 05/03/2025 20:50 --->
