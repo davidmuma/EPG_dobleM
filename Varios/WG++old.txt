@@ -1,0 +1,172 @@
+<--- INICIO --->
+[  O1  ] Job finished at 14/03/2025 03:01:38 done in 1m 33s
+[  O2  ] Job finished at 14/03/2025 03:17:05 done in 2m 0s
+[  M3  ] Job finished at 14/03/2025 03:50:39 done in 5m 34s
+[  M2  ] Job finished at 14/03/2025 04:05:05 done in 5m 0s
+[  M1  ] Job finished at 14/03/2025 04:20:27 done in 5m 22s
+[  DEP  ] Job finished at 14/03/2025 04:33:16 done in 3m 11s
+[  ZPT  ] Job finished at 14/03/2025 07:11:16 done in 1m 10s
+[  ZFR  ] Job finished at 14/03/2025 07:20:20 done in 2m 15s
+[  ZDE  ] Job finished at 14/03/2025 07:27:50 done in 1m 46s
+[  ZUK  ---> Error] no shows in indexpage!
+[  ZUK  ---> Error] no shows in indexpage!
+[  ZUK  ] Job finished at 14/03/2025 07:34:48 done in 43s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3
+[  VAR  ---> Error] Current culture: es-ES
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 14/03/2025 07:52:57
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 14/03/2025 07:58:04 done in 7m 59s
+[  M3  ] Job finished at 14/03/2025 08:06:31 done in 5m 26s
+[  M2  ] Job finished at 14/03/2025 08:16:53 done in 4m 47s
+[  M1  ] Job finished at 14/03/2025 08:29:26 done in 6m 22s
+[  DEP  ] Job finished at 14/03/2025 08:37:21 done in 3m 16s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 14/03/2025 08:45:26 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 14/03/2025 08:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 14/03/2025 08:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 14/03/2025 08:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 14/03/2025 08:47:15 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 14/03/2025 08:47:48 done in 12s
+        [  REX -> O1  ] Job (rex) finished at 14/03/2025 08:48:12 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 14/03/2025 08:48:37 done in 8s
+        [  REX -> ZVAR  ] Job (rex) finished at 14/03/2025 08:49:00 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 14/03/2025 08:49:19 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 14/03/2025 08:49:39 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 14/03/2025 08:50:02 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 14/03/2025 08:50:21 done in 5s
+            <--- Subiendo xmls 14/03/2025 08:50 --->
+[  O1  ] Job finished at 14/03/2025 11:11:47 done in 1m 41s
+[  O2  ] Job finished at 14/03/2025 11:31:38 done in 1m 33s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3
+[  VAR  ---> Error] Current culture: es-ES
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 14/03/2025 11:41:42
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 14/03/2025 11:46:07 done in 6m 2s
+[  M3  ] Job finished at 14/03/2025 12:05:38 done in 4m 33s
+[  M2  ] Job finished at 14/03/2025 12:16:15 done in 4m 9s
+[  M1  ] Job finished at 14/03/2025 12:28:26 done in 5m 21s
+[  DEP  ] Job finished at 14/03/2025 12:37:26 done in 3m 21s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 14/03/2025 12:45:25 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 14/03/2025 12:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 14/03/2025 12:46:31 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 14/03/2025 12:46:52 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 14/03/2025 12:47:15 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 14/03/2025 12:47:47 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 14/03/2025 12:48:11 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 14/03/2025 12:48:36 done in 8s
+        [  REX -> ZVAR  ] Job (rex) finished at 14/03/2025 12:48:58 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 14/03/2025 12:49:18 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 14/03/2025 12:49:38 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 14/03/2025 12:50:00 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 14/03/2025 12:50:19 done in 5s
+            <--- Subiendo xmls 14/03/2025 12:50 --->
+    [  BAR  ] LaLiga TV BAR 4 · Job finished at 14/03/2025 15:40
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 3 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 4 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 5 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 6 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 7 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 8 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 9 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 10 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 11 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ---> Error] Liga de Campeones BAR 12 no existe o no tiene información (14/03/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 14/03/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 14/03/2025 15:40
+    [  BAR  ] DAZN 1 BAR · Job finished at 14/03/2025 15:40
+    [  BAR  ] DAZN 2 BAR · Job finished at 14/03/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 14/03/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 14/03/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 14/03/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 14/03/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 14/03/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 14/03/2025 15:40
+    [  CLI  ] DBike · Job finished at 14/03/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 14/03/2025 15:41
+    [  CLI  ] Antena Motor · Job finished at 14/03/2025 15:41
+    [  CLI  ] Dhípica · Job finished at 14/03/2025 15:41
+    [  ZAP  ] REKTV · Job finished at 14/03/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 14/03/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 14/03/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 14/03/2025 15:41
+    [  dazn  ] NFL Network · Job finished at 14/03/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 14/03/2025 15:41
+    [  dazn  ] Matchroom Boxing · Job finished at 14/03/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 14/03/2025 15:41
+    [  dazn  ] Unbeaten · Job finished at 14/03/2025 15:41
+    [  dazn  ] PDC Darts · Job finished at 14/03/2025 15:41
+    [  dazn  ] Motorvision TV · Job finished at 14/03/2025 15:41
+    [  dazn  ] PowerSports World · Job finished at 14/03/2025 15:41
+    [  dazn  ] SportStak · Job finished at 14/03/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 14/03/2025 15:42
+    [  dazn  ] ACL Cornhole TV · Job finished at 14/03/2025 15:42
+    [  dazn  ] Billiard TV · Job finished at 14/03/2025 15:42
+    [  GOL  ] Job finished at 
+    [  FEF  ] Job finished at 14/03/2025 15:42
+    [  LIGAF  ] Job finished at 14/03/2025 15:42
+[  M3  ] Job finished at 14/03/2025 16:06:52 done in 5m 47s
+[  M2  ] Job finished at 14/03/2025 16:16:24 done in 4m 19s
+[  M1  ] Job finished at 14/03/2025 16:28:34 done in 5m 30s
+[  DEP  ] Job finished at 14/03/2025 16:37:36 done in 3m 31s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 14/03/2025 16:45:25 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 14/03/2025 16:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 14/03/2025 16:46:31 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 14/03/2025 16:46:52 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 14/03/2025 16:47:15 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 14/03/2025 16:47:47 done in 12s
+        [  REX -> O1  ] Job (rex) finished at 14/03/2025 16:48:11 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 14/03/2025 16:48:36 done in 8s
+        [  REX -> ZVAR  ] Job (rex) finished at 14/03/2025 16:48:58 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 14/03/2025 16:49:17 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 14/03/2025 16:49:37 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 14/03/2025 16:49:59 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 14/03/2025 16:50:19 done in 5s
+            <--- Subiendo xmls 14/03/2025 16:50 --->
+[  ZPT  ] Job finished at 14/03/2025 18:11:08 done in 1m 3s
+[  ZFR  ] Job finished at 14/03/2025 18:19:13 done in 1m 8s
+[  ZDE  ] Job finished at 14/03/2025 18:27:46 done in 1m 42s
+[  ZUK  ---> Error] no shows in indexpage!
+[  ZUK  ---> Error] no shows in indexpage!
+[  ZUK  ] Job finished at 14/03/2025 18:34:35 done in 31s
+[  O1  ] Job finished at 14/03/2025 19:16:01 done in 55s
+[  O2  ] Job finished at 14/03/2025 19:31:13 done in 1m 8s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3
+[  VAR  ---> Error] Current culture: es-ES
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 14/03/2025 19:47:00
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 14/03/2025 19:52:27 done in 7m 22s
+[  M3  ] Job finished at 14/03/2025 20:06:16 done in 5m 10s
+[  M2  ] Job finished at 14/03/2025 20:16:22 done in 4m 18s
+[  M1  ] Job finished at 14/03/2025 20:28:29 done in 5m 24s
+[  DEP  ] Job finished at 14/03/2025 20:37:33 done in 3m 28s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 14/03/2025 20:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 14/03/2025 20:45:59 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 14/03/2025 20:46:34 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 14/03/2025 20:46:55 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 14/03/2025 20:47:17 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 14/03/2025 20:47:50 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 14/03/2025 20:48:13 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 14/03/2025 20:48:38 done in 8s
+        [  REX -> ZVAR  ] Job (rex) finished at 14/03/2025 20:49:01 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 14/03/2025 20:49:20 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 14/03/2025 20:49:40 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 14/03/2025 20:50:02 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 14/03/2025 20:50:22 done in 5s
+            <--- Subiendo xmls 14/03/2025 20:50 --->
+<---  FIN  --->
