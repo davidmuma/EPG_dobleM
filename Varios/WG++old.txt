@@ -1,0 +1,156 @@
+<--- INICIO --->
+[  O1  ] Job finished at 09/05/2025 03:02:31 done in 2m 25s
+[  O2  ] Job finished at 09/05/2025 03:18:47 done in 3m 42s
+[  M3  ] Job finished at 09/05/2025 03:53:34 done in 8m 30s
+[  M2  ] Job finished at 09/05/2025 04:06:49 done in 6m 44s
+[  M1  ] Job finished at 09/05/2025 04:21:58 done in 6m 54s
+[  DEP  ] Job finished at 09/05/2025 04:34:52 done in 4m 47s
+[  ZPT  ] Job finished at 09/05/2025 07:11:08 done in 1m 4s
+[  ZFR  ] Job finished at 09/05/2025 07:20:17 done in 2m 12s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ] Job finished at 09/05/2025 07:33:51 done in 7m 47s
+[  ZUK  ] Job finished at 09/05/2025 07:34:45 done in 39s
+[  ZVAR  ] Job finished at 09/05/2025 07:47:51 done in 5m 46s
+[  VAR  ---> Error] Unable to update channel 8madrid TV
+[  VAR  ---> Error] Current culture: es-ES
+[  VAR  ---> Error] time parsing error : String ' ' was not recognized as a valid DateTime.
+[  VAR  ---> Error] stoptime time scrubbed :  
+[  VAR  ---> Error] computer date/time format: 09/05/2025 07:50:45
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 09/05/2025 07:58:19 done in 8m 14s
+[  M3  ] Job finished at 09/05/2025 08:08:32 done in 7m 28s
+[  M2  ] Job finished at 09/05/2025 08:18:11 done in 6m 6s
+[  M1  ] Job finished at 09/05/2025 08:30:10 done in 7m 5s
+[  DEP  ] Job finished at 09/05/2025 08:39:09 done in 5m 4s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 09/05/2025 08:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 09/05/2025 08:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 09/05/2025 08:46:31 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 09/05/2025 08:46:55 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 09/05/2025 08:47:17 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 09/05/2025 08:47:51 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 09/05/2025 08:48:16 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 09/05/2025 08:48:42 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 09/05/2025 08:49:05 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 09/05/2025 08:49:24 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 09/05/2025 08:49:44 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 09/05/2025 08:50:06 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 09/05/2025 08:50:25 done in 5s
+            <--- Subiendo xmls 09/05/2025 08:50 --->
+[  O1  ] Job finished at 09/05/2025 11:12:38 done in 2m 33s
+[  O2  ] Job finished at 09/05/2025 11:33:17 done in 3m 12s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 09/05/2025 11:48:11 done in 8m 6s
+[  M3  ] Job finished at 09/05/2025 12:08:15 done in 7m 11s
+[  M2  ] Job finished at 09/05/2025 12:18:01 done in 5m 57s
+[  M1  ] Job finished at 09/05/2025 12:29:45 done in 6m 41s
+[  DEP  ] Job finished at 09/05/2025 12:39:09 done in 5m 5s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 09/05/2025 12:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 09/05/2025 12:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 09/05/2025 12:46:31 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 09/05/2025 12:46:54 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 09/05/2025 12:47:17 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 09/05/2025 12:47:51 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 09/05/2025 12:48:15 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 09/05/2025 12:48:42 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 09/05/2025 12:49:04 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 09/05/2025 12:49:23 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 09/05/2025 12:49:43 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 09/05/2025 12:50:05 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 09/05/2025 12:50:24 done in 5s
+            <--- Subiendo xmls 09/05/2025 12:50 --->
+    [  TIVI  ]  Job finished at 09/05/2025 15:32
+    [  BAR  ] LaLiga TV BAR 4 · Job finished at 09/05/2025 15:40
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (09/05/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 09/05/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 09/05/2025 15:40
+    [  BAR  ] DAZN 1 BAR · Job finished at 09/05/2025 15:40
+    [  BAR  ] DAZN 2 BAR · Job finished at 09/05/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 09/05/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 09/05/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 09/05/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 09/05/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 09/05/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 09/05/2025 15:40
+    [  CLI  ] DBike · Job finished at 09/05/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 09/05/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 09/05/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 09/05/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 09/05/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 09/05/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 09/05/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 09/05/2025 15:41
+    [  dazn  ] NFL Network · Job finished at 09/05/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 09/05/2025 15:41
+    [  dazn  ] Matchroom Boxing · Job finished at 09/05/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 09/05/2025 15:41
+    [  dazn  ] Unbeaten · Job finished at 09/05/2025 15:41
+    [  dazn  ] PDC Darts · Job finished at 09/05/2025 15:41
+    [  dazn  ] Motorvision TV · Job finished at 09/05/2025 15:41
+    [  dazn  ] PowerSports World · Job finished at 09/05/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 09/05/2025 15:41
+    [  dazn  ] ACL Cornhole TV · Job finished at 09/05/2025 15:41
+    [  dazn  ] Billiard TV · Job finished at 09/05/2025 15:41
+    [  GOL  ] Job finished at 09/05/2025 15:41
+    [  FEF  ] Job finished at 09/05/2025 15:41
+    [  LIGAF  ] Job finished at 09/05/2025 15:41
+[  M3  ] Job finished at 09/05/2025 16:08:50 done in 7m 46s
+[  M2  ] Job finished at 09/05/2025 16:18:11 done in 6m 6s
+[  M1  ] Job finished at 09/05/2025 16:29:54 done in 6m 49s
+[  DEP  ] Job finished at 09/05/2025 16:39:16 done in 5m 11s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 09/05/2025 16:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 09/05/2025 16:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 09/05/2025 16:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 09/05/2025 16:46:56 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 09/05/2025 16:47:19 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 09/05/2025 16:47:52 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 09/05/2025 16:48:16 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 09/05/2025 16:48:43 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 09/05/2025 16:49:05 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 09/05/2025 16:49:24 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 09/05/2025 16:49:44 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 09/05/2025 16:50:06 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 09/05/2025 16:50:26 done in 5s
+            <--- Subiendo xmls 09/05/2025 16:50 --->
+[  ZPT  ] Job finished at 09/05/2025 18:11:06 done in 1m 1s
+[  ZFR  ] Job finished at 09/05/2025 18:19:18 done in 1m 13s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 09/05/2025 18:27:39 done in 1m 34s
+[  ZUK  ] Job finished at 09/05/2025 18:34:36 done in 31s
+[  ZVAR  ] Job finished at 09/05/2025 18:45:28 done in 3m 24s
+[  O1  ] Job finished at 09/05/2025 19:17:02 done in 1m 57s
+[  O2  ] Job finished at 09/05/2025 19:33:18 done in 3m 13s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 09/05/2025 19:54:09 done in 9m 4s
+[  M3  ] Job finished at 09/05/2025 20:08:32 done in 7m 27s
+[  M2  ] Job finished at 09/05/2025 20:18:00 done in 5m 56s
+[  M1  ] Job finished at 09/05/2025 20:29:43 done in 6m 38s
+[  DEP  ] Job finished at 09/05/2025 20:39:14 done in 5m 9s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 09/05/2025 20:45:26 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 09/05/2025 20:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 09/05/2025 20:46:32 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 09/05/2025 20:46:56 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 09/05/2025 20:47:19 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 09/05/2025 20:47:54 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 09/05/2025 20:48:18 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 09/05/2025 20:48:45 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 09/05/2025 20:49:08 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 09/05/2025 20:49:27 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 09/05/2025 20:49:47 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 09/05/2025 20:50:09 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 09/05/2025 20:50:29 done in 5s
+            <--- Subiendo xmls 09/05/2025 20:50 --->
+<---  FIN  --->
