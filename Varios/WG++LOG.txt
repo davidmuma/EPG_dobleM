@@ -1,0 +1,37 @@
+<--- INICIO --->
+[  O1  ] Job finished at 30/06/2025 03:01:50 done in 1m 46s
+[  O2  ] Job finished at 30/06/2025 03:18:34 done in 3m 30s
+[  M3  ] Job finished at 30/06/2025 03:53:02 done in 7m 57s
+[  M2  ] Job finished at 30/06/2025 04:07:20 done in 7m 15s
+[  M1  ] Job finished at 30/06/2025 04:22:05 done in 7m 1s
+[  DEP  ] Job finished at 30/06/2025 04:34:07 done in 4m 2s
+[  ZPT  ] Job finished at 30/06/2025 07:11:03 done in 58s
+[  ZFR  ] Job finished at 30/06/2025 07:21:02 done in 2m 57s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ] Job finished at 30/06/2025 07:30:02 done in 3m 58s
+[  ZUK  ] Job finished at 30/06/2025 07:34:45 done in 39s
+[  ZVAR  ] Job finished at 30/06/2025 07:45:16 done in 3m 12s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 30/06/2025 07:53:26 done in 3m 21s
+[  M3  ] Job finished at 30/06/2025 08:07:58 done in 6m 53s
+[  M2  ] Job finished at 30/06/2025 08:18:46 done in 6m 41s
+[  M1  ] Job finished at 30/06/2025 08:29:25 done in 6m 20s
+[  DEP  ] Job finished at 30/06/2025 08:38:41 done in 4m 35s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 30/06/2025 08:45:23 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 30/06/2025 08:45:53 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 30/06/2025 08:46:26 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 30/06/2025 08:46:49 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 30/06/2025 08:47:11 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 30/06/2025 08:47:36 done in 8s
+        [  REX -> O1  ] Job (rex) finished at 30/06/2025 08:48:00 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 30/06/2025 08:48:26 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 30/06/2025 08:48:47 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 30/06/2025 08:49:07 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 30/06/2025 08:49:26 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 30/06/2025 08:49:48 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 30/06/2025 08:50:08 done in 5s
+            <--- Subiendo xmls 30/06/2025 08:50 --->
