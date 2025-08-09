@@ -1,0 +1,181 @@
+<--- INICIO --->
+[  O1  ---> Error] error downloading page : TimeOut (5 sec)
+[  O1  ---> Error] retry 1 of 1 times
+[  O1  ---> Error] Unable to update channel AMC Break
+[  O1  ---> Error] no index page data received from AMC Break
+[  O1  ---> Error] unable to update channel, try again later
+[  O1  ---> Error] no shows in indexpage!
+[  O1  ] Job finished at 08/08/2025 03:02:06 done in 2m 0s
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ] Job finished at 08/08/2025 03:18:52 done in 3m 47s
+[  M3  ] Job finished at 08/08/2025 03:53:27 done in 8m 23s
+[  M2  ] Job finished at 08/08/2025 04:07:00 done in 6m 55s
+[  M1  ] Job finished at 08/08/2025 04:22:06 done in 7m 1s
+[  DEP  ] Job finished at 08/08/2025 04:34:11 done in 4m 6s
+[  ZPT  ] Job finished at 08/08/2025 07:11:01 done in 57s
+[  ZFR  ] Job finished at 08/08/2025 07:21:25 done in 3m 20s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 08/08/2025 07:27:53 done in 1m 48s
+[  ZUK  ] Job finished at 08/08/2025 07:34:48 done in 44s
+[  ZVAR  ] Job finished at 08/08/2025 07:46:45 done in 4m 40s
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3
+[  VAR  ---> Error] Current culture: es-ES
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 08/08/2025 07:54:05
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 08/08/2025 07:57:30 done in 7m 25s
+[  M3  ] Job finished at 08/08/2025 08:08:49 done in 7m 45s
+[  M2  ] Job finished at 08/08/2025 08:18:38 done in 6m 33s
+[  M1  ] Job finished at 08/08/2025 08:30:22 done in 7m 17s
+[  DEP  ] Job finished at 08/08/2025 08:38:01 done in 3m 57s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 08/08/2025 08:45:24 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 08/08/2025 08:45:56 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 08/08/2025 08:46:32 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 08/08/2025 08:46:55 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 08/08/2025 08:47:17 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 08/08/2025 08:47:50 done in 12s
+        [  REX -> O1  ] Job (rex) finished at 08/08/2025 08:48:15 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 08/08/2025 08:48:42 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 08/08/2025 08:49:05 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 08/08/2025 08:49:24 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 08/08/2025 08:49:44 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 08/08/2025 08:50:06 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 08/08/2025 08:50:25 done in 5s
+            <--- Subiendo xmls 08/08/2025 08:50 --->
+[  O1  ---> Error] no shows in indexpage!
+[  O1  ] Job finished at 08/08/2025 11:11:48 done in 1m 43s
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ] Job finished at 08/08/2025 11:33:23 done in 3m 18s
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3
+[  VAR  ---> Error] Current culture: es-ES
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 08/08/2025 11:42:53
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  VAR  ---> Error] retry 1 of 2 times
+[  VAR  ] Job finished at 08/08/2025 11:46:39 done in 6m 34s
+[  M3  ] Job finished at 08/08/2025 12:08:36 done in 7m 31s
+[  M2  ] Job finished at 08/08/2025 12:18:21 done in 6m 16s
+[  M1  ] Job finished at 08/08/2025 12:29:52 done in 6m 48s
+[  DEP  ] Job finished at 08/08/2025 12:37:48 done in 3m 43s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 08/08/2025 12:45:24 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 08/08/2025 12:45:55 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 08/08/2025 12:46:29 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 08/08/2025 12:46:51 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 08/08/2025 12:47:14 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 08/08/2025 12:47:48 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 08/08/2025 12:48:12 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 08/08/2025 12:48:39 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 08/08/2025 12:49:02 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 08/08/2025 12:49:21 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 08/08/2025 12:49:41 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 08/08/2025 12:50:03 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 08/08/2025 12:50:22 done in 5s
+            <--- Subiendo xmls 08/08/2025 12:50 --->
+    [  TIVI  ]  Job finished at 08/08/2025 15:32
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (08/08/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 08/08/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 08/08/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 08/08/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 08/08/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 08/08/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 08/08/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 08/08/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 08/08/2025 15:40
+    [  CLI  ] DBike · Job finished at 08/08/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 08/08/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 08/08/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 08/08/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 08/08/2025 15:40
+    [  ZAP  ] tlnovelas · Job finished at 08/08/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 08/08/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 08/08/2025 15:41
+    [  dazn  ---> Error] NFL Network no existe o no tiene información (08/08/2025 15:41)
+    [  dazn  ] Red Bull TV · Job finished at 08/08/2025 15:41
+    [  dazn  ] Matchroom Boxing · Job finished at 08/08/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 08/08/2025 15:41
+    [  dazn  ] Unbeaten · Job finished at 08/08/2025 15:41
+    [  dazn  ] PDC Darts · Job finished at 08/08/2025 15:41
+    [  dazn  ] Motorvision TV · Job finished at 08/08/2025 15:41
+    [  dazn  ] PowerSports World · Job finished at 08/08/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 08/08/2025 15:41
+    [  dazn  ] ACL Cornhole TV · Job finished at 08/08/2025 15:41
+    [  dazn  ] Billiard TV · Job finished at 08/08/2025 15:41
+    [  GOL  ] Job finished at 08/08/2025 15:41
+    [  FEF  ] Job finished at 08/08/2025 15:41
+    [  LIGAF  ] Job finished at 08/08/2025 15:41
+[  M3  ] Job finished at 08/08/2025 16:09:15 done in 8m 9s
+[  M2  ] Job finished at 08/08/2025 16:18:21 done in 6m 17s
+[  M1  ] Job finished at 08/08/2025 16:29:51 done in 6m 46s
+[  DEP  ] Job finished at 08/08/2025 16:37:51 done in 3m 47s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 08/08/2025 16:45:25 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 08/08/2025 16:45:55 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 08/08/2025 16:46:30 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 08/08/2025 16:46:52 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 08/08/2025 16:47:15 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 08/08/2025 16:47:48 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 08/08/2025 16:48:12 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 08/08/2025 16:48:39 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 08/08/2025 16:49:02 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 08/08/2025 16:49:21 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 08/08/2025 16:49:41 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 08/08/2025 16:50:03 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 08/08/2025 16:50:22 done in 5s
+            <--- Subiendo xmls 08/08/2025 16:50 --->
+[  ZPT  ] Job finished at 08/08/2025 18:11:00 done in 55s
+[  ZFR  ] Job finished at 08/08/2025 18:20:48 done in 2m 43s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ] Job finished at 08/08/2025 18:33:17 done in 7m 13s
+[  ZUK  ] Job finished at 08/08/2025 18:34:40 done in 35s
+[  ZVAR  ] Job finished at 08/08/2025 18:45:21 done in 3m 17s
+[  O1  ---> Error] no shows in indexpage!
+[  O1  ] Job finished at 08/08/2025 19:16:59 done in 1m 54s
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ] Job finished at 08/08/2025 19:33:18 done in 3m 13s
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3
+[  VAR  ---> Error] Current culture: es-ES
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 08/08/2025 19:47:47
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 08/08/2025 19:52:01 done in 6m 56s
+[  M3  ] Job finished at 08/08/2025 20:09:09 done in 8m 4s
+[  M2  ] Job finished at 08/08/2025 20:18:17 done in 6m 12s
+[  M1  ] Job finished at 08/08/2025 20:29:49 done in 6m 44s
+[  DEP  ] Job finished at 08/08/2025 20:38:03 done in 3m 59s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 08/08/2025 20:45:25 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 08/08/2025 20:45:57 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 08/08/2025 20:46:33 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 08/08/2025 20:46:56 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 08/08/2025 20:47:19 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 08/08/2025 20:47:53 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 08/08/2025 20:48:17 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 08/08/2025 20:48:44 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 08/08/2025 20:49:09 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 08/08/2025 20:49:28 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 08/08/2025 20:49:48 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 08/08/2025 20:50:10 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 08/08/2025 20:50:29 done in 5s
+            <--- Subiendo xmls 08/08/2025 20:50 --->
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3
+[  VAR  ---> Error] Current culture: es-ES
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime.
+[  VAR  ---> Error] nextstartdatetime time scrubbed : 
+[  VAR  ---> Error] computer date/time format: 08/08/2025 23:50:47
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 08/08/2025 23:54:53 done in 11m 48s
+<---  FIN  --->
