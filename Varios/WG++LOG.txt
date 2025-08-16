@@ -1,0 +1,112 @@
+<--- INICIO --->
+[  O1  ---> Error] no shows in indexpage!
+[  O1  ] Job finished at 16/08/2025 03:02:42 done in 2m 37s
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ] Job finished at 16/08/2025 03:19:12 done in 4m 7s
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ] Job finished at 16/08/2025 03:54:07 done in 9m 1s
+[  M2  ] Job finished at 16/08/2025 04:07:34 done in 7m 30s
+[  M1  ] Job finished at 16/08/2025 04:22:14 done in 7m 9s
+[  DEP  ] Job finished at 16/08/2025 04:34:18 done in 4m 14s
+[  ZPT  ] Job finished at 16/08/2025 07:11:02 done in 57s
+[  ZFR  ] Job finished at 16/08/2025 07:20:50 done in 2m 46s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 16/08/2025 07:27:45 done in 1m 40s
+[  ZUK  ] Job finished at 16/08/2025 07:34:50 done in 45s
+[  ZVAR  ] Job finished at 16/08/2025 07:48:42 done in 6m 37s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 16/08/2025 07:57:22 done in 7m 17s
+[  M3  ] Job finished at 16/08/2025 08:08:56 done in 7m 51s
+[  M2  ] Job finished at 16/08/2025 08:18:49 done in 6m 45s
+[  M1  ] Job finished at 16/08/2025 08:29:43 done in 6m 38s
+[  DEP  ] Job finished at 16/08/2025 08:38:33 done in 4m 29s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 16/08/2025 08:45:24 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 16/08/2025 08:45:55 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 16/08/2025 08:46:30 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 16/08/2025 08:46:53 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 16/08/2025 08:47:16 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 16/08/2025 08:47:51 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 16/08/2025 08:48:15 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 16/08/2025 08:48:42 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 16/08/2025 08:49:05 done in 8s
+        [  REX -> ZPT  ] Job (rex) finished at 16/08/2025 08:49:25 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 16/08/2025 08:49:45 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 16/08/2025 08:50:07 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 16/08/2025 08:50:26 done in 5s
+            <--- Subiendo xmls 16/08/2025 08:50 --->
+[  O1  ---> Error] no shows in indexpage!
+[  O1  ] Job finished at 16/08/2025 11:12:24 done in 2m 19s
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ] Job finished at 16/08/2025 11:33:35 done in 3m 29s
+[  VAR  ] Job finished at 16/08/2025 11:46:35 done in 6m 30s
+[  M3  ] Job finished at 16/08/2025 12:08:47 done in 7m 42s
+[  M2  ] Job finished at 16/08/2025 12:18:49 done in 6m 44s
+[  M1  ] Job finished at 16/08/2025 12:29:47 done in 6m 42s
+[  DEP  ] Job finished at 16/08/2025 12:37:56 done in 3m 51s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 16/08/2025 12:45:25 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 16/08/2025 12:45:57 done in 12s
+        [  REX -> M3  ] Job (rex) finished at 16/08/2025 12:46:33 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 16/08/2025 12:46:56 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 16/08/2025 12:47:18 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 16/08/2025 12:47:53 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 16/08/2025 12:48:17 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 16/08/2025 12:48:45 done in 10s
+        [  REX -> ZVAR  ] Job (rex) finished at 16/08/2025 12:49:09 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 16/08/2025 12:49:28 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 16/08/2025 12:49:48 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 16/08/2025 12:50:10 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 16/08/2025 12:50:29 done in 5s
+            <--- Subiendo xmls 16/08/2025 12:50 --->
+    [  TIVI  ]  Job finished at 16/08/2025 15:32
+[  M3  ] Job finished at 16/08/2025 16:08:46 done in 7m 41s
+[  M2  ] Job finished at 16/08/2025 16:18:40 done in 6m 35s
+[  M1  ] Job finished at 16/08/2025 16:29:37 done in 6m 32s
+[  DEP  ] Job finished at 16/08/2025 16:37:50 done in 3m 45s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 16/08/2025 16:45:25 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 16/08/2025 16:45:55 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 16/08/2025 16:46:31 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 16/08/2025 16:46:54 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 16/08/2025 16:47:17 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 16/08/2025 16:47:52 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 16/08/2025 16:48:17 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 16/08/2025 16:48:45 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 16/08/2025 16:49:08 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 16/08/2025 16:49:28 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 16/08/2025 16:49:48 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 16/08/2025 16:50:10 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 16/08/2025 16:50:29 done in 5s
+            <--- Subiendo xmls 16/08/2025 16:50 --->
+[  ZPT  ] Job finished at 16/08/2025 18:11:05 done in 1m 1s
+[  ZFR  ] Job finished at 16/08/2025 18:20:35 done in 2m 30s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 16/08/2025 18:27:37 done in 1m 33s
+[  ZUK  ] Job finished at 16/08/2025 18:34:36 done in 32s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 16/08/2025 22:49:21 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 16/08/2025 22:49:52 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 16/08/2025 22:50:27 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 16/08/2025 22:50:49 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 16/08/2025 22:51:12 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 16/08/2025 22:51:46 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 16/08/2025 22:52:08 done in 6s
+        [  REX -> O2  ] Job (rex) finished at 16/08/2025 22:52:35 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 16/08/2025 22:52:58 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 16/08/2025 22:53:18 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 16/08/2025 22:53:38 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 16/08/2025 22:54:00 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 16/08/2025 22:54:19 done in 5s
+            <--- Subiendo xmls 16/08/2025 22:54 --->
