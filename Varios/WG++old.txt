@@ -1,0 +1,374 @@
+<--- INICIO --->
+[  ZPT  ] Job finished at 29/08/2025 07:01:07 done in 1m 2s
+[  ZFR  ] Job finished at 29/08/2025 07:06:56 done in 1m 51s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 29/08/2025 07:11:40 done in 1m 36s
+[  ZUK  ] Job finished at 29/08/2025 07:15:53 done in 48s
+[  ZVAR  ] Job finished at 29/08/2025 07:23:20 done in 3m 16s
+[  VAR  ] Job finished at 29/08/2025 07:38:33 done in 8m 28s
+[  O1  ] Job finished at 29/08/2025 07:43:09 done in 3m 4s
+[  O2  ] Job finished at 29/08/2025 07:54:03 done in 3m 58s
+[  M3  ---> Error] Unable to update channel La Ocho Mediterráneo
+[  M3  ---> Error] no index page data received from La Ocho Mediterráneo
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel IB3 TV Illes Balears
+[  M3  ---> Error] no index page data received from IB3 TV Illes Balears
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TV Canaria
+[  M3  ---> Error] no index page data received from TV Canaria
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel HBO Max Avances
+[  M3  ---> Error] no index page data received from HBO Max Avances
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel SkyShowtime
+[  M3  ---> Error] no index page data received from SkyShowtime
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel AXN Movies HD
+[  M3  ---> Error] no index page data received from AXN Movies HD
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Atreseries
+[  M3  ---> Error] no index page data received from Atreseries
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Real Madrid TV
+[  M3  ---> Error] no index page data received from Real Madrid TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Garage TV
+[  M3  ---> Error] no index page data received from Garage TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel DMAX
+[  M3  ---> Error] no index page data received from DMAX
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Mega
+[  M3  ---> Error] no index page data received from Mega
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Ten
+[  M3  ---> Error] no index page data received from Ten
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel ETB3
+[  M3  ---> Error] no index page data received from ETB3
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel EuroNews
+[  M3  ---> Error] no index page data received from EuroNews
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Negocios TV
+[  M3  ---> Error] no index page data received from Negocios TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel CGTN Español
+[  M3  ---> Error] no index page data received from CGTN Español
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel UCL
+[  M3  ---> Error] no index page data received from UCL
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Canal de las Estrellas
+[  M3  ---> Error] no index page data received from Canal de las Estrellas
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel TV Chile
+[  M3  ---> Error] no index page data received from TV Chile
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Nuestra Tele Internacional
+[  M3  ---> Error] no index page data received from Nuestra Tele Internacional
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel EWTN
+[  M3  ---> Error] no index page data received from EWTN
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel EITB Basque
+[  M3  ---> Error] no index page data received from EITB Basque
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Telemadrid Internacional
+[  M3  ---> Error] no index page data received from Telemadrid Internacional
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel SX3
+[  M3  ---> Error] no index page data received from SX3
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Esport 3
+[  M3  ---> Error] no index page data received from Esport 3
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel 324
+[  M3  ---> Error] no index page data received from 324
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Betevé
+[  M3  ---> Error] no index page data received from Betevé
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ] Job finished at 29/08/2025 08:06:53 done in 5m 48s
+[  M2  ---> Error] Unable to update channel Disney Junior
+[  M2  ---> Error] no index page data received from Disney Junior
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Nick JR
+[  M2  ---> Error] no index page data received from Nick JR
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Dreamworks HD
+[  M2  ---> Error] no index page data received from Dreamworks HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Boing
+[  M2  ---> Error] no index page data received from Boing
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel MTV España
+[  M2  ---> Error] no index page data received from MTV España
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Mezzo
+[  M2  ---> Error] no index page data received from Mezzo
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Classica HD
+[  M2  ---> Error] no index page data received from Classica HD
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ---> Error] Unable to update channel Alquiler 1
+[  M2  ---> Error] no index page data received from Alquiler 1
+[  M2  ---> Error] unable to update channel, try again later
+[  M2  ] Job finished at 29/08/2025 08:17:17 done in 5m 12s
+[  M1  ---> Error] Unable to update channel M+ Hits HD
+[  M1  ---> Error] no index page data received from M+ Hits HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Originales HD
+[  M1  ---> Error] no index page data received from M+ Originales HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Documentales HD
+[  M1  ---> Error] no index page data received from M+ Documentales HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Wéstern
+[  M1  ---> Error] no index page data received from M+ Wéstern
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Clásicos HD
+[  M1  ---> Error] no index page data received from M+ Clásicos HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel M+ Indie HD
+[  M1  ---> Error] no index page data received from M+ Indie HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel BBC Drama
+[  M1  ---> Error] no index page data received from BBC Drama
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel BBC Top Gear
+[  M1  ---> Error] no index page data received from BBC Top Gear
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel National Geographic HD
+[  M1  ---> Error] no index page data received from National Geographic HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Nat Geo Wild HD
+[  M1  ---> Error] no index page data received from Nat Geo Wild HD
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel BBC History
+[  M1  ---> Error] no index page data received from BBC History
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ---> Error] Unable to update channel Discovery
+[  M1  ---> Error] no index page data received from Discovery
+[  M1  ---> Error] unable to update channel, try again later
+[  M1  ] Job finished at 29/08/2025 08:29:09 done in 6m 4s
+[  DEP  ---> Error] Unable to update channel DAZN LaLiga HD
+[  DEP  ---> Error] no index page data received from DAZN LaLiga HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV Hypermotion HD
+[  DEP  ---> Error] no index page data received from LaLiga TV Hypermotion HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN LaLiga 2 HD
+[  DEP  ---> Error] no index page data received from DAZN LaLiga 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV Hypermotion 2
+[  DEP  ---> Error] no index page data received from LaLiga TV Hypermotion 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 3 HD
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 3 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN F1 HD
+[  DEP  ---> Error] no index page data received from DAZN F1 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 4
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 4
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Liga de Campeones 5
+[  DEP  ---> Error] no index page data received from M+ Liga de Campeones 5
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga 3 HD
+[  DEP  ---> Error] no index page data received from M+ LaLiga 3 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga 4
+[  DEP  ---> Error] no index page data received from M+ LaLiga 4
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga 5
+[  DEP  ---> Error] no index page data received from M+ LaLiga 5
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga 6
+[  DEP  ---> Error] no index page data received from M+ LaLiga 6
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel Movistar Plus+ 2 HD
+[  DEP  ---> Error] no index page data received from Movistar Plus+ 2 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV Hypermotion 3
+[  DEP  ---> Error] no index page data received from LaLiga TV Hypermotion 3
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Deportes 8
+[  DEP  ---> Error] no index page data received from M+ Deportes 8
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN 3 HD
+[  DEP  ---> Error] no index page data received from DAZN 3 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel DAZN 4 HD
+[  DEP  ---> Error] no index page data received from DAZN 4 HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga HDR
+[  DEP  ---> Error] no index page data received from M+ LaLiga HDR
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ LaLiga 2 HDR
+[  DEP  ---> Error] no index page data received from M+ LaLiga 2 HDR
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel M+ Wimbledon UHD
+[  DEP  ---> Error] no index page data received from M+ Wimbledon UHD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ] Job finished at 29/08/2025 08:38:04 done in 3m 59s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 29/08/2025 08:45:22 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 29/08/2025 08:45:52 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 29/08/2025 08:46:24 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 29/08/2025 08:46:47 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 29/08/2025 08:47:10 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 29/08/2025 08:47:44 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 29/08/2025 08:48:08 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 29/08/2025 08:48:35 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 29/08/2025 08:48:57 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 29/08/2025 08:49:16 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 29/08/2025 08:49:31 done in 3s
+        [  REX -> ZDE  ] Job (rex) finished at 29/08/2025 08:49:53 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 29/08/2025 08:50:12 done in 5s
+            <--- Subiendo xmls 29/08/2025 08:50 --->
+[  O1  ] Job finished at 29/08/2025 11:12:09 done in 2m 4s
+[  O2  ] Job finished at 29/08/2025 11:33:14 done in 3m 9s
+[  VAR  ] Job finished at 29/08/2025 11:46:44 done in 6m 40s
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ---> Error] Unable to update channel SkyShowtime
+[  M3  ---> Error] no index page data received from SkyShowtime
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel UBEAT
+[  M3  ---> Error] no index page data received from UBEAT
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel Negocios TV
+[  M3  ---> Error] no index page data received from Negocios TV
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ---> Error] Unable to update channel CGTN Documentary
+[  M3  ---> Error] no index page data received from CGTN Documentary
+[  M3  ---> Error] unable to update channel, try again later
+[  M3  ] Job finished at 29/08/2025 12:11:44 done in 10m 40s
+[  M2  ] Job finished at 29/08/2025 12:21:14 done in 9m 9s
+[  DEP  ] Job finished at 29/08/2025 12:40:13 done in 6m 8s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 29/08/2025 12:45:23 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 29/08/2025 12:45:54 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 29/08/2025 12:46:27 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 29/08/2025 12:46:50 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 29/08/2025 12:47:13 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 29/08/2025 12:47:47 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 29/08/2025 12:48:12 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 29/08/2025 12:48:38 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 29/08/2025 12:49:00 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 29/08/2025 12:49:19 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 29/08/2025 12:49:35 done in 3s
+        [  REX -> ZDE  ] Job (rex) finished at 29/08/2025 12:49:56 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 29/08/2025 12:50:15 done in 5s
+            <--- Subiendo xmls 29/08/2025 12:50 --->
+    [  TIVI  ]  Job finished at 29/08/2025 15:32
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (29/08/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 29/08/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 29/08/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 29/08/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 29/08/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 29/08/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 29/08/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 29/08/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 29/08/2025 15:40
+    [  CLI  ] DBike · Job finished at 29/08/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 29/08/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 29/08/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 29/08/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 29/08/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 29/08/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 29/08/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 29/08/2025 15:41
+    [  ZAP  ] PTV Granada · Job finished at 29/08/2025 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 29/08/2025 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (29/08/2025 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (29/08/2025 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 29/08/2025 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 29/08/2025 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (29/08/2025 15:41)
+    [  dazn  ] NFL Network · Job finished at 29/08/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 29/08/2025 15:41
+    [  dazn  ] Matchroom Boxing · Job finished at 29/08/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 29/08/2025 15:41
+    [  dazn  ] Unbeaten · Job finished at 29/08/2025 15:41
+    [  dazn  ] PDC Darts · Job finished at 29/08/2025 15:42
+    [  dazn  ] Motorvision TV · Job finished at 29/08/2025 15:42
+    [  dazn  ] PowerSports World · Job finished at 29/08/2025 15:42
+    [  dazn  ] PLL Network · Job finished at 29/08/2025 15:42
+    [  dazn  ] ACL Cornhole TV · Job finished at 29/08/2025 15:42
+    [  dazn  ] Billiard TV · Job finished at 29/08/2025 15:42
+    [  GOL  ] Job finished at 29/08/2025 15:42
+[  M3  ] Job finished at 29/08/2025 16:08:51 done in 7m 46s
+[  M2  ] Job finished at 29/08/2025 16:18:21 done in 6m 16s
+[  M1  ] Job finished at 29/08/2025 16:29:56 done in 6m 51s
+[  DEP  ] Job finished at 29/08/2025 16:38:32 done in 4m 27s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 29/08/2025 16:45:23 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 29/08/2025 16:45:54 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 29/08/2025 16:46:27 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 29/08/2025 16:46:50 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 29/08/2025 16:47:13 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 29/08/2025 16:47:47 done in 13s
+        [  REX -> O1  ] Job (rex) finished at 29/08/2025 16:48:11 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 29/08/2025 16:48:38 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 29/08/2025 16:49:00 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 29/08/2025 16:49:19 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 29/08/2025 16:49:34 done in 3s
+        [  REX -> ZDE  ] Job (rex) finished at 29/08/2025 16:49:55 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 29/08/2025 16:50:15 done in 5s
+            <--- Subiendo xmls 29/08/2025 16:50 --->
+[  ZPT  ] Job finished at 29/08/2025 18:11:07 done in 1m 1s
+[  ZFR  ] Job finished at 29/08/2025 18:19:59 done in 1m 54s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 29/08/2025 18:27:38 done in 1m 34s
+[  ZUK  ] Job finished at 29/08/2025 18:34:36 done in 32s
+[  ZVAR  ] Job finished at 29/08/2025 18:46:45 done in 4m 40s
+[  O1  ] Job finished at 29/08/2025 19:17:09 done in 2m 4s
+[  O2  ] Job finished at 29/08/2025 19:33:14 done in 3m 9s
+[  VAR  ] Job finished at 29/08/2025 19:52:44 done in 7m 40s
+[  M3  ] Job finished at 29/08/2025 20:08:43 done in 7m 39s
+[  M2  ] Job finished at 29/08/2025 20:18:07 done in 6m 2s
+[  M1  ] Job finished at 29/08/2025 20:29:41 done in 6m 36s
+[  DEP  ---> Error] Unable to update channel Vamos BAR 2
+[  DEP  ---> Error] no index page data received from Vamos BAR 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV BAR HD
+[  DEP  ---> Error] no index page data received from LaLiga TV BAR HD
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV BAR 2
+[  DEP  ---> Error] no index page data received from LaLiga TV BAR 2
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ---> Error] Unable to update channel LaLiga TV BAR 3
+[  DEP  ---> Error] no index page data received from LaLiga TV BAR 3
+[  DEP  ---> Error] unable to update channel, try again later
+[  DEP  ] Job finished at 29/08/2025 20:38:14 done in 4m 9s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 29/08/2025 20:45:25 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 29/08/2025 20:45:56 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 29/08/2025 20:46:30 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 29/08/2025 20:46:53 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 29/08/2025 20:47:16 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 29/08/2025 20:47:52 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 29/08/2025 20:48:16 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 29/08/2025 20:48:43 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 29/08/2025 20:49:06 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 29/08/2025 20:49:25 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 29/08/2025 20:49:40 done in 3s
+        [  REX -> ZDE  ] Job (rex) finished at 29/08/2025 20:50:02 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 29/08/2025 20:50:22 done in 5s
+            <--- Subiendo xmls 29/08/2025 20:50 --->
+<---  FIN  --->
