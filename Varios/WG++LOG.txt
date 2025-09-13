@@ -1,0 +1,156 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 13/09/2025 07:00:41 done in 25m 36s
+[  ZPT  ] Job finished at 13/09/2025 07:06:03 done in 58s
+[  ZDE  ---> Error] no shows in indexpage!
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 13/09/2025 07:11:43 done in 1m 38s
+[  ZUK  ] Job finished at 13/09/2025 07:15:54 done in 49s
+[  ZVAR  ] Job finished at 13/09/2025 07:23:49 done in 3m 45s
+[  VAR  ] Job finished at 13/09/2025 07:39:41 done in 9m 37s
+[  O1  ] Job finished at 13/09/2025 07:43:10 done in 3m 5s
+[  O2  ] Job finished at 13/09/2025 07:54:18 done in 4m 13s
+[  M3  ] Job finished at 13/09/2025 08:10:07 done in 9m 2s
+[  M2  ] Job finished at 13/09/2025 08:19:11 done in 7m 6s
+[  M1  ] Job finished at 13/09/2025 08:31:03 done in 7m 58s
+[  DEP  ] Job finished at 13/09/2025 08:38:57 done in 4m 52s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 13/09/2025 08:45:23 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 13/09/2025 08:45:54 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 13/09/2025 08:46:27 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 13/09/2025 08:46:50 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 13/09/2025 08:47:13 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 13/09/2025 08:47:49 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 13/09/2025 08:48:13 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 13/09/2025 08:48:40 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 13/09/2025 08:49:03 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 13/09/2025 08:49:22 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 13/09/2025 08:49:42 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 13/09/2025 08:50:04 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 13/09/2025 08:50:23 done in 5s
+            <--- Subiendo xmls 13/09/2025 08:50 --->
+[  O1  ] Job finished at 13/09/2025 11:12:24 done in 2m 18s
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ] Job finished at 13/09/2025 11:33:36 done in 3m 31s
+[  VAR  ] Job finished at 13/09/2025 11:46:57 done in 6m 52s
+[  M3  ] Job finished at 13/09/2025 12:08:12 done in 7m 7s
+[  M2  ---> Error] error downloading page : TimeOut (20 sec)
+[  M2  ---> Error] retry 1 of 2 times
+[  M2  ] Job finished at 13/09/2025 12:18:41 done in 6m 37s
+[  M1  ] Job finished at 13/09/2025 12:29:35 done in 6m 30s
+[  DEP  ] Job finished at 13/09/2025 12:38:36 done in 4m 32s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 13/09/2025 12:45:24 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 13/09/2025 12:45:54 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 13/09/2025 12:46:28 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 13/09/2025 12:46:51 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 13/09/2025 12:47:14 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 13/09/2025 12:47:51 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 13/09/2025 12:48:15 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 13/09/2025 12:48:42 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 13/09/2025 12:49:05 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 13/09/2025 12:49:24 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 13/09/2025 12:49:44 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 13/09/2025 12:50:06 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 13/09/2025 12:50:25 done in 5s
+            <--- Subiendo xmls 13/09/2025 12:50 --->
+    [  TIVI  ]  Job finished at 13/09/2025 15:32
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 13/09/2025 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 13/09/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 13/09/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 13/09/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 13/09/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 13/09/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 13/09/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 13/09/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 13/09/2025 15:40
+    [  CLI  ] DBike · Job finished at 13/09/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 13/09/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 13/09/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 13/09/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 13/09/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 13/09/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 13/09/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 13/09/2025 15:41
+    [  ZAP  ] PTV Granada · Job finished at 13/09/2025 15:41
+    [  ZAP  ---> Error] PTV Sevilla no existe o no tiene información (13/09/2025 15:41)
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (13/09/2025 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 13/09/2025 15:41
+    [  ZAP  ] PTV Linares · Job finished at 13/09/2025 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 13/09/2025 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (13/09/2025 15:41)
+    [  dazn  ] NFL Network · Job finished at 13/09/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 13/09/2025 15:41
+    [  dazn  ] Matchroom Boxing · Job finished at 13/09/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 13/09/2025 15:41
+    [  dazn  ] Unbeaten · Job finished at 13/09/2025 15:41
+    [  dazn  ] PDC Darts · Job finished at 13/09/2025 15:41
+    [  dazn  ] Motorvision TV · Job finished at 13/09/2025 15:41
+    [  dazn  ] PowerSports World · Job finished at 13/09/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 13/09/2025 15:41
+    [  dazn  ] ACL Cornhole TV · Job finished at 13/09/2025 15:41
+    [  dazn  ] Billiard TV · Job finished at 13/09/2025 15:41
+    [  GOL  ] Job finished at 13/09/2025 15:42
+[  M3  ---> Error] error downloading page : TimeOut (20 sec)
+[  M3  ---> Error] retry 1 of 2 times
+[  M3  ] Job finished at 13/09/2025 16:09:53 done in 8m 48s
+[  M2  ] Job finished at 13/09/2025 16:18:23 done in 6m 18s
+[  M1  ] Job finished at 13/09/2025 16:29:45 done in 6m 40s
+[  DEP  ] Job finished at 13/09/2025 16:38:39 done in 4m 34s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 13/09/2025 16:45:24 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 13/09/2025 16:45:55 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 13/09/2025 16:46:29 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 13/09/2025 16:46:52 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 13/09/2025 16:47:16 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 13/09/2025 16:47:52 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 13/09/2025 16:48:17 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 13/09/2025 16:48:43 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 13/09/2025 16:49:06 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 13/09/2025 16:49:26 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 13/09/2025 16:49:46 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 13/09/2025 16:50:07 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 13/09/2025 16:50:27 done in 5s
+            <--- Subiendo xmls 13/09/2025 16:50 --->
+[  ZFR  ] Job finished at 13/09/2025 17:46:05 done in 16m 0s
+[  ZPT  ] Job finished at 13/09/2025 18:19:00 done in 56s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2
+[  ZDE  ---> Error] unable to update channel, try again later
+[  ZDE  ] Job finished at 13/09/2025 18:27:38 done in 1m 33s
+[  ZUK  ] Job finished at 13/09/2025 18:34:36 done in 31s
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ] Job finished at 13/09/2025 18:46:36 done in 4m 30s
+[  O1  ] Job finished at 13/09/2025 19:17:19 done in 2m 14s
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ---> Error] no shows in indexpage!
+[  O2  ] Job finished at 13/09/2025 19:33:34 done in 3m 29s
+[  VAR  ] Job finished at 13/09/2025 19:51:45 done in 6m 40s
+[  M3  ] Job finished at 13/09/2025 20:08:24 done in 7m 20s
+[  M2  ] Job finished at 13/09/2025 20:18:19 done in 6m 15s
+[  M1  ] Job finished at 13/09/2025 20:29:37 done in 6m 33s
+[  DEP  ] Job finished at 13/09/2025 20:38:33 done in 4m 29s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 13/09/2025 20:45:24 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 13/09/2025 20:45:54 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 13/09/2025 20:46:28 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 13/09/2025 20:46:52 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 13/09/2025 20:47:15 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 13/09/2025 20:47:52 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 13/09/2025 20:48:17 done in 7s
+        [  REX -> O2  ] Job (rex) finished at 13/09/2025 20:48:43 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 13/09/2025 20:49:07 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 13/09/2025 20:49:26 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 13/09/2025 20:49:46 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 13/09/2025 20:50:08 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 13/09/2025 20:50:27 done in 5s
+            <--- Subiendo xmls 13/09/2025 20:50 --->
