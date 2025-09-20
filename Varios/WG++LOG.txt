@@ -1,0 +1,152 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 20/09/2025 07:01:45 done in 26m 40s
+[  ZPT  ] Job finished at 20/09/2025 07:06:06 done in 1m 1s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ] Job finished at 20/09/2025 07:14:45 done in 4m 40s
+[  ZUK  ] Job finished at 20/09/2025 07:15:49 done in 44s
+[  ZVAR  ] Job finished at 20/09/2025 07:24:34 done in 4m 30s
+[  VAR  ] Job finished at 20/09/2025 07:39:12 done in 9m 8s
+[  O1  ---> Error] Unable to update channel Onetoro
+[  O1  ---> Error] Current culture: en-GB
+[  O1  ---> Error] time parsing error : String '1757959047020}' was not recognized as a valid DateTime.
+[  O1  ---> Error] stoptime time scrubbed : 1757959047020}
+[  O1  ---> Error] computer date/time format: 20/09/2025 07:40:22
+[  O1  ] Job finished at 20/09/2025 07:43:43 done in 3m 38s
+[  O2  ] Job finished at 20/09/2025 07:54:29 done in 4m 25s
+[  M3  ] Job finished at 20/09/2025 08:10:21 done in 9m 17s
+[  M2  ] Job finished at 20/09/2025 08:19:05 done in 7m 1s
+[  M1  ] Job finished at 20/09/2025 08:30:42 done in 7m 37s
+[  DEP  ] Job finished at 20/09/2025 08:39:45 done in 5m 41s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/09/2025 08:45:24 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 20/09/2025 08:45:56 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 20/09/2025 08:46:31 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 20/09/2025 08:46:55 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 20/09/2025 08:47:18 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 20/09/2025 08:47:54 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 20/09/2025 08:48:20 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 20/09/2025 08:48:49 done in 11s
+        [  REX -> ZVAR  ] Job (rex) finished at 20/09/2025 08:49:11 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/09/2025 08:49:30 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/09/2025 08:49:50 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 20/09/2025 08:50:12 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 20/09/2025 08:50:32 done in 5s
+            <--- Subiendo xmls 20/09/2025 08:50 --->
+[  O1  ---> Error] Unable to update channel Onetoro
+[  O1  ---> Error] Current culture: en-GB
+[  O1  ---> Error] time parsing error : String '1757959047020}' was not recognized as a valid DateTime.
+[  O1  ---> Error] stoptime time scrubbed : 1757959047020}
+[  O1  ---> Error] computer date/time format: 20/09/2025 11:10:22
+[  O1  ] Job finished at 20/09/2025 11:12:48 done in 2m 43s
+[  O2  ] Job finished at 20/09/2025 11:33:29 done in 3m 24s
+[  VAR  ] Job finished at 20/09/2025 11:46:46 done in 6m 41s
+[  M3  ] Job finished at 20/09/2025 12:08:30 done in 7m 25s
+[  M2  ] Job finished at 20/09/2025 12:18:22 done in 6m 18s
+[  M1  ] Job finished at 20/09/2025 12:29:37 done in 6m 32s
+[  DEP  ] Job finished at 20/09/2025 12:39:05 done in 5m 1s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/09/2025 12:45:25 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 20/09/2025 12:45:55 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 20/09/2025 12:46:30 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 20/09/2025 12:46:54 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 20/09/2025 12:47:18 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 20/09/2025 12:47:54 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 20/09/2025 12:48:20 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 20/09/2025 12:48:47 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 20/09/2025 12:49:09 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/09/2025 12:49:29 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/09/2025 12:49:48 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 20/09/2025 12:50:10 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 20/09/2025 12:50:30 done in 5s
+            <--- Subiendo xmls 20/09/2025 12:50 --->
+    [  TIVI  ]  Job finished at 20/09/2025 15:32
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 20/09/2025 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 20/09/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 20/09/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 20/09/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 20/09/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 20/09/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 20/09/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 20/09/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 20/09/2025 15:40
+    [  CLI  ] DBike · Job finished at 20/09/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 20/09/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 20/09/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 20/09/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 20/09/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 20/09/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 20/09/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 20/09/2025 15:41
+    [  ZAP  ] PTV Granada · Job finished at 20/09/2025 15:41
+    [  ZAP  ---> Error] PTV Sevilla no existe o no tiene información (20/09/2025 15:41)
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (20/09/2025 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (20/09/2025 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 20/09/2025 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 20/09/2025 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (20/09/2025 15:41)
+    [  dazn  ] NFL Network · Job finished at 20/09/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 20/09/2025 15:41
+    [  dazn  ] Matchroom Boxing · Job finished at 20/09/2025 15:42
+    [  dazn  ] Boxing TV · Job finished at 20/09/2025 15:42
+    [  dazn  ] Unbeaten · Job finished at 20/09/2025 15:42
+    [  dazn  ] PDC Darts · Job finished at 20/09/2025 15:42
+    [  dazn  ] Motorvision TV · Job finished at 20/09/2025 15:42
+    [  dazn  ] PowerSports World · Job finished at 20/09/2025 15:42
+    [  dazn  ] PLL Network · Job finished at 20/09/2025 15:42
+    [  dazn  ] ACL Cornhole TV · Job finished at 20/09/2025 15:42
+    [  dazn  ] Billiard TV · Job finished at 20/09/2025 15:42
+    [  GOL  ] Job finished at 20/09/2025 15:42
+[  M3  ] Job finished at 20/09/2025 16:09:37 done in 8m 32s
+[  M2  ] Job finished at 20/09/2025 16:18:25 done in 6m 20s
+[  M1  ] Job finished at 20/09/2025 16:29:44 done in 6m 39s
+[  DEP  ] Job finished at 20/09/2025 16:39:04 done in 4m 59s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/09/2025 16:45:24 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 20/09/2025 16:45:54 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 20/09/2025 16:46:29 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 20/09/2025 16:46:53 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 20/09/2025 16:47:16 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 20/09/2025 16:47:53 done in 15s
+        [  REX -> O1  ] Job (rex) finished at 20/09/2025 16:48:19 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 20/09/2025 16:48:45 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 20/09/2025 16:49:08 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/09/2025 16:49:27 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/09/2025 16:49:47 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 20/09/2025 16:50:09 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 20/09/2025 16:50:29 done in 5s
+            <--- Subiendo xmls 20/09/2025 16:50 --->
+[  ZFR  ] Job finished at 20/09/2025 17:46:07 done in 16m 3s
+[  ZPT  ] Job finished at 20/09/2025 18:19:03 done in 58s
+[  ZDE  ] Job finished at 20/09/2025 18:27:38 done in 1m 33s
+[  ZUK  ] Job finished at 20/09/2025 18:34:35 done in 30s
+[  ZVAR  ] Job finished at 20/09/2025 18:44:43 done in 2m 38s
+[  O1  ---> Error] Unable to update channel Onetoro
+[  O1  ---> Error] Current culture: en-GB
+[  O1  ---> Error] time parsing error : String '1757959047020}' was not recognized as a valid DateTime.
+[  O1  ---> Error] stoptime time scrubbed : 1757959047020}
+[  O1  ---> Error] computer date/time format: 20/09/2025 19:15:23
+[  O1  ] Job finished at 20/09/2025 19:17:48 done in 2m 43s
+[  O2  ] Job finished at 20/09/2025 19:33:29 done in 3m 25s
+[  VAR  ] Job finished at 20/09/2025 19:51:47 done in 6m 42s
+[  M3  ] Job finished at 20/09/2025 20:08:35 done in 7m 31s
+[  M2  ] Job finished at 20/09/2025 20:18:12 done in 6m 7s
+[  M1  ] Job finished at 20/09/2025 20:29:35 done in 6m 31s
+[  DEP  ] Job finished at 20/09/2025 20:38:57 done in 4m 52s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 20/09/2025 20:45:24 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 20/09/2025 20:45:54 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 20/09/2025 20:46:30 done in 14s
+        [  REX -> DEP  ] Job (rex) finished at 20/09/2025 20:46:54 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 20/09/2025 20:47:17 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 20/09/2025 20:47:53 done in 14s
+        [  REX -> O1  ] Job (rex) finished at 20/09/2025 20:48:18 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 20/09/2025 20:48:45 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 20/09/2025 20:49:07 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 20/09/2025 20:49:27 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 20/09/2025 20:49:46 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 20/09/2025 20:50:08 done in 6s
+        [  REX -> ZUK  ] Job (rex) finished at 20/09/2025 20:50:28 done in 5s
+            <--- Subiendo xmls 20/09/2025 20:50 --->
