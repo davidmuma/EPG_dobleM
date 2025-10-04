@@ -1,0 +1,167 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 04/10/2025 06:59:52 done in 24m 50s
+[  ZPT  ] Job finished at 04/10/2025 07:05:54 done in 52s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZDE  ---> Error] retry 2 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZUK  ] Job finished at 04/10/2025 07:15:33 done in 30s
+[  ZVAR  ] Job finished at 04/10/2025 07:23:05 done in 3m 3s
+[  O1  ] Job finished at 04/10/2025 07:43:55 done in 3m 52s
+[  O2  ] Job finished at 04/10/2025 07:54:33 done in 4m 31s
+[  M3  ] Job finished at 04/10/2025 08:07:51 done in 7m 49s
+[  M2  ] Job finished at 04/10/2025 08:17:23 done in 6m 21s
+[  M1  ] Job finished at 04/10/2025 08:28:17 done in 6m 15s
+[  DEP  ] Job finished at 04/10/2025 08:38:21 done in 5m 19s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 04/10/2025 08:44:19 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 04/10/2025 08:44:45 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 04/10/2025 08:45:15 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 04/10/2025 08:45:37 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 04/10/2025 08:45:58 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 04/10/2025 08:46:33 done in 15s
+        [  REX -> O1  ] Job (rex) finished at 04/10/2025 08:46:55 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 04/10/2025 08:47:19 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 04/10/2025 08:47:37 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 04/10/2025 08:47:53 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 04/10/2025 08:48:10 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 04/10/2025 08:48:29 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 04/10/2025 08:48:44 done in 4s
+            ... 9 minutos ha tardado el script
+            ... 08:54:59 inicio git
+            ... 08:56:48 fin git
+[  O1  ] Job finished at 04/10/2025 11:12:47 done in 2m 45s
+[  O2  ] Job finished at 04/10/2025 11:33:35 done in 3m 32s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 04/10/2025 11:46:50 done in 6m 48s
+[  M3  ] Job finished at 04/10/2025 12:05:52 done in 5m 51s
+[  M2  ] Job finished at 04/10/2025 12:16:21 done in 5m 19s
+[  M1  ] Job finished at 04/10/2025 12:27:11 done in 5m 9s
+[  DEP  ] Job finished at 04/10/2025 12:37:31 done in 4m 29s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 04/10/2025 12:44:19 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 04/10/2025 12:44:45 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 04/10/2025 12:45:16 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 04/10/2025 12:45:37 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 04/10/2025 12:45:59 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 04/10/2025 12:46:35 done in 16s
+        [  REX -> O1  ] Job (rex) finished at 04/10/2025 12:46:57 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 04/10/2025 12:47:21 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 04/10/2025 12:47:39 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 04/10/2025 12:47:55 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 04/10/2025 12:48:12 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 04/10/2025 12:48:31 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 04/10/2025 12:48:45 done in 4s
+            ... 9 minutos ha tardado el script
+            ... 12:55:07 inicio git
+            ... 12:56:58 fin git
+    [  TIVI  ]  Job finished at 04/10/2025 15:32
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (04/10/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 04/10/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 04/10/2025 15:40
+    [  GOL  ] Job finished at 04/10/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 04/10/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 04/10/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 04/10/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 04/10/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 04/10/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 04/10/2025 15:40
+    [  CLI  ] DBike · Job finished at 04/10/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 04/10/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 04/10/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 04/10/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 04/10/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 04/10/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 04/10/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 04/10/2025 15:41
+    [  ZAP  ] PTV Granada · Job finished at 04/10/2025 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 04/10/2025 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (04/10/2025 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (04/10/2025 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 04/10/2025 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 04/10/2025 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (04/10/2025 15:41)
+    [  dazn  ] NFL Network · Job finished at 04/10/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 04/10/2025 15:41
+    [  dazn  ] Matchroom Boxing · Job finished at 04/10/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 04/10/2025 15:41
+    [  dazn  ] Unbeaten · Job finished at 04/10/2025 15:41
+    [  dazn  ] PDC Darts · Job finished at 04/10/2025 15:41
+    [  dazn  ] Motorvision TV · Job finished at 04/10/2025 15:41
+    [  dazn  ] PowerSports World · Job finished at 04/10/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 04/10/2025 15:41
+    [  dazn  ] ACL Cornhole TV · Job finished at 04/10/2025 15:41
+    [  dazn  ] Billiard TV · Job finished at 04/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 04/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 04/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 04/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 04/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 04/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 04/10/2025 15:42
+    [  DAZNMOT  ] Job finished at 04/10/2025 15:42
+    [  DAZNMOT  ] Job finished at 04/10/2025 15:42
+[  M3  ] Job finished at 04/10/2025 16:06:45 done in 6m 43s
+[  M2  ] Job finished at 04/10/2025 16:16:30 done in 5m 28s
+[  M1  ] Job finished at 04/10/2025 16:27:04 done in 5m 2s
+[  DEP  ] Job finished at 04/10/2025 16:37:24 done in 4m 23s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 04/10/2025 16:44:19 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 04/10/2025 16:44:46 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 04/10/2025 16:45:17 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 04/10/2025 16:45:39 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 04/10/2025 16:46:03 done in 9s
+        [  REX -> VAR  ] Job (rex) finished at 04/10/2025 16:46:40 done in 16s
+        [  REX -> O1  ] Job (rex) finished at 04/10/2025 16:47:03 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 04/10/2025 16:47:27 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 04/10/2025 16:47:45 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 04/10/2025 16:48:01 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 04/10/2025 16:48:18 done in 6s
+        [  REX -> ZDE  ] Job (rex) finished at 04/10/2025 16:48:38 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 04/10/2025 16:48:52 done in 4s
+            ... 9 minutos ha tardado el script
+            ... 16:55:28 inicio git
+            ... 16:57:24 fin git
+[  ZFR  ] Job finished at 04/10/2025 17:45:43 done in 15m 41s
+[  ZPT  ] Job finished at 04/10/2025 18:18:50 done in 47s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ] Job finished at 04/10/2025 18:29:44 done in 3m 43s
+[  ZUK  ] Job finished at 04/10/2025 18:34:23 done in 21s
+[  ZVAR  ---> Error] Unable to update channel En Familia (Rakuten TV)
+[  ZVAR  ---> Error] no index page data received from En Familia (Rakuten TV)
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV)
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV)
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ] Job finished at 04/10/2025 18:46:15 done in 4m 13s
+[  O1  ] Job finished at 04/10/2025 19:17:45 done in 2m 43s
+[  O2  ] Job finished at 04/10/2025 19:33:34 done in 3m 31s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 04/10/2025 19:51:59 done in 6m 58s
+[  M3  ] Job finished at 04/10/2025 20:06:07 done in 6m 5s
+[  M2  ] Job finished at 04/10/2025 20:16:18 done in 5m 16s
+[  M1  ] Job finished at 04/10/2025 20:27:01 done in 4m 59s
+[  DEP  ] Job finished at 04/10/2025 20:37:27 done in 4m 25s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 04/10/2025 20:44:19 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 04/10/2025 20:44:45 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 04/10/2025 20:45:16 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 04/10/2025 20:45:38 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 04/10/2025 20:46:01 done in 9s
+        [  REX -> VAR  ] Job (rex) finished at 04/10/2025 20:46:38 done in 16s
+        [  REX -> O1  ] Job (rex) finished at 04/10/2025 20:47:00 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 04/10/2025 20:47:24 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 04/10/2025 20:47:43 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 04/10/2025 20:47:59 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 04/10/2025 20:48:16 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 04/10/2025 20:48:37 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 04/10/2025 20:48:51 done in 4s
+Killed
+            ... 16 minutos ha tardado el script
+            ... 21:02:12 inicio git

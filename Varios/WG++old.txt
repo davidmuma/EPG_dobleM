@@ -1,0 +1,214 @@
+<--- INICIO --->
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 03/10/2025 01:14
+    [  BAR  ] GolStadium BAR · Job finished at 03/10/2025 01:14
+    [  BAR  ---> Error] DAZN F1 BAR no existe o no tiene información (03/10/2025 01:14)
+    [  GOL  ] Job finished at 03/10/2025 01:14
+    [  CLI  ] Torolé TV · Job finished at 03/10/2025 01:14
+    [  CLI  ] Iberalia pesca · Job finished at 03/10/2025 01:14
+    [  CLI  ] Iberalia caza · Job finished at 03/10/2025 01:14
+    [  CLI  ] Global Telenovelas · Job finished at 03/10/2025 01:14
+    [  CLI  ] Global Tendencias · Job finished at 03/10/2025 01:15
+    [  CLI  ] Fight Time · Job finished at 03/10/2025 01:15
+    [  CLI  ] DBike · Job finished at 03/10/2025 01:15
+    [  CLI  ] Náutica TV · Job finished at 03/10/2025 01:15
+    [  CLI  ] Antena Motor · Job finished at 03/10/2025 01:15
+    [  CLI  ] Dhípica · Job finished at 03/10/2025 01:15
+    [  ZAP  ] REKTV · Job finished at 03/10/2025 01:15
+    [  ZAP  ] tlnovelas · Job finished at 03/10/2025 01:15
+    [  ZAP  ] DePelícula · Job finished at 03/10/2025 01:15
+    [  ZAP  ] DejateTV · Job finished at 03/10/2025 01:15
+    [  ZAP  ] PTV Granada · Job finished at 03/10/2025 01:16
+    [  ZAP  ] PTV Sevilla · Job finished at 03/10/2025 01:16
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (03/10/2025 01:16)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (03/10/2025 01:16)
+    [  ZAP  ] PTV Linares · Job finished at 03/10/2025 01:16
+    [  ZAP  ] PTV Málaga · Job finished at 03/10/2025 01:16
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (03/10/2025 01:16)
+    [  dazn  ] NFL Network · Job finished at 03/10/2025 01:16
+    [  dazn  ] Red Bull TV · Job finished at 03/10/2025 01:16
+    [  dazn  ] Matchroom Boxing · Job finished at 03/10/2025 01:16
+    [  dazn  ] Boxing TV · Job finished at 03/10/2025 01:16
+    [  dazn  ] Unbeaten · Job finished at 03/10/2025 01:16
+    [  dazn  ] PDC Darts · Job finished at 03/10/2025 01:16
+    [  dazn  ] Motorvision TV · Job finished at 03/10/2025 01:16
+    [  dazn  ] PowerSports World · Job finished at 03/10/2025 01:16
+    [  dazn  ] PLL Network · Job finished at 03/10/2025 01:16
+    [  dazn  ] ACL Cornhole TV · Job finished at 03/10/2025 01:16
+    [  dazn  ] Billiard TV · Job finished at 03/10/2025 01:16
+    [  DAZNCOM  ] Job finished at 03/10/2025 01:16
+    [  DAZNCOM  ] Job finished at 03/10/2025 01:16
+    [  DAZNCOM  ] Job finished at 03/10/2025 01:16
+    [  DAZNCOM  ] Job finished at 03/10/2025 01:16
+    [  DAZNCOM  ] Job finished at 03/10/2025 01:16
+    [  DAZNCOM  ] Job finished at 03/10/2025 01:16
+    [  DAZNMOT  ] Job finished at 03/10/2025 01:16
+    [  DAZNMOT  ] Job finished at 03/10/2025 01:16
+[  ZFR  ] Job finished at 03/10/2025 07:00:17 done in 25m 15s
+[  ZPT  ] Job finished at 03/10/2025 07:05:52 done in 50s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZUK  ] Job finished at 03/10/2025 07:15:34 done in 31s
+[  ZVAR  ---> Error] no shows in indexpage!
+[  ZVAR  ] Job finished at 03/10/2025 07:23:47 done in 3m 46s
+[  VAR  ---> Error] no shows in indexpage!
+[  O1  ] Job finished at 03/10/2025 07:43:43 done in 3m 40s
+[  O2  ] Job finished at 03/10/2025 07:54:30 done in 4m 28s
+[  M3  ] Job finished at 03/10/2025 08:06:57 done in 6m 54s
+[  M2  ] Job finished at 03/10/2025 08:16:48 done in 5m 46s
+[  M1  ] Job finished at 03/10/2025 08:28:12 done in 6m 11s
+[  DEP  ] Job finished at 03/10/2025 08:37:51 done in 4m 50s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 03/10/2025 08:44:19 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 03/10/2025 08:44:45 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 03/10/2025 08:45:15 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 03/10/2025 08:45:37 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 03/10/2025 08:45:59 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 03/10/2025 08:46:34 done in 15s
+        [  REX -> O1  ] Job (rex) finished at 03/10/2025 08:46:56 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 03/10/2025 08:47:20 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 03/10/2025 08:47:38 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 03/10/2025 08:47:54 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 03/10/2025 08:48:11 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 03/10/2025 08:48:31 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 03/10/2025 08:48:45 done in 4s
+            ... 9 minutos ha tardado el script
+            ... 08:55:01 inicio git
+            ... 08:56:55 fin git
+[  O1  ] Job finished at 03/10/2025 11:12:55 done in 2m 53s
+[  O2  ] Job finished at 03/10/2025 11:33:42 done in 3m 39s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 03/10/2025 11:46:47 done in 6m 46s
+[  M3  ] Job finished at 03/10/2025 12:05:51 done in 5m 49s
+[  M2  ] Job finished at 03/10/2025 12:15:59 done in 4m 57s
+[  M1  ] Job finished at 03/10/2025 12:27:08 done in 5m 7s
+[  DEP  ] Job finished at 03/10/2025 12:37:33 done in 4m 31s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 03/10/2025 12:44:19 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 03/10/2025 12:44:46 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 03/10/2025 12:45:16 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 03/10/2025 12:45:37 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 03/10/2025 12:45:59 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 03/10/2025 12:46:35 done in 16s
+        [  REX -> O1  ] Job (rex) finished at 03/10/2025 12:46:57 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 03/10/2025 12:47:21 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 03/10/2025 12:47:40 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 03/10/2025 12:47:56 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 03/10/2025 12:48:13 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 03/10/2025 12:48:33 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 03/10/2025 12:48:47 done in 4s
+            ... 9 minutos ha tardado el script
+            ... 12:55:11 inicio git
+            ... 12:57:05 fin git
+    [  TIVI  ]  Job finished at 03/10/2025 15:32
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (03/10/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 03/10/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 03/10/2025 15:40
+    [  GOL  ] Job finished at 03/10/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 03/10/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 03/10/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 03/10/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 03/10/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 03/10/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 03/10/2025 15:40
+    [  CLI  ] DBike · Job finished at 03/10/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 03/10/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 03/10/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 03/10/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 03/10/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 03/10/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 03/10/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 03/10/2025 15:41
+    [  ZAP  ] PTV Granada · Job finished at 03/10/2025 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 03/10/2025 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (03/10/2025 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (03/10/2025 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 03/10/2025 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 03/10/2025 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (03/10/2025 15:41)
+    [  dazn  ] NFL Network · Job finished at 03/10/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 03/10/2025 15:41
+    [  dazn  ] Matchroom Boxing · Job finished at 03/10/2025 15:41
+    [  dazn  ] Boxing TV · Job finished at 03/10/2025 15:42
+    [  dazn  ] Unbeaten · Job finished at 03/10/2025 15:42
+    [  dazn  ] PDC Darts · Job finished at 03/10/2025 15:42
+    [  dazn  ] Motorvision TV · Job finished at 03/10/2025 15:42
+    [  dazn  ] PowerSports World · Job finished at 03/10/2025 15:42
+    [  dazn  ] PLL Network · Job finished at 03/10/2025 15:42
+    [  dazn  ] ACL Cornhole TV · Job finished at 03/10/2025 15:42
+    [  dazn  ] Billiard TV · Job finished at 03/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 03/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 03/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 03/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 03/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 03/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 03/10/2025 15:42
+    [  DAZNMOT  ] Job finished at 03/10/2025 15:42
+    [  DAZNMOT  ] Job finished at 03/10/2025 15:42
+[  M3  ] Job finished at 03/10/2025 16:06:10 done in 6m 7s
+[  M2  ] Job finished at 03/10/2025 16:15:50 done in 4m 48s
+[  M1  ] Job finished at 03/10/2025 16:27:08 done in 5m 6s
+[  DEP  ] Job finished at 03/10/2025 16:37:38 done in 4m 36s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 03/10/2025 16:44:19 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 03/10/2025 16:44:45 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 03/10/2025 16:45:15 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 03/10/2025 16:45:37 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 03/10/2025 16:45:58 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 03/10/2025 16:46:34 done in 16s
+        [  REX -> O1  ] Job (rex) finished at 03/10/2025 16:46:56 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 03/10/2025 16:47:20 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 03/10/2025 16:47:39 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 03/10/2025 16:47:55 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 03/10/2025 16:48:12 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 03/10/2025 16:48:31 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 03/10/2025 16:48:46 done in 4s
+            ... 9 minutos ha tardado el script
+            ... 16:55:10 inicio git
+            ... 16:57:03 fin git
+[  ZFR  ] Job finished at 03/10/2025 17:45:28 done in 15m 26s
+[  ZPT  ] Job finished at 03/10/2025 18:18:51 done in 50s
+[  ZDE  ] Job finished at 03/10/2025 18:28:20 done in 2m 18s
+[  ZUK  ] Job finished at 03/10/2025 18:34:23 done in 21s
+[  ZVAR  ---> Error] Unable to update channel En Familia (Rakuten TV)
+[  ZVAR  ---> Error] no index page data received from En Familia (Rakuten TV)
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV)
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV)
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ---> Error] Unable to update channel Crimen (Rakuten TV)
+[  ZVAR  ---> Error] no index page data received from Crimen (Rakuten TV)
+[  ZVAR  ---> Error] unable to update channel, try again later
+[  ZVAR  ---> Error] no shows in indexpage!
+[  ZVAR  ] Job finished at 03/10/2025 18:45:15 done in 3m 13s
+[  O1  ] Job finished at 03/10/2025 19:17:49 done in 2m 48s
+[  O2  ] Job finished at 03/10/2025 19:33:30 done in 3m 28s
+[  VAR  ---> Error] no shows in indexpage!
+[  VAR  ] Job finished at 03/10/2025 19:54:12 done in 9m 10s
+[  M3  ] Job finished at 03/10/2025 20:06:04 done in 6m 2s
+[  M2  ] Job finished at 03/10/2025 20:16:00 done in 4m 59s
+[  M1  ] Job finished at 03/10/2025 20:27:04 done in 5m 1s
+[  DEP  ] Job finished at 03/10/2025 20:37:33 done in 4m 31s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 03/10/2025 20:44:19 done in 10s
+        [  REX -> M2  ] Job (rex) finished at 03/10/2025 20:44:45 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 03/10/2025 20:45:16 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 03/10/2025 20:45:38 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 03/10/2025 20:45:59 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 03/10/2025 20:46:36 done in 16s
+        [  REX -> O1  ] Job (rex) finished at 03/10/2025 20:47:00 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 03/10/2025 20:47:24 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 03/10/2025 20:47:43 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 03/10/2025 20:47:59 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 03/10/2025 20:48:16 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 03/10/2025 20:48:36 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 03/10/2025 20:48:50 done in 4s
+            ... 9 minutos ha tardado el script
+            ... 20:55:19 inicio git
+            ... 20:57:14 fin git
+<---  FIN  --->
