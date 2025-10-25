@@ -1,0 +1,215 @@
+<--- INICIO --->
+       <--- REX --->
+            ... 0 min 21 s para REX
+            ... 0 min 0 s para unir y partir
+            ... 0 min 0 s para categorias tvheadend
+            ... 0 min 3 s para crear xmls
+       <--- REX --->
+            ... 0 min 21 s para REX
+            ... 0 min 1 s para unir y partir
+            ... 0 min 0 s para categorias tvheadend
+            ... 0 min 2 s para crear xmls
+[  ZFR  ] Job finished at 24/10/2025 07:00:08 done in 25m 6s
+[  ZPT  ---> Error] no shows in indexpage!
+[  ZPT  ] Job finished at 24/10/2025 07:05:53 done in 51s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ] Job finished at 24/10/2025 07:14:40 done in 4m 39s
+[  ZUK  ] Job finished at 24/10/2025 07:15:33 done in 31s
+[  ZVAR  ] Job finished at 24/10/2025 07:23:54 done in 3m 52s
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  VAR  ---> Error] retry 1 of 2 times
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  VAR  ---> Error] retry 1 of 2 times
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  VAR  ---> Error] retry 1 of 2 times
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  VAR  ---> Error] retry 1 of 2 times
+[  O1  ] Job finished at 24/10/2025 07:43:49 done in 3m 47s
+[  O2  ] Job finished at 24/10/2025 07:54:23 done in 4m 22s
+[  M3  ] Job finished at 24/10/2025 08:07:40 done in 7m 37s
+[  M2  ] Job finished at 24/10/2025 08:17:27 done in 6m 26s
+[  M1  ] Job finished at 24/10/2025 08:29:17 done in 7m 15s
+[  DEP  ] Job finished at 24/10/2025 08:37:56 done in 4m 55s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 24/10/2025 08:44:22 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2025 08:44:48 done in 11s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2025 08:45:21 done in 15s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2025 08:45:42 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2025 08:46:03 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2025 08:46:37 done in 15s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2025 08:46:59 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2025 08:47:23 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 24/10/2025 08:47:42 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2025 08:47:59 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2025 08:48:16 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2025 08:48:36 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2025 08:48:50 done in 4s
+            ... 4 min 57 s para REX
+            ... 0 min 6 s para unir y partir
+            ... 0 min 9 s para arreglos
+            ... 0 min 7 s para categorias tvheadend
+            ... 3 min 57 s para crear xmls
+            ... 08:55:05 inicio git
+            ... 08:56:55 fin git
+[  O1  ] Job finished at 24/10/2025 11:12:36 done in 2m 34s
+[  O2  ] Job finished at 24/10/2025 11:33:31 done in 3m 29s
+[  VAR  ] Job finished at 24/10/2025 11:47:21 done in 7m 20s
+[  M3  ] Job finished at 24/10/2025 12:06:12 done in 6m 10s
+[  M2  ] Job finished at 24/10/2025 12:16:19 done in 5m 17s
+[  M1  ] Job finished at 24/10/2025 12:28:01 done in 6m 0s
+[  DEP  ] Job finished at 24/10/2025 12:37:28 done in 4m 26s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 24/10/2025 12:44:21 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2025 12:44:47 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2025 12:45:17 done in 12s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2025 12:45:38 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2025 12:45:59 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2025 12:46:34 done in 15s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2025 12:46:56 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2025 12:47:20 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 24/10/2025 12:47:38 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2025 12:47:55 done in 6s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2025 12:48:12 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2025 12:48:32 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2025 12:48:47 done in 5s
+            ... 4 min 54 s para REX
+            ... 0 min 6 s para unir y partir
+            ... 0 min 10 s para arreglos
+            ... 0 min 7 s para categorias tvheadend
+            ... 4 min 1 s para crear xmls
+            ... 12:55:10 inicio git
+            ... 12:57:06 fin git
+    [  TIVI  ]  Job finished at 24/10/2025 15:32
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (24/10/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 24/10/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 24/10/2025 15:40
+    [  GOL  ] Job finished at 24/10/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 24/10/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 24/10/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 24/10/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 24/10/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 24/10/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 24/10/2025 15:40
+    [  CLI  ] DBike · Job finished at 24/10/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 24/10/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 24/10/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 24/10/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 24/10/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 24/10/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 24/10/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 24/10/2025 15:41
+    [  ZAP  ] PTV Granada · Job finished at 24/10/2025 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 24/10/2025 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (24/10/2025 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 24/10/2025 15:41
+    [  ZAP  ] PTV Linares · Job finished at 24/10/2025 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 24/10/2025 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (24/10/2025 15:41)
+    [  dazn  ] NFL Network · Job finished at 24/10/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 24/10/2025 15:41
+    [  dazn  ---> Error] Matchroom Boxing no existe o no tiene información (24/10/2025 15:41)
+    [  dazn  ] Unbeaten · Job finished at 24/10/2025 15:41
+    [  dazn  ---> Error] PDC Darts no existe o no tiene información (24/10/2025 15:41)
+    [  dazn  ] Motorvision TV · Job finished at 24/10/2025 15:41
+    [  dazn  ] PowerSports World · Job finished at 24/10/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 24/10/2025 15:41
+    [  dazn  ] ACL Cornhole TV · Job finished at 24/10/2025 15:41
+    [  dazn  ] Billiard TV · Job finished at 24/10/2025 15:41
+    [  DAZNCOM  ] Job finished at 24/10/2025 15:41
+    [  DAZNCOM  ] Job finished at 24/10/2025 15:41
+    [  DAZNCOM  ] Job finished at 24/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 24/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 24/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 24/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 24/10/2025 15:42
+    [  DAZNCOM  ] Job finished at 24/10/2025 15:42
+    [  DAZNMOT  ] Job finished at 24/10/2025 15:42
+    [  DAZNMOT  ] Job finished at 24/10/2025 15:42
+[  M3  ] Job finished at 24/10/2025 16:06:39 done in 6m 37s
+[  M2  ] Job finished at 24/10/2025 16:16:26 done in 5m 25s
+[  M1  ] Job finished at 24/10/2025 16:28:03 done in 6m 2s
+       <--- REX --->
+            ... 0 min 21 s para REX
+            ... 0 min 0 s para unir y partir
+            ... 0 min 1 s para categorias tvheadend
+            ... 0 min 2 s para crear xmls
+[  DEP  ] Job finished at 24/10/2025 16:37:32 done in 4m 30s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 24/10/2025 16:44:20 done in 11s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2025 16:44:47 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2025 16:45:17 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2025 16:45:38 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2025 16:45:59 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2025 16:46:35 done in 15s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2025 16:46:57 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2025 16:47:20 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 24/10/2025 16:47:39 done in 6s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2025 16:47:56 done in 6s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2025 16:48:13 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2025 16:48:33 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2025 16:48:47 done in 4s
+            ... 4 min 54 s para REX
+            ... 0 min 6 s para unir y partir
+            ... 0 min 9 s para arreglos
+            ... 0 min 7 s para categorias tvheadend
+            ... 4 min 4 s para crear xmls
+            ... 16:55:15 inicio git
+            ... 16:57:12 fin git
+Killed
+       <--- REX --->
+            ... 0 min 21 s para REX
+            ... 0 min 0 s para unir y partir
+            ... 0 min 1 s para categorias tvheadend
+            ... 0 min 2 s para crear xmls
+       <--- REX --->
+            ... 0 min 20 s para REX
+            ... 0 min 0 s para unir y partir
+            ... 0 min 1 s para categorias tvheadend
+            ... 0 min 2 s para crear xmls
+       <--- REX --->
+            ... 0 min 20 s para REX
+            ... 0 min 0 s para unir y partir
+            ... 0 min 1 s para categorias tvheadend
+            ... 0 min 2 s para crear xmls
+[  ZFR  ] Job finished at 24/10/2025 17:46:37 done in 16m 36s
+[  ZPT  ---> Error] no shows in indexpage!
+[  ZPT  ] Job finished at 24/10/2025 18:18:51 done in 48s
+[  ZDE  ] Job finished at 24/10/2025 18:28:06 done in 2m 5s
+[  ZUK  ] Job finished at 24/10/2025 18:34:23 done in 21s
+[  ZVAR  ] Job finished at 24/10/2025 18:45:12 done in 3m 10s
+[  O1  ] Job finished at 24/10/2025 19:17:35 done in 2m 33s
+[  O2  ] Job finished at 24/10/2025 19:33:21 done in 3m 19s
+[  VAR  ---> Error] Unable to update channel VE PLUS TV
+[  VAR  ---> Error] no index page data received from VE PLUS TV
+[  VAR  ---> Error] unable to update channel, try again later
+[  VAR  ] Job finished at 24/10/2025 19:53:43 done in 8m 41s
+[  M3  ] Job finished at 24/10/2025 20:06:30 done in 6m 28s
+[  M2  ] Job finished at 24/10/2025 20:16:32 done in 5m 31s
+[  M1  ] Job finished at 24/10/2025 20:28:06 done in 6m 4s
+[  DEP  ] Job finished at 24/10/2025 20:37:37 done in 4m 35s
+       <--- REX --->
+        [  REX -> M1  ] Job (rex) finished at 24/10/2025 20:44:21 done in 12s
+        [  REX -> M2  ] Job (rex) finished at 24/10/2025 20:44:47 done in 10s
+        [  REX -> M3  ] Job (rex) finished at 24/10/2025 20:45:18 done in 13s
+        [  REX -> DEP  ] Job (rex) finished at 24/10/2025 20:45:39 done in 7s
+        [  REX -> MAN  ] Job (rex) finished at 24/10/2025 20:46:01 done in 8s
+        [  REX -> VAR  ] Job (rex) finished at 24/10/2025 20:46:36 done in 16s
+        [  REX -> O1  ] Job (rex) finished at 24/10/2025 20:46:58 done in 8s
+        [  REX -> O2  ] Job (rex) finished at 24/10/2025 20:47:22 done in 9s
+        [  REX -> ZVAR  ] Job (rex) finished at 24/10/2025 20:47:43 done in 7s
+        [  REX -> ZPT  ] Job (rex) finished at 24/10/2025 20:48:00 done in 5s
+        [  REX -> ZFR  ] Job (rex) finished at 24/10/2025 20:48:16 done in 5s
+        [  REX -> ZDE  ] Job (rex) finished at 24/10/2025 20:48:36 done in 7s
+        [  REX -> ZUK  ] Job (rex) finished at 24/10/2025 20:48:51 done in 4s
+            ... 4 min 58 s para REX
+            ... 0 min 5 s para unir y partir
+            ... 0 min 10 s para arreglos
+            ... 0 min 7 s para categorias tvheadend
+            ... 4 min 2 s para crear xmls
+            ... 20:55:15 inicio git
+            ... 20:57:11 fin git
+Killed
+<---  FIN  --->
