@@ -1,0 +1,119 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 30/11/2025 06:55:13 done in 25m 11s
+[  ZPT  ] Job finished at 30/11/2025 07:02:05 done in 1m 4s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec)
+[  ZDE  ---> Error] retry 1 of 2 times
+[  ZDE  ] Job finished at 30/11/2025 07:12:29 done in 4m 27s
+[  ZUK  ] Job finished at 30/11/2025 07:15:55 done in 54s
+[  ZVAR  ---> Error] no shows in indexpage!
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ] Job finished at 30/11/2025 07:26:29 done in 4m 28s
+[  VAR  ] Job finished at 30/11/2025 07:39:43 done in 9m 41s
+[  O1  ] Job finished at 30/11/2025 07:43:26 done in 3m 25s
+[  O2  ] Job finished at 30/11/2025 07:56:10 done in 6m 9s
+[  M3  ] Job finished at 30/11/2025 08:07:45 done in 7m 44s
+[  M2  ] Job finished at 30/11/2025 08:18:00 done in 6m 58s
+[  M1  ] Job finished at 30/11/2025 08:28:48 done in 6m 46s
+[  DEP  ] Job finished at 30/11/2025 08:38:31 done in 5m 29s
+    [  miEPG  ] Job finished at 30/11/2025 08:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 30/11/2025 08:44:56 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 30/11/2025 08:45:20 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 30/11/2025 08:45:40 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 30/11/2025 08:46:11 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 30/11/2025 08:46:47 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 30/11/2025 08:47:02 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 30/11/2025 08:47:35 done in 11s
+            ... 3 min 55 s para REX
+            ... 3 min 35 s para crear xmls
+            ... 08:53:29 inicio git
+            ... 08:55:36 fin git
+[  MDB  ] Job finished at 30/11/2025 11:00:08 done in 6s
+[  VAR  ] Job finished at 30/11/2025 11:36:57 done in 6m 55s
+[  O1  ] Job finished at 30/11/2025 11:43:03 done in 3m 1s
+[  O2  ] Job finished at 30/11/2025 11:54:56 done in 4m 54s
+[  M3  ] Job finished at 30/11/2025 12:06:28 done in 6m 26s
+[  M2  ] Job finished at 30/11/2025 12:17:02 done in 6m 0s
+[  M1  ] Job finished at 30/11/2025 12:27:45 done in 5m 43s
+[  DEP  ] Job finished at 30/11/2025 12:37:38 done in 4m 36s
+    [  miEPG  ] Job finished at 30/11/2025 12:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 30/11/2025 12:44:55 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 30/11/2025 12:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 30/11/2025 12:45:39 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 30/11/2025 12:46:11 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 30/11/2025 12:46:46 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 30/11/2025 12:47:01 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 30/11/2025 12:47:34 done in 11s
+            ... 3 min 54 s para REX
+            ... 3 min 38 s para crear xmls
+            ... 12:53:32 inicio git
+            ... 12:55:47 fin git
+    [  TIVI  ]  Job finished at 30/11/2025 15:30
+[  M3  ] Job finished at 30/11/2025 16:06:33 done in 6m 31s
+[  M2  ] Job finished at 30/11/2025 16:17:18 done in 6m 16s
+[  M1  ] Job finished at 30/11/2025 16:27:59 done in 5m 57s
+[  DEP  ] Job finished at 30/11/2025 16:37:48 done in 4m 46s
+    [  miEPG  ] Job finished at 30/11/2025 16:44
+    [  BAR  ---> Error] Liga de Campeones BAR 2 no existe o no tiene información (30/11/2025 15:40)
+    [  BAR  ] GolStadium BAR · Job finished at 30/11/2025 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 30/11/2025 15:40
+    [  GOL  ] Job finished at 30/11/2025 15:40
+    [  CLI  ] Torolé TV · Job finished at 30/11/2025 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 30/11/2025 15:40
+    [  CLI  ] Iberalia caza · Job finished at 30/11/2025 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 30/11/2025 15:40
+    [  CLI  ] Global Tendencias · Job finished at 30/11/2025 15:40
+    [  CLI  ] Fight Time · Job finished at 30/11/2025 15:40
+    [  CLI  ] DBike · Job finished at 30/11/2025 15:40
+    [  CLI  ] Náutica TV · Job finished at 30/11/2025 15:40
+    [  CLI  ] Antena Motor · Job finished at 30/11/2025 15:40
+    [  CLI  ] Dhípica · Job finished at 30/11/2025 15:40
+    [  ZAP  ] REKTV · Job finished at 30/11/2025 15:41
+    [  ZAP  ] tlnovelas · Job finished at 30/11/2025 15:41
+    [  ZAP  ] DePelícula · Job finished at 30/11/2025 15:41
+    [  ZAP  ] DejateTV · Job finished at 30/11/2025 15:41
+    [  ZAP  ] PTV Granada · Job finished at 30/11/2025 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 30/11/2025 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (30/11/2025 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 30/11/2025 15:41
+    [  ZAP  ] PTV Linares · Job finished at 30/11/2025 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 30/11/2025 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (30/11/2025 15:41)
+    [  dazn  ] NFL Network · Job finished at 30/11/2025 15:41
+    [  dazn  ] Red Bull TV · Job finished at 30/11/2025 15:41
+    [  dazn  ] Unbeaten · Job finished at 30/11/2025 15:41
+    [  dazn  ---> Error] Motorvision TV no existe o no tiene información (30/11/2025 15:41)
+    [  dazn  ] PowerSports World · Job finished at 30/11/2025 15:41
+    [  dazn  ] PLL Network · Job finished at 30/11/2025 15:41
+    [  dazn  ] ACL Cornhole TV · Job finished at 30/11/2025 15:41
+    [  dazn  ] Billiard TV · Job finished at 30/11/2025 15:41
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNCOM  ] Job finished at 30/11/2025 15:42
+    [  DAZNMOT  ] Job finished at 30/11/2025 15:42
+    [  DAZNMOT  ] Job finished at 30/11/2025 15:42
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 30/11/2025 16:44:55 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 30/11/2025 16:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 30/11/2025 16:45:39 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 30/11/2025 16:46:11 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 30/11/2025 16:46:46 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 30/11/2025 16:47:01 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 30/11/2025 16:47:33 done in 11s
+            ... 3 min 53 s para REX
+            ... 3 min 32 s para crear xmls
+            ... 16:53:23 inicio git
