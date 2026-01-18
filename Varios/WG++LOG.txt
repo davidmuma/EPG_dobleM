@@ -1,0 +1,46 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 18/01/2026 06:53:45 done in 23m 43s
+[  ZPT  ] Job finished at 18/01/2026 07:02:11 done in 1m 9s
+[  ZDE  ] Job finished at 18/01/2026 07:11:42 done in 3m 40s
+[  ZUK  ] Job finished at 18/01/2026 07:16:21 done in 1m 20s
+[  ZVAR  ] Job finished at 18/01/2026 07:25:50 done in 3m 48s
+[  VAR  ] Job finished at 18/01/2026 07:37:23 done in 7m 20s
+[  O1  ] Job finished at 18/01/2026 07:44:15 done in 4m 13s
+[  O2  ] Job finished at 18/01/2026 07:55:58 done in 5m 56s
+[  M3  ] Job finished at 18/01/2026 08:07:22 done in 7m 20s
+[  M2  ] Job finished at 18/01/2026 08:17:25 done in 6m 24s
+[  M1  ] Job finished at 18/01/2026 08:28:14 done in 6m 12s
+[  DEP  ] Job finished at 18/01/2026 08:37:41 done in 4m 40s
+    [  miEPG  ] Job finished at 18/01/2026 08:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 18/01/2026 08:44:56 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 18/01/2026 08:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 18/01/2026 08:45:41 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 18/01/2026 08:46:09 done in 10s
+        [  REX -> ORA  ] Job (rex) finished at 18/01/2026 08:46:44 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 18/01/2026 08:47:00 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 18/01/2026 08:47:31 done in 11s
+            ... 3 min 53 s para REX
+            ... 3 min 27 s para crear xmls
+            ... 08:53:12 inicio git
+            ... 08:55:32 fin git
+[  MDB  ] Job finished at 18/01/2026 11:00:23 done in 21s
+[  VAR  ] Job finished at 18/01/2026 11:36:30 done in 6m 28s
+[  O1  ] Job finished at 18/01/2026 11:43:36 done in 3m 34s
+[  O2  ] Job finished at 18/01/2026 11:54:42 done in 4m 40s
+[  M3  ] Job finished at 18/01/2026 12:06:04 done in 6m 2s
+[  M2  ] Job finished at 18/01/2026 12:16:40 done in 5m 38s
+[  M1  ] Job finished at 18/01/2026 12:27:32 done in 5m 30s
+[  DEP  ] Job finished at 18/01/2026 12:37:11 done in 4m 10s
+    [  miEPG  ] Job finished at 18/01/2026 12:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 18/01/2026 12:44:55 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 18/01/2026 12:45:18 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 18/01/2026 12:45:39 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 18/01/2026 12:46:08 done in 10s
+        [  REX -> ORA  ] Job (rex) finished at 18/01/2026 12:46:43 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 18/01/2026 12:46:58 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 18/01/2026 12:47:29 done in 10s
+            ... 3 min 52 s para REX
+            ... 3 min 24 s para crear xmls
+            ... 12:53:07 inicio git

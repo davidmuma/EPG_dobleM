@@ -1,0 +1,167 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 17/01/2026 06:55:40 done in 25m 37s
+[  ZPT  ] Job finished at 17/01/2026 07:02:02 done in 1m 0s
+[  ZDE  ] Job finished at 17/01/2026 07:11:52 done in 3m 50s
+[  ZUK  ] Job finished at 17/01/2026 07:16:20 done in 1m 18s
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec)
+[  ZVAR  ---> Error] retry 2 of 2 times
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  ZVAR  ---> Error] retry 1 of 2 times
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  VAR  ---> Error] retry 1 of 2 times
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec)
+[  VAR  ---> Error] retry 1 of 2 times
+[  VAR  ] Job finished at 17/01/2026 07:38:11 done in 8m 8s
+[  O1  ] Job finished at 17/01/2026 07:45:15 done in 5m 14s
+[  O2  ] Job finished at 17/01/2026 07:56:02 done in 6m 0s
+[  M3  ] Job finished at 17/01/2026 08:09:25 done in 9m 22s
+[  M2  ] Job finished at 17/01/2026 08:18:01 done in 6m 59s
+[  M1  ] Job finished at 17/01/2026 08:29:24 done in 7m 23s
+[  DEP  ] Job finished at 17/01/2026 08:37:53 done in 4m 51s
+    [  miEPG  ] Job finished at 17/01/2026 08:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 17/01/2026 08:44:56 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 17/01/2026 08:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 17/01/2026 08:45:41 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 17/01/2026 08:46:10 done in 10s
+        [  REX -> ORA  ] Job (rex) finished at 17/01/2026 08:46:46 done in 13s
+        [  REX -> MDB  ] Job (rex) finished at 17/01/2026 08:47:01 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 17/01/2026 08:47:32 done in 10s
+            ... 3 min 54 s para REX
+            ... 3 min 27 s para crear xmls
+            ... 08:53:14 inicio git
+            ... 08:55:29 fin git
+[  MDB  ] Job finished at 17/01/2026 11:00:19 done in 17s
+[  VAR  ] Job finished at 17/01/2026 11:36:20 done in 6m 19s
+[  O2  ] Job finished at 17/01/2026 11:55:09 done in 5m 7s
+[  M3  ] Job finished at 17/01/2026 12:06:43 done in 6m 41s
+[  M2  ] Job finished at 17/01/2026 12:17:14 done in 6m 12s
+[  M1  ] Job finished at 17/01/2026 12:28:46 done in 6m 45s
+[  DEP  ] Job finished at 17/01/2026 12:37:43 done in 4m 41s
+    [  miEPG  ] Job finished at 17/01/2026 12:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 17/01/2026 12:44:59 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 17/01/2026 12:45:23 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 17/01/2026 12:45:45 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 17/01/2026 12:46:15 done in 10s
+        [  REX -> ORA  ] Job (rex) finished at 17/01/2026 12:46:49 done in 11s
+        [  REX -> MDB  ] Job (rex) finished at 17/01/2026 12:47:04 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 17/01/2026 12:47:35 done in 10s
+            ... 3 min 57 s para REX
+            ... 3 min 32 s para crear xmls
+            ... 12:53:22 inicio git
+            ... 12:55:41 fin git
+    [  TIVI  ]  Job finished at 17/01/2026 15:33
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 17/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 17/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 17/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 17/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 17/01/2026 15:40
+    [  BAR ---> Error ] Liga de Campeones BAR 7 (ch-07) no encontrado (17/01/2026 15:40)
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 17/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 17/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 17/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 17/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 17/01/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 17/01/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 17/01/2026 15:40
+    [  GOL  ] Gol Classics · Job finished at 17/01/2026 15:40
+    [  GOL  ] GolStadium · Job finished at 17/01/2026 15:40
+    [  CLI  ] Torolé TV · Job finished at 17/01/2026 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 17/01/2026 15:40
+    [  CLI  ] Iberalia caza · Job finished at 17/01/2026 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 17/01/2026 15:40
+    [  CLI  ] Global Tendencias · Job finished at 17/01/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 17/01/2026 15:40
+    [  CLI  ] DBike · Job finished at 17/01/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 17/01/2026 15:40
+    [  CLI  ] Antena Motor · Job finished at 17/01/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 17/01/2026 15:40
+    [  ZAP  ] REKTV · Job finished at 17/01/2026 15:41
+    [  ZAP  ] tlnovelas · Job finished at 17/01/2026 15:41
+    [  ZAP  ] DePelícula · Job finished at 17/01/2026 15:41
+    [  ZAP  ] DejateTV · Job finished at 17/01/2026 15:41
+    [  ZAP  ] PTV Granada · Job finished at 17/01/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 17/01/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (17/01/2026 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 17/01/2026 15:41
+    [  ZAP  ] PTV Linares · Job finished at 17/01/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 17/01/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (17/01/2026 15:41)
+    [  dazn  ] NFL Network · Job finished at 17/01/2026 15:41
+    [  dazn  ] Red Bull TV · Job finished at 17/01/2026 15:41
+    [  dazn  ] Unbeaten · Job finished at 17/01/2026 15:42
+    [  dazn  ] PowerSports World · Job finished at 17/01/2026 15:42
+    [  dazn  ] PLL Network · Job finished at 17/01/2026 15:42
+    [  dazn  ---> Error] ACL Cornhole TV no existe o no tiene información (17/01/2026 15:42)
+    [  dazn  ] Billiard TV · Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 17/01/2026 15:42
+    [  DAZNMOT  ] Job finished at 17/01/2026 15:42
+    [  DAZNMOT  ] Job finished at 17/01/2026 15:42
+[  M3  ] Job finished at 17/01/2026 16:06:24 done in 6m 22s
+[  M2  ] Job finished at 17/01/2026 16:16:52 done in 5m 50s
+[  M1  ] Job finished at 17/01/2026 16:27:41 done in 5m 39s
+[  DEP  ] Job finished at 17/01/2026 16:37:23 done in 4m 21s
+    [  miEPG  ] Job finished at 17/01/2026 16:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 17/01/2026 16:44:55 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 17/01/2026 16:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 17/01/2026 16:45:41 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 17/01/2026 16:46:11 done in 10s
+        [  REX -> ORA  ] Job (rex) finished at 17/01/2026 16:46:44 done in 11s
+        [  REX -> MDB  ] Job (rex) finished at 17/01/2026 16:46:59 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 17/01/2026 16:47:30 done in 10s
+            ... 3 min 52 s para REX
+            ... 3 min 26 s para crear xmls
+            ... 16:53:09 inicio git
+            ... 16:55:24 fin git
+[  O1  ] Job finished at 17/01/2026 17:58:07 done in 3m 45s
+    [  miEPG  ] Job finished at 17/01/2026 18:01
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 17/01/2026 18:02:28 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 17/01/2026 18:02:51 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 17/01/2026 18:03:13 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 17/01/2026 18:03:43 done in 10s
+        [  REX -> ORA  ] Job (rex) finished at 17/01/2026 18:04:18 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 17/01/2026 18:04:34 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 17/01/2026 18:05:04 done in 10s
+            ... 3 min 56 s para REX
+            ... 3 min 30 s para crear xmls
+            ... 18:10:54 inicio git
+            ... 18:13:14 fin git
+[  ZPT  ] Job finished at 17/01/2026 18:32:01 done in 59s
+[  ZDE  ] Job finished at 17/01/2026 18:40:01 done in 1m 59s
+[  ZUK  ] Job finished at 17/01/2026 18:45:54 done in 52s
+[  VAR  ] Job finished at 17/01/2026 19:36:37 done in 6m 35s
+[  O1  ] Job finished at 17/01/2026 19:43:32 done in 3m 31s
+[  O2  ] Job finished at 17/01/2026 19:54:57 done in 4m 55s
+[  M3  ] Job finished at 17/01/2026 20:06:32 done in 6m 29s
+[  M2  ] Job finished at 17/01/2026 20:17:00 done in 5m 58s
+[  M1  ] Job finished at 17/01/2026 20:27:52 done in 5m 50s
+[  DEP  ] Job finished at 17/01/2026 20:37:43 done in 4m 41s
+    [  miEPG  ] Job finished at 17/01/2026 20:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 17/01/2026 20:44:55 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 17/01/2026 20:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 17/01/2026 20:45:40 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 17/01/2026 20:46:10 done in 10s
+        [  REX -> ORA  ] Job (rex) finished at 17/01/2026 20:46:46 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 17/01/2026 20:47:01 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 17/01/2026 20:47:31 done in 10s
+            ... 3 min 54 s para REX
+            ... 3 min 30 s para crear xmls
+            ... 20:53:17 inicio git
+            ... 20:55:39 fin git
+<---  FIN  --->
