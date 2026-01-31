@@ -1,0 +1,163 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 31/01/2026 06:25:43 done in 25m 41s
+[  ZPT  ] Job finished at 31/01/2026 06:31:57 done in 55s
+[  ZDE  ] Job finished at 31/01/2026 06:41:21 done in 3m 19s
+[  ZUK  ---> Error] error downloading page : TimeOut (20 sec) ( Play Melilla )
+[  ZUK  ---> Error] retry 1 of 2 times ( Play Melilla )
+[  ZUK  ] Job finished at 31/01/2026 06:46:34 done in 1m 32s
+[  ZVAR  ] Job finished at 31/01/2026 06:59:08 done in 7m 7s
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3 ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] Current culture: es-ES ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime. ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] nextstartdatetime time scrubbed :  ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] computer date/time format: 31/01/2026 07:27:09 ( Los Conciertos de Radio 3 )
+[  VAR  ] Job finished at 31/01/2026 07:30:44 done in 10m 42s
+[  O1  ] Job finished at 31/01/2026 07:43:56 done in 3m 54s
+[  O2  ] Job finished at 31/01/2026 07:55:38 done in 5m 37s
+[  M3  ] Job finished at 31/01/2026 08:08:35 done in 8m 33s
+[  M2  ] Job finished at 31/01/2026 08:17:31 done in 6m 30s
+[  M1  ] Job finished at 31/01/2026 08:29:25 done in 7m 24s
+[  DEP  ] Job finished at 31/01/2026 08:37:18 done in 4m 16s
+    [  miEPG  ] Job finished at 31/01/2026 08:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 31/01/2026 08:44:57 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 31/01/2026 08:45:20 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 31/01/2026 08:45:41 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 31/01/2026 08:46:13 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 31/01/2026 08:46:48 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 31/01/2026 08:47:03 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 31/01/2026 08:47:33 done in 10s
+            ... 3 min 56 s para REX
+            ... 3 min 31 s para crear xmls
+            ... 08:53:21 inicio git
+            ... 08:55:38 fin git
+[  MDB  ] Job finished at 31/01/2026 11:00:11 done in 9s
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3 ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] Current culture: es-ES ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime. ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] nextstartdatetime time scrubbed :  ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] computer date/time format: 31/01/2026 11:23:41 ( Los Conciertos de Radio 3 )
+[  VAR  ] Job finished at 31/01/2026 11:27:22 done in 7m 20s
+[  O1  ] Job finished at 31/01/2026 11:43:05 done in 3m 3s
+[  O2  ] Job finished at 31/01/2026 11:54:16 done in 4m 14s
+[  M3  ] Job finished at 31/01/2026 12:06:08 done in 6m 6s
+[  M2  ] Job finished at 31/01/2026 12:16:18 done in 5m 16s
+[  M1  ] Job finished at 31/01/2026 12:27:34 done in 5m 33s
+[  DEP  ] Job finished at 31/01/2026 12:37:03 done in 4m 1s
+    [  miEPG  ] Job finished at 31/01/2026 12:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 31/01/2026 12:44:56 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 31/01/2026 12:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 31/01/2026 12:45:40 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 31/01/2026 12:46:12 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 31/01/2026 12:46:47 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 31/01/2026 12:47:02 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 31/01/2026 12:47:33 done in 10s
+            ... 3 min 57 s para REX
+            ... 3 min 33 s para crear xmls
+            ... 12:53:28 inicio git
+            ... 12:55:49 fin git
+    [  TIVI  ]  Job finished at 31/01/2026 15:33
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 31/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 31/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 31/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 31/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 31/01/2026 15:40
+    [  BAR ---> Error ] Liga de Campeones BAR 7 (ch-07) no encontrado (31/01/2026 15:40)
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 31/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 31/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 31/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 31/01/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 31/01/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 31/01/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 31/01/2026 15:40
+    [  GOL  ] GolStadium · Job finished at 31/01/2026 15:40
+    [  GOL  ] Gol Classics · Job finished at 31/01/2026 15:40
+    [  CLI  ] Torolé TV · Job finished at 31/01/2026 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 31/01/2026 15:40
+    [  CLI  ] Iberalia caza · Job finished at 31/01/2026 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 31/01/2026 15:40
+    [  CLI  ] Global Tendencias · Job finished at 31/01/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 31/01/2026 15:40
+    [  CLI  ] DBike · Job finished at 31/01/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 31/01/2026 15:40
+    [  CLI  ] Antena Motor · Job finished at 31/01/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 31/01/2026 15:40
+    [  ZAP  ] REKTV · Job finished at 31/01/2026 15:41
+    [  ZAP  ] tlnovelas · Job finished at 31/01/2026 15:41
+    [  ZAP  ] DePelícula · Job finished at 31/01/2026 15:41
+    [  ZAP  ] DejateTV · Job finished at 31/01/2026 15:41
+    [  ZAP  ] PTV Granada · Job finished at 31/01/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 31/01/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (31/01/2026 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (31/01/2026 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 31/01/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 31/01/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (31/01/2026 15:41)
+    [  dazn  ] NFL Network · Job finished at 31/01/2026 15:41
+    [  dazn  ] Red Bull TV · Job finished at 31/01/2026 15:41
+    [  dazn  ] Unbeaten · Job finished at 31/01/2026 15:41
+    [  dazn  ---> Error] PowerSports World no existe o no tiene información (31/01/2026 15:41)
+    [  dazn  ---> Error] PLL Network no existe o no tiene información (31/01/2026 15:41)
+    [  dazn  ---> Error] Billiard TV no existe o no tiene información (31/01/2026 15:41)
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNCOM  ] Job finished at 31/01/2026 15:42
+    [  DAZNMOT  ] Job finished at 31/01/2026 15:42
+    [  DAZNMOT  ] Job finished at 31/01/2026 15:42
+[  M3  ] Job finished at 31/01/2026 16:06:03 done in 6m 1s
+[  M2  ] Job finished at 31/01/2026 16:16:20 done in 5m 18s
+[  M1  ] Job finished at 31/01/2026 16:27:34 done in 5m 32s
+[  DEP  ] Job finished at 31/01/2026 16:36:55 done in 3m 54s
+    [  miEPG  ] Job finished at 31/01/2026 16:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 31/01/2026 16:44:56 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 31/01/2026 16:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 31/01/2026 16:45:39 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 31/01/2026 16:46:12 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 31/01/2026 16:46:47 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 31/01/2026 16:47:02 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 31/01/2026 16:47:32 done in 10s
+            ... 3 min 55 s para REX
+            ... 3 min 31 s para crear xmls
+            ... 16:53:22 inicio git
+            ... 16:55:40 fin git
+[  ZFR  ] Job finished at 31/01/2026 18:16:25 done in 16m 23s
+[  ZPT  ] Job finished at 31/01/2026 18:31:56 done in 54s
+[  ZDE  ] Job finished at 31/01/2026 18:39:58 done in 1m 56s
+[  ZUK  ] Job finished at 31/01/2026 18:45:44 done in 42s
+[  ZVAR  ] Job finished at 31/01/2026 18:55:00 done in 2m 59s
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( acontra+ )
+[  VAR  ---> Error] retry 1 of 2 times ( acontra+ )
+[  VAR  ---> Error] Unable to update channel Los Conciertos de Radio 3 ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] Current culture: es-ES ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] time parsing error : String '' was not recognized as a valid DateTime. ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] nextstartdatetime time scrubbed :  ( Los Conciertos de Radio 3 )
+[  VAR  ---> Error] computer date/time format: 31/01/2026 19:24:06 ( Los Conciertos de Radio 3 )
+[  VAR  ] Job finished at 31/01/2026 19:27:44 done in 7m 42s
+[  O1  ] Job finished at 31/01/2026 19:43:11 done in 3m 9s
+[  O2  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  M3  ] Job finished at 31/01/2026 20:06:08 done in 6m 6s
+[  M2  ] Job finished at 31/01/2026 20:16:24 done in 5m 22s
+[  M1  ] Job finished at 31/01/2026 20:27:38 done in 5m 36s
+[  DEP  ] Job finished at 31/01/2026 20:36:59 done in 3m 57s
+    [  miEPG  ] Job finished at 31/01/2026 20:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 31/01/2026 20:44:55 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 31/01/2026 20:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 31/01/2026 20:45:40 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 31/01/2026 20:46:12 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 31/01/2026 20:46:47 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 31/01/2026 20:47:03 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 31/01/2026 20:47:34 done in 10s
+            ... 3 min 57 s para REX
+            ... 3 min 36 s para crear xmls
+            ... 20:53:30 inicio git
