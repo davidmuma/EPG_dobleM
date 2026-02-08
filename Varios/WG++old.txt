@@ -1,0 +1,451 @@
+<--- INICIO --->
+[  ZFR  ---> Error] Unable to update channel FR | ARTE ( FR | ARTE )
+[  ZFR  ---> Error] no index page data received from FR | ARTE ( FR | ARTE )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | ARTE )
+[  ZFR  ---> Error] Unable to update channel FR | FRANCE 24 ( FR | FRANCE 24 )
+[  ZFR  ---> Error] no index page data received from FR | FRANCE 24 ( FR | FRANCE 24 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | FRANCE 24 )
+[  ZFR  ---> Error] Unable to update channel FR | I24 NEWS ( FR | I24 NEWS )
+[  ZFR  ---> Error] no index page data received from FR | I24 NEWS ( FR | I24 NEWS )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | I24 NEWS )
+[  ZFR  ---> Error] Unable to update channel FR | MTV ( FR | MTV )
+[  ZFR  ---> Error] no index page data received from FR | MTV ( FR | MTV )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | MTV )
+[  ZFR  ---> Error] Unable to update channel FR | INFOSPORT+ ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] no index page data received from FR | INFOSPORT+ ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] Unable to update channel FR | L`ÉQUIPE ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] no index page data received from FR | L`ÉQUIPE ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 1 ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 1 ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 2 ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 2 ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 3 ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 3 ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 4 ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 4 ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 5 ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 5 ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 6 ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 6 ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 7 ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 7 ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 8 ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 8 ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 9 ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 9 ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 10 ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 10 ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] Unable to update channel FR | CANAL+ Sport ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] no index page data received from FR | CANAL+ Sport ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] Unable to update channel FR | CANAL+ Premier League ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] no index page data received from FR | CANAL+ Premier League ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 1 ( FR | DAZN 1 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 1 ( FR | DAZN 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 1 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 2 ( FR | DAZN 2 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 2 ( FR | DAZN 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 2 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 3 ( FR | DAZN 3 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 3 ( FR | DAZN 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 3 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 4 ( FR | DAZN 4 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 4 ( FR | DAZN 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 4 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 5 ( FR | DAZN 5 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 5 ( FR | DAZN 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 5 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 1 ( FR | Eurosport 1 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 1 ( FR | Eurosport 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 1 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 2 ( FR | Eurosport 2 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 2 ( FR | Eurosport 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 2 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 1 ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 1 ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 2 ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 2 ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 3 ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 3 ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 4 ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 4 ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 5 ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 5 ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 6 ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 6 ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 7 ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 7 ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 8 ( FR | Eurosport 360 8 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 8 ( FR | Eurosport 360 8 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 8 )
+[  ZFR  ] Job finished at 07/02/2026 06:10:04 done in 10m 2s
+[  ZPT  ] Job finished at 07/02/2026 06:32:01 done in 59s
+[  ZDE  ] Job finished at 07/02/2026 06:41:01 done in 2m 59s
+[  ZUK  ] Job finished at 07/02/2026 06:45:33 done in 31s
+[  ZUK  ---> ERROR] WebGrab fallo con codigo 232. Restaurando backup.
+[  ZVAR  ] Job finished at 07/02/2026 06:56:29 done in 4m 27s
+[  VAR  ] Job finished at 07/02/2026 07:31:04 done in 11m 2s
+[  O1  ] Job finished at 07/02/2026 07:44:33 done in 4m 30s
+[  O2  ] Job finished at 07/02/2026 07:55:26 done in 5m 24s
+[  M3  ] Job finished at 07/02/2026 08:08:47 done in 8m 45s
+[  M2  ] Job finished at 07/02/2026 08:18:08 done in 7m 6s
+[  M1  ] Job finished at 07/02/2026 08:29:29 done in 7m 27s
+[  DEP  ] Job finished at 07/02/2026 08:37:29 done in 4m 27s
+    [  miEPG  ] Job finished at 07/02/2026 08:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 07/02/2026 08:44:58 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 07/02/2026 08:45:22 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 07/02/2026 08:45:43 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 07/02/2026 08:46:15 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 07/02/2026 08:46:51 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 07/02/2026 08:47:06 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 07/02/2026 08:47:33 done in 9s
+            ... 3 min 54 s para REX
+            ... 3 min 26 s para crear xmls
+            ... 08:53:13 inicio git
+            ... 08:55:31 fin git
+[  MDB  ] Job finished at 07/02/2026 11:00:10 done in 9s
+[  VAR  ] Job finished at 07/02/2026 11:27:33 done in 7m 31s
+[  O1  ] Job finished at 07/02/2026 11:43:11 done in 3m 9s
+[  O2  ] Job finished at 07/02/2026 11:54:29 done in 4m 27s
+[  M3  ] Job finished at 07/02/2026 12:06:46 done in 6m 43s
+[  M2  ] Job finished at 07/02/2026 12:17:04 done in 6m 2s
+[  M1  ] Job finished at 07/02/2026 12:27:48 done in 5m 46s
+[  DEP  ] Job finished at 07/02/2026 12:37:05 done in 4m 4s
+    [  miEPG  ] Job finished at 07/02/2026 12:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 07/02/2026 12:44:58 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 07/02/2026 12:45:22 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 07/02/2026 12:45:42 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 07/02/2026 12:46:15 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 07/02/2026 12:46:52 done in 14s
+        [  REX -> MDB  ] Job (rex) finished at 07/02/2026 12:47:07 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 07/02/2026 12:47:35 done in 9s
+            ... 3 min 57 s para REX
+            ... 3 min 29 s para crear xmls
+            ... 12:53:19 inicio git
+            ... 12:55:41 fin git
+    [  TIVI  ]  Job finished at 07/02/2026 15:33
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 07/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 07/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 07/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 07/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 07/02/2026 15:40
+    [  BAR ---> Error ] Liga de Campeones BAR 7 (ch-07) no encontrado (07/02/2026 15:40)
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 07/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 07/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 07/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 07/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 07/02/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 07/02/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 07/02/2026 15:40
+    [  GOL  ] GolStadium · Job finished at 07/02/2026 15:40
+    [  GOL  ] Gol Classics · Job finished at 07/02/2026 15:40
+    [  CLI  ] Torolé TV · Job finished at 07/02/2026 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 07/02/2026 15:40
+    [  CLI  ] Iberalia caza · Job finished at 07/02/2026 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 07/02/2026 15:40
+    [  CLI  ] Global Tendencias · Job finished at 07/02/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 07/02/2026 15:40
+    [  CLI  ] DBike · Job finished at 07/02/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 07/02/2026 15:40
+    [  CLI  ] Antena Motor · Job finished at 07/02/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 07/02/2026 15:40
+    [  ZAP  ] REKTV · Job finished at 07/02/2026 15:41
+    [  ZAP  ] tlnovelas · Job finished at 07/02/2026 15:41
+    [  ZAP  ] DePelícula · Job finished at 07/02/2026 15:41
+    [  ZAP  ] DejateTV · Job finished at 07/02/2026 15:41
+    [  ZAP  ] PTV Granada · Job finished at 07/02/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 07/02/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (07/02/2026 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (07/02/2026 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 07/02/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 07/02/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (07/02/2026 15:41)
+    [  dazn  ] NFL Network · Job finished at 07/02/2026 15:41
+    [  dazn  ] Red Bull TV · Job finished at 07/02/2026 15:41
+    [  dazn  ] Unbeaten · Job finished at 07/02/2026 15:41
+    [  dazn  ---> Error] PowerSports World no existe o no tiene información (07/02/2026 15:42)
+    [  dazn  ---> Error] PLL Network no existe o no tiene información (07/02/2026 15:42)
+    [  dazn  ---> Error] Billiard TV no existe o no tiene información (07/02/2026 15:42)
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/02/2026 15:42
+    [  DAZNMOT  ] Job finished at 07/02/2026 15:42
+    [  DAZNMOT  ] Job finished at 07/02/2026 15:42
+[  M3  ] Job finished at 07/02/2026 16:06:16 done in 6m 14s
+[  M2  ] Job finished at 07/02/2026 16:17:28 done in 6m 25s
+[  M1  ] Job finished at 07/02/2026 16:27:48 done in 5m 46s
+[  DEP  ] Job finished at 07/02/2026 16:37:09 done in 4m 7s
+    [  miEPG  ] Job finished at 07/02/2026 16:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 07/02/2026 16:44:56 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 07/02/2026 16:45:19 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 07/02/2026 16:45:39 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 07/02/2026 16:46:12 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 07/02/2026 16:46:47 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 07/02/2026 16:47:02 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 07/02/2026 16:47:29 done in 9s
+            ... 3 min 51 s para REX
+            ... 3 min 27 s para crear xmls
+            ... 16:53:11 inicio git
+            ... 16:55:26 fin git
+[  ZFR  ---> Error] Unable to update channel FR | ARTE ( FR | ARTE )
+[  ZFR  ---> Error] no index page data received from FR | ARTE ( FR | ARTE )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | ARTE )
+[  ZFR  ---> Error] Unable to update channel FR | FRANCE 24 ( FR | FRANCE 24 )
+[  ZFR  ---> Error] no index page data received from FR | FRANCE 24 ( FR | FRANCE 24 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | FRANCE 24 )
+[  ZFR  ---> Error] Unable to update channel FR | I24 NEWS ( FR | I24 NEWS )
+[  ZFR  ---> Error] no index page data received from FR | I24 NEWS ( FR | I24 NEWS )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | I24 NEWS )
+[  ZFR  ---> Error] Unable to update channel FR | MTV ( FR | MTV )
+[  ZFR  ---> Error] no index page data received from FR | MTV ( FR | MTV )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | MTV )
+[  ZFR  ---> Error] Unable to update channel FR | INFOSPORT+ ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] no index page data received from FR | INFOSPORT+ ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] Unable to update channel FR | L`ÉQUIPE ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] no index page data received from FR | L`ÉQUIPE ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 1 ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 1 ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 2 ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 2 ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 3 ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 3 ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 4 ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 4 ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 5 ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 5 ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 6 ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 6 ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 7 ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 7 ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 8 ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 8 ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 9 ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 9 ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 10 ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 10 ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] Unable to update channel FR | CANAL+ Sport ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] no index page data received from FR | CANAL+ Sport ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] Unable to update channel FR | CANAL+ Premier League ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] no index page data received from FR | CANAL+ Premier League ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 1 ( FR | DAZN 1 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 1 ( FR | DAZN 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 1 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 2 ( FR | DAZN 2 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 2 ( FR | DAZN 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 2 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 3 ( FR | DAZN 3 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 3 ( FR | DAZN 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 3 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 4 ( FR | DAZN 4 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 4 ( FR | DAZN 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 4 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 5 ( FR | DAZN 5 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 5 ( FR | DAZN 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 5 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 1 ( FR | Eurosport 1 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 1 ( FR | Eurosport 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 1 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 2 ( FR | Eurosport 2 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 2 ( FR | Eurosport 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 2 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 1 ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 1 ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 2 ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 2 ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 3 ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 3 ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 4 ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 4 ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 5 ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 5 ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 6 ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 6 ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 7 ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 7 ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 8 ( FR | Eurosport 360 8 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 8 ( FR | Eurosport 360 8 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 8 )
+[  ZFR  ] Job finished at 07/02/2026 18:10:04 done in 10m 2s
+[  ZPT  ] Job finished at 07/02/2026 18:32:04 done in 1m 2s
+[  ZDE  ] Job finished at 07/02/2026 18:39:58 done in 1m 57s
+[  ZUK  ] Job finished at 07/02/2026 18:45:32 done in 30s
+[  ZUK  ---> ERROR] WebGrab fallo con codigo 232. Restaurando backup.
+[  ZVAR  ] Job finished at 07/02/2026 18:54:23 done in 2m 21s
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( Playboy TV )
+[  VAR  ---> Error] retry 1 of 2 times ( Playboy TV )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( Playboy TV )
+[  VAR  ---> Error] retry 2 of 2 times ( Playboy TV )
+[  VAR  ---> Error] Unable to update channel Playboy TV ( Playboy TV )
+[  VAR  ---> Error] no index page data received from Playboy TV ( Playboy TV )
+[  VAR  ---> Error] unable to update channel, try again later ( Playboy TV )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( Dark Rojo )
+[  VAR  ---> Error] retry 1 of 2 times ( Dark Rojo )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( Dark Rojo )
+[  VAR  ---> Error] retry 2 of 2 times ( Dark Rojo )
+[  VAR  ---> Error] Unable to update channel Dark Rojo ( Dark Rojo )
+[  VAR  ---> Error] no index page data received from Dark Rojo ( Dark Rojo )
+[  VAR  ---> Error] unable to update channel, try again later ( Dark Rojo )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( AMC Anime )
+[  VAR  ---> Error] retry 1 of 2 times ( AMC Anime )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( AMC Anime )
+[  VAR  ---> Error] retry 2 of 2 times ( AMC Anime )
+[  VAR  ---> Error] Unable to update channel AMC Anime ( AMC Anime )
+[  VAR  ---> Error] no index page data received from AMC Anime ( AMC Anime )
+[  VAR  ---> Error] unable to update channel, try again later ( AMC Anime )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( AMC+ Connect )
+[  VAR  ---> Error] retry 1 of 2 times ( AMC+ Connect )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( AMC+ Connect )
+[  VAR  ---> Error] retry 2 of 2 times ( AMC+ Connect )
+[  VAR  ---> Error] Unable to update channel AMC+ Connect ( AMC+ Connect )
+[  VAR  ---> Error] no index page data received from AMC+ Connect ( AMC+ Connect )
+[  VAR  ---> Error] unable to update channel, try again later ( AMC+ Connect )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( Escapa TV )
+[  VAR  ---> Error] retry 1 of 2 times ( Escapa TV )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( Escapa TV )
+[  VAR  ---> Error] retry 2 of 2 times ( Escapa TV )
+[  VAR  ---> Error] Unable to update channel Escapa TV ( Escapa TV )
+[  VAR  ---> Error] no index page data received from Escapa TV ( Escapa TV )
+[  VAR  ---> Error] unable to update channel, try again later ( Escapa TV )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( Popular TV Región de Murcia )
+[  VAR  ---> Error] retry 1 of 2 times ( Popular TV Región de Murcia )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( Popular TV Región de Murcia )
+[  VAR  ---> Error] retry 2 of 2 times ( Popular TV Región de Murcia )
+[  VAR  ---> Error] Unable to update channel Popular TV Región de Murcia ( Popular TV Región de Murcia )
+[  VAR  ---> Error] no index page data received from Popular TV Región de Murcia ( Popular TV Región de Murcia )
+[  VAR  ---> Error] unable to update channel, try again later ( Popular TV Región de Murcia )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( La 7 Rioja )
+[  VAR  ---> Error] retry 1 of 2 times ( La 7 Rioja )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( La 7 Rioja )
+[  VAR  ---> Error] retry 2 of 2 times ( La 7 Rioja )
+[  VAR  ---> Error] Unable to update channel La 7 Rioja ( La 7 Rioja )
+[  VAR  ---> Error] no index page data received from La 7 Rioja ( La 7 Rioja )
+[  VAR  ---> Error] unable to update channel, try again later ( La 7 Rioja )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( ETB4 )
+[  VAR  ---> Error] retry 1 of 2 times ( ETB4 )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( Levante TV )
+[  VAR  ---> Error] retry 1 of 2 times ( Levante TV )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( Onda Algeciras TV )
+[  VAR  ---> Error] retry 1 of 2 times ( Onda Algeciras TV )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( Tele Elx )
+[  VAR  ---> Error] retry 1 of 2 times ( Tele Elx )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( Tele Elx )
+[  VAR  ---> Error] retry 2 of 2 times ( Tele Elx )
+[  VAR  ---> Error] Unable to update channel Tele Elx ( Tele Elx )
+[  VAR  ---> Error] no index page data received from Tele Elx ( Tele Elx )
+[  VAR  ---> Error] unable to update channel, try again later ( Tele Elx )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( 7teleValencia )
+[  VAR  ---> Error] retry 1 of 2 times ( 7teleValencia )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( 7teleValencia )
+[  VAR  ---> Error] retry 2 of 2 times ( 7teleValencia )
+[  VAR  ---> Error] Unable to update channel 7teleValencia ( 7teleValencia )
+[  VAR  ---> Error] no index page data received from 7teleValencia ( 7teleValencia )
+[  VAR  ---> Error] unable to update channel, try again later ( 7teleValencia )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( Información TV )
+[  VAR  ---> Error] retry 1 of 2 times ( Información TV )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( Información TV )
+[  VAR  ---> Error] retry 2 of 2 times ( Información TV )
+[  VAR  ---> Error] Unable to update channel Información TV ( Información TV )
+[  VAR  ---> Error] no index page data received from Información TV ( Información TV )
+[  VAR  ---> Error] unable to update channel, try again later ( Información TV )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( DAZN 1 BAR )
+[  VAR  ---> Error] retry 1 of 2 times ( DAZN 1 BAR )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( DAZN 2 BAR )
+[  VAR  ---> Error] retry 1 of 2 times ( DAZN 2 BAR )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( LaLiga TV BAR 4 )
+[  VAR  ---> Error] retry 1 of 2 times ( LaLiga TV BAR 4 )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( LaLiga TV BAR 4 )
+[  VAR  ---> Error] retry 2 of 2 times ( LaLiga TV BAR 4 )
+[  VAR  ---> Error] Unable to update channel LaLiga TV BAR 4 ( LaLiga TV BAR 4 )
+[  VAR  ---> Error] no index page data received from LaLiga TV BAR 4 ( LaLiga TV BAR 4 )
+[  VAR  ---> Error] unable to update channel, try again later ( LaLiga TV BAR 4 )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( LaLiga TV BAR 5 )
+[  VAR  ---> Error] retry 1 of 2 times ( LaLiga TV BAR 5 )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( LaLiga TV BAR 5 )
+[  VAR  ---> Error] retry 2 of 2 times ( LaLiga TV BAR 5 )
+[  VAR  ---> Error] Unable to update channel LaLiga TV BAR 5 ( LaLiga TV BAR 5 )
+[  VAR  ---> Error] no index page data received from LaLiga TV BAR 5 ( LaLiga TV BAR 5 )
+[  VAR  ---> Error] unable to update channel, try again later ( LaLiga TV BAR 5 )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( La 1 Cataluña )
+[  VAR  ---> Error] retry 1 of 2 times ( La 1 Cataluña )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( La 2 Cataluña )
+[  VAR  ---> Error] retry 1 of 2 times ( La 2 Cataluña )
+[  VAR  ---> Error] error downloading page : TimeOut (40 sec) ( La 2 Cataluña )
+[  VAR  ---> Error] retry 2 of 2 times ( La 2 Cataluña )
+[  VAR  ---> Error] Unable to update channel La 2 Cataluña ( La 2 Cataluña )
+[  VAR  ---> Error] no index page data received from La 2 Cataluña ( La 2 Cataluña )
+[  VAR  ---> Error] unable to update channel, try again later ( La 2 Cataluña )
+[  VAR  ---> Error] error downloading page : TimeOut (20 sec) ( 24 horas Cataluña )
+[  VAR  ---> Error] retry 1 of 2 times ( 24 horas Cataluña )
+[  VAR  ---> ERROR] WebGrab fallo con codigo 143. Restaurando backup.
+[  O1  ] Job finished at 07/02/2026 19:43:15 done in 3m 12s
+[  O2  ] Job finished at 07/02/2026 19:54:31 done in 4m 29s
+[  M3  ] Job finished at 07/02/2026 20:06:13 done in 6m 11s
+[  M2  ] Job finished at 07/02/2026 20:16:52 done in 5m 50s
+[  M1  ] Job finished at 07/02/2026 20:27:43 done in 5m 41s
+[  DEP  ] Job finished at 07/02/2026 20:37:04 done in 4m 3s
+    [  miEPG  ] Job finished at 07/02/2026 20:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 07/02/2026 20:44:59 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 07/02/2026 20:45:22 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 07/02/2026 20:45:44 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 07/02/2026 20:46:18 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 07/02/2026 20:46:54 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 07/02/2026 20:47:09 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 07/02/2026 20:47:37 done in 9s
+            ... 3 min 59 s para REX
+            ... 3 min 33 s para crear xmls
+            ... 20:53:26 inicio git
+            ... 20:55:48 fin git
+<---  FIN  --->

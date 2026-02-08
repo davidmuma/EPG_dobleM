@@ -1,0 +1,125 @@
+<--- INICIO --->
+[  ZFR  ---> Error] Unable to update channel FR | ARTE ( FR | ARTE )
+[  ZFR  ---> Error] no index page data received from FR | ARTE ( FR | ARTE )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | ARTE )
+[  ZFR  ---> Error] Unable to update channel FR | FRANCE 24 ( FR | FRANCE 24 )
+[  ZFR  ---> Error] no index page data received from FR | FRANCE 24 ( FR | FRANCE 24 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | FRANCE 24 )
+[  ZFR  ---> Error] Unable to update channel FR | I24 NEWS ( FR | I24 NEWS )
+[  ZFR  ---> Error] no index page data received from FR | I24 NEWS ( FR | I24 NEWS )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | I24 NEWS )
+[  ZFR  ---> Error] Unable to update channel FR | MTV ( FR | MTV )
+[  ZFR  ---> Error] no index page data received from FR | MTV ( FR | MTV )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | MTV )
+[  ZFR  ---> Error] Unable to update channel FR | INFOSPORT+ ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] no index page data received from FR | INFOSPORT+ ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | INFOSPORT+ )
+[  ZFR  ---> Error] Unable to update channel FR | L`ÉQUIPE ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] no index page data received from FR | L`ÉQUIPE ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | L`ÉQUIPE )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 1 ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 1 ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 1 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 2 ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 2 ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 2 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS 3 ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS 3 ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS 3 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 4 ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 4 ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 4 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 5 ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 5 ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 5 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 6 ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 6 ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 6 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 7 ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 7 ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 7 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 8 ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 8 ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 8 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 9 ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 9 ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 9 )
+[  ZFR  ---> Error] Unable to update channel FR | beIN SPORTS MAX 10 ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] no index page data received from FR | beIN SPORTS MAX 10 ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | beIN SPORTS MAX 10 )
+[  ZFR  ---> Error] Unable to update channel FR | CANAL+ Sport ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] no index page data received from FR | CANAL+ Sport ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | CANAL+ Sport )
+[  ZFR  ---> Error] Unable to update channel FR | CANAL+ Premier League ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] no index page data received from FR | CANAL+ Premier League ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | CANAL+ Premier League )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 1 ( FR | DAZN 1 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 1 ( FR | DAZN 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 1 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 2 ( FR | DAZN 2 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 2 ( FR | DAZN 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 2 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 3 ( FR | DAZN 3 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 3 ( FR | DAZN 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 3 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 4 ( FR | DAZN 4 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 4 ( FR | DAZN 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 4 )
+[  ZFR  ---> Error] Unable to update channel FR | DAZN 5 ( FR | DAZN 5 )
+[  ZFR  ---> Error] no index page data received from FR | DAZN 5 ( FR | DAZN 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | DAZN 5 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 1 ( FR | Eurosport 1 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 1 ( FR | Eurosport 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 1 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 2 ( FR | Eurosport 2 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 2 ( FR | Eurosport 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 2 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 1 ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 1 ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 1 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 2 ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 2 ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 2 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 3 ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 3 ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 3 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 4 ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 4 ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 4 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 5 ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 5 ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 5 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 6 ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 6 ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 6 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 7 ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 7 ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 7 )
+[  ZFR  ---> Error] Unable to update channel FR | Eurosport 360 8 ( FR | Eurosport 360 8 )
+[  ZFR  ---> Error] no index page data received from FR | Eurosport 360 8 ( FR | Eurosport 360 8 )
+[  ZFR  ---> Error] unable to update channel, try again later ( FR | Eurosport 360 8 )
+[  ZFR  ] Job finished at 08/02/2026 06:10:03 done in 10m 1s
+[  ZPT  ] Job finished at 08/02/2026 06:32:01 done in 59s
+[  ZDE  ] Job finished at 08/02/2026 06:40:46 done in 2m 44s
+[  ZUK  ] Job finished at 08/02/2026 06:45:41 done in 40s
+[  ZUK  ---> ERROR] WebGrab fallo con codigo 232. Restaurando backup.
+[  ZVAR  ] Job finished at 08/02/2026 06:56:33 done in 4m 31s
+[  VAR  ] Job finished at 08/02/2026 07:29:19 done in 9m 17s
+[  O1  ] Job finished at 08/02/2026 07:43:52 done in 3m 50s
+[  O2  ] Job finished at 08/02/2026 07:55:20 done in 5m 18s
+[  M3  ] Job finished at 08/02/2026 08:07:11 done in 7m 9s
+[  M2  ] Job finished at 08/02/2026 08:17:38 done in 6m 37s
+[  M1  ] Job finished at 08/02/2026 08:28:23 done in 6m 20s
+[  DEP  ] Job finished at 08/02/2026 08:37:23 done in 4m 22s
+    [  miEPG  ] Job finished at 08/02/2026 08:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 08/02/2026 08:44:57 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 08/02/2026 08:45:21 done in 6s
+        [  REX -> MAN  ] Job (rex) finished at 08/02/2026 08:45:42 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 08/02/2026 08:46:14 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 08/02/2026 08:46:50 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 08/02/2026 08:47:05 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 08/02/2026 08:47:32 done in 9s
+            ... 3 min 54 s para REX
+            ... 3 min 24 s para crear xmls
+            ... 08:53:11 inicio git
