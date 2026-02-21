@@ -1,0 +1,182 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 21/02/2026 06:04:06 done in 4m 4s
+[  ZPT  ] Job finished at 21/02/2026 06:11:04 done in 1m 2s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec) ( DE | DAZN 1 )
+[  ZDE  ---> Error] retry 1 of 2 times ( DE | DAZN 1 )
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec) ( DE | DAZN 2 )
+[  ZDE  ---> Error] retry 1 of 2 times ( DE | DAZN 2 )
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec) ( DE | DAZN 2 )
+[  ZDE  ---> Error] retry 1 of 2 times ( DE | DAZN 2 )
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec) ( DE | Sky Sport Bundesliga 3 )
+[  ZDE  ---> Error] retry 1 of 2 times ( DE | Sky Sport Bundesliga 3 )
+[  ZDE  ] Job finished at 21/02/2026 06:26:45 done in 6m 43s
+[  ZUK  ] Job finished at 21/02/2026 06:49:46 done in 3m 44s
+[  ZVAR  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  VAR  ---> Error] error downloading page : TimeOut (5 sec) ( Squirrel TV )
+[  VAR  ---> Error] retry 1 of 1 times ( Squirrel TV )
+[  VAR  ---> Error] index subpage loop reached maximum number (3) ( Squirrel TV )
+[  VAR  ---> Error] see log file for details ( Squirrel TV )
+[  VAR  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  O2  ---> Error] error downloading page : TimeOut (5 sec) (  )
+[  O2  ---> Error] retry 1 of 1 times (  )
+[  O2  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  DEP  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  O1  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  M1  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  M3  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  M2  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+    [  miEPG  ] Job finished at 21/02/2026 11:26
+[  VAR  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 21/02/2026 11:27:19 done in 22s
+        [  REX -> DEP  ] Job (rex) finished at 21/02/2026 11:27:43 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 21/02/2026 11:28:05 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 21/02/2026 11:28:38 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 21/02/2026 11:29:14 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 21/02/2026 11:29:29 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 21/02/2026 11:29:59 done in 10s
+            ... 115 min 13 s para REX
+            ... 3 min 31 s para crear xmls
+            ... 11:35:49 inicio git
+            ... 11:38:11 fin git
+[  O2  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  O1  ] Job finished at 21/02/2026 11:54:33 done in 4m 31s
+[  M3  ] Job finished at 21/02/2026 12:09:14 done in 9m 11s
+[  M2  ] Job finished at 21/02/2026 12:17:59 done in 6m 57s
+[  M1  ] Job finished at 21/02/2026 12:29:32 done in 7m 30s
+[  DEP  ] Job finished at 21/02/2026 12:37:40 done in 4m 38s
+    [  miEPG  ] Job finished at 21/02/2026 12:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 21/02/2026 12:44:56 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 21/02/2026 12:45:20 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 21/02/2026 12:45:41 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 21/02/2026 12:46:14 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 21/02/2026 12:46:51 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 21/02/2026 12:47:06 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 21/02/2026 12:47:37 done in 10s
+            ... 4 min 0 s para REX
+            ... 3 min 41 s para crear xmls
+            ... 12:53:38 inicio git
+            ... 12:55:58 fin git
+    [  TIVI  ]  Job finished at 21/02/2026 15:33
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 21/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 21/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 21/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 21/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 21/02/2026 15:40
+    [  BAR ---> Error ] Liga de Campeones BAR 7 (ch-07) no encontrado (21/02/2026 15:40)
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 21/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 21/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 21/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 21/02/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 21/02/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 21/02/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 21/02/2026 15:40
+    [  GOL  ] GolStadium · Job finished at 21/02/2026 15:40
+    [  GOL  ] Gol Classics · Job finished at 21/02/2026 15:40
+    [  CLI  ] Torolé TV · Job finished at 21/02/2026 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 21/02/2026 15:40
+    [  CLI  ] Iberalia caza · Job finished at 21/02/2026 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 21/02/2026 15:40
+    [  CLI  ] Global Tendencias · Job finished at 21/02/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 21/02/2026 15:40
+    [  CLI  ] DBike · Job finished at 21/02/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 21/02/2026 15:40
+    [  CLI  ] Antena Motor · Job finished at 21/02/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 21/02/2026 15:40
+    [  ZAP  ---> Error] REKTV no se pudo descargar, usando fichero anterior (20 feb 15:41)
+    [  ZAP  ] REKTV · Job finished at 21/02/2026 15:41
+    [  ZAP  ] tlnovelas · Job finished at 21/02/2026 15:41
+    [  ZAP  ] DePelícula · Job finished at 21/02/2026 15:41
+    [  ZAP  ] DejateTV · Job finished at 21/02/2026 15:41
+    [  ZAP  ---> Error] PTV Granada no se pudo descargar, usando fichero anterior (20 feb 15:41)
+    [  ZAP  ] PTV Granada · Job finished at 21/02/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 21/02/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (21/02/2026 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (21/02/2026 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 21/02/2026 15:41
+    [  ZAP  ---> Error] PTV Málaga no se pudo descargar, usando fichero anterior (20 feb 15:41)
+    [  ZAP  ] PTV Málaga · Job finished at 21/02/2026 15:42
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (21/02/2026 15:42)
+    [  dazn  ] NFL Network · Job finished at 21/02/2026 15:42
+    [  dazn  ] Red Bull TV · Job finished at 21/02/2026 15:42
+    [  dazn  ] Unbeaten · Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNCOM  ] Job finished at 21/02/2026 15:42
+    [  DAZNMOT  ] Job finished at 21/02/2026 15:42
+    [  DAZNMOT  ] Job finished at 21/02/2026 15:42
+[  M3  ] Job finished at 21/02/2026 16:06:50 done in 6m 48s
+[  M2  ] Job finished at 21/02/2026 16:16:58 done in 5m 56s
+[  M1  ] Job finished at 21/02/2026 16:27:47 done in 5m 45s
+[  DEP  ] Job finished at 21/02/2026 16:37:04 done in 4m 2s
+    [  miEPG  ] Job finished at 21/02/2026 16:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 21/02/2026 16:44:58 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 21/02/2026 16:45:21 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 21/02/2026 16:45:42 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 21/02/2026 16:46:15 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 21/02/2026 16:46:51 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 21/02/2026 16:47:06 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 21/02/2026 16:47:37 done in 10s
+            ... 4 min 0 s para REX
+            ... 3 min 38 s para crear xmls
+            ... 16:53:35 inicio git
+            ... 16:55:56 fin git
+[  ZFR  ] Job finished at 21/02/2026 18:03:39 done in 3m 37s
+[  ZPT  ] Job finished at 21/02/2026 18:11:00 done in 59s
+[  ZDE  ---> Error] error downloading page : TimeOut (10 sec) ( DE | DAZN 2 )
+[  ZDE  ---> Error] retry 1 of 2 times ( DE | DAZN 2 )
+[  ZDE  ] Job finished at 21/02/2026 18:22:04 done in 2m 3s
+[  ZUK  ] Job finished at 21/02/2026 18:47:28 done in 1m 27s
+[  ZVAR  ---> Error] Unable to update channel 100% Navidad (Rakuten TV) ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from 100% Navidad (Rakuten TV) ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS )
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS 2 )
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS+ )
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS Fight )
+[  ZVAR  ] Job finished at 21/02/2026 19:00:39 done in 4m 38s
+[  VAR  ] Job finished at 21/02/2026 19:31:24 done in 11m 23s
+[  O2  ] Job finished at 21/02/2026 19:46:36 done in 6m 34s
+[  O1  ---> Error] error downloading page : TimeOut (5 sec) ( Squirrel TV )
+[  O1  ---> Error] retry 1 of 1 times ( Squirrel TV )
+[  O1  ---> Error] index subpage loop reached maximum number (3) ( Squirrel TV )
+[  O1  ---> Error] see log file for details ( Squirrel TV )
+[  O1  ] Job finished at 21/02/2026 19:52:40 done in 2m 38s
+[  M3  ] Job finished at 21/02/2026 20:07:02 done in 7m 0s
+[  M2  ] Job finished at 21/02/2026 20:17:10 done in 6m 8s
+[  M1  ] Job finished at 21/02/2026 20:27:48 done in 5m 46s
+[  DEP  ] Job finished at 21/02/2026 20:37:13 done in 4m 11s
+    [  miEPG  ] Job finished at 21/02/2026 20:44
+       <--- REX --->
+        [  REX -> MOV  ] Job (rex) finished at 21/02/2026 20:44:56 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 21/02/2026 20:45:20 done in 5s
+        [  REX -> MAN  ] Job (rex) finished at 21/02/2026 20:45:41 done in 7s
+        [  REX -> VAR  ] Job (rex) finished at 21/02/2026 20:46:14 done in 11s
+        [  REX -> ORA  ] Job (rex) finished at 21/02/2026 20:46:48 done in 12s
+        [  REX -> MDB  ] Job (rex) finished at 21/02/2026 20:47:03 done in 3s
+        [  REX -> ZZZ  ] Job (rex) finished at 21/02/2026 20:47:34 done in 10s
+            ... 3 min 57 s para REX
+            ... 3 min 37 s para crear xmls
+            ... 20:53:31 inicio git
