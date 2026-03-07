@@ -1,0 +1,241 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 07/03/2026 06:01:44 done in 1m 42s
+[  ZPT  ] Job finished at 07/03/2026 06:11:29 done in 1m 27s
+[  ZDE  ] Job finished at 07/03/2026 06:29:52 done in 9m 49s
+[  ZUK  ] Job finished at 07/03/2026 06:48:46 done in 2m 44s
+[  ZVAR  ---> Error] Unable to update channel 100% Navidad (Rakuten TV) ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from 100% Navidad (Rakuten TV) ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Red Bull TV (Rakuten TV) ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Red Bull TV (Rakuten TV) ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] no index page data received from FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] unable to update channel, try again later ( FIFA+ )
+[  ZVAR  ] Job finished at 07/03/2026 06:59:04 done in 3m 2s
+[  VAR2  ---> Error] Unable to update channel TV3 Catalunya ( TV3 Catalunya )
+[  VAR2  ---> Error] no index page data received from TV3 Catalunya ( TV3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( TV3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel 3CatInfo Catalunya ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] no index page data received from 3CatInfo Catalunya ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] Unable to update channel SX3 Catalunya ( SX3 Catalunya )
+[  VAR2  ---> Error] no index page data received from SX3 Catalunya ( SX3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( SX3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel El 33 Catalunya ( El 33 Catalunya )
+[  VAR2  ---> Error] no index page data received from El 33 Catalunya ( El 33 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( El 33 Catalunya )
+[  VAR2  ---> Error] Unable to update channel Esport3 Catalunya ( Esport3 Catalunya )
+[  VAR2  ---> Error] no index page data received from Esport3 Catalunya ( Esport3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( Esport3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel TV3CAT Catalunya ( TV3CAT Catalunya )
+[  VAR2  ---> Error] no index page data received from TV3CAT Catalunya ( TV3CAT Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( TV3CAT Catalunya )
+[  VAR2  ---> ERROR] WebGrab fallo con codigo 143. Restaurando backup.
+[  VAR1  ---> Error] no shows in indexpage! ( Distrito TV )
+[  VAR1  ] Job finished at 07/03/2026 07:27:48 done in 45s
+[  O2  ] Job finished at 07/03/2026 07:47:40 done in 9m 38s
+[  O1  ] Job finished at 07/03/2026 07:56:19 done in 7m 18s
+[  M3  ] Job finished at 07/03/2026 08:09:12 done in 9m 9s
+[  M2  ] Job finished at 07/03/2026 08:18:07 done in 7m 5s
+[  M1  ] Job finished at 07/03/2026 08:29:22 done in 7m 20s
+[  DEP  ] Job finished at 07/03/2026 08:37:52 done in 4m 51s
+    [  miEPG  ] Job finished at 07/03/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 07/03/2026 08:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 07/03/2026 08:44:59 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 07/03/2026 08:45:32 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 07/03/2026 08:46:10 done in 14s
+        [  REX -> MOV  ] Job (rex) finished at 07/03/2026 08:47:06 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 07/03/2026 08:47:30 done in 5s
+            ... 3 min 43 s para REX
+            ... 3 min 24 s para crear xmls
+            ... 08:52:11 inicio git
+            ... 08:54:29 fin git
+[  MDB  ] Job finished at 07/03/2026 11:00:11 done in 9s
+[  VAR2  ---> Error] Unable to update channel TV3 Catalunya ( TV3 Catalunya )
+[  VAR2  ---> Error] no index page data received from TV3 Catalunya ( TV3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( TV3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel 3CatInfo Catalunya ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] no index page data received from 3CatInfo Catalunya ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] Unable to update channel SX3 Catalunya ( SX3 Catalunya )
+[  VAR2  ---> Error] no index page data received from SX3 Catalunya ( SX3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( SX3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel El 33 Catalunya ( El 33 Catalunya )
+[  VAR2  ---> Error] no index page data received from El 33 Catalunya ( El 33 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( El 33 Catalunya )
+[  VAR2  ---> Error] Unable to update channel Esport3 Catalunya ( Esport3 Catalunya )
+[  VAR2  ---> Error] no index page data received from Esport3 Catalunya ( Esport3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( Esport3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel TV3CAT Catalunya ( TV3CAT Catalunya )
+[  VAR2  ---> Error] no index page data received from TV3CAT Catalunya ( TV3CAT Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( TV3CAT Catalunya )
+[  VAR2  ] Job finished at 07/03/2026 11:23:29 done in 7m 27s
+[  VAR1  ---> Error] no shows in indexpage! ( Distrito TV )
+[  VAR1  ] Job finished at 07/03/2026 11:27:38 done in 36s
+[  O2  ] Job finished at 07/03/2026 11:48:39 done in 10m 38s
+[  O1  ] Job finished at 07/03/2026 11:57:52 done in 8m 50s
+[  M3  ] Job finished at 07/03/2026 12:07:00 done in 6m 59s
+[  M2  ] Job finished at 07/03/2026 12:16:53 done in 5m 52s
+[  M1  ] Job finished at 07/03/2026 12:28:00 done in 5m 58s
+[  DEP  ] Job finished at 07/03/2026 12:37:32 done in 4m 31s
+    [  miEPG  ] Job finished at 07/03/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 07/03/2026 12:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 07/03/2026 12:44:59 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 07/03/2026 12:45:34 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 07/03/2026 12:46:11 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 07/03/2026 12:47:08 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 07/03/2026 12:47:31 done in 5s
+            ... 3 min 46 s para REX
+            ... 3 min 31 s para crear xmls
+            ... 12:52:23 inicio git
+            ... 12:54:50 fin git
+    [  TIVI  ]  Job finished at 07/03/2026 15:33
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 07/03/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 07/03/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 07/03/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 07/03/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 07/03/2026 15:40
+    [  BAR ---> Error ] Liga de Campeones BAR 7 (ch-07) no encontrado (07/03/2026 15:40)
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 07/03/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 07/03/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 07/03/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 07/03/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 07/03/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 07/03/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 07/03/2026 15:40
+    [  GOL  ] GolStadium · Job finished at 07/03/2026 15:40
+    [  GOL  ] Gol Classics · Job finished at 07/03/2026 15:40
+    [  CLI  ] Torolé TV · Job finished at 07/03/2026 15:40
+    [  CLI  ] Iberalia pesca · Job finished at 07/03/2026 15:40
+    [  CLI  ] Iberalia caza · Job finished at 07/03/2026 15:40
+    [  CLI  ] Global Telenovelas · Job finished at 07/03/2026 15:40
+    [  CLI  ] Global Tendencias · Job finished at 07/03/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 07/03/2026 15:40
+    [  CLI  ] DBike · Job finished at 07/03/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 07/03/2026 15:40
+    [  CLI  ] Antena Motor · Job finished at 07/03/2026 15:41
+    [  CLI  ] Dhípica · Job finished at 07/03/2026 15:41
+    [  ZAP  ] REKTV · Job finished at 07/03/2026 15:41
+    [  ZAP  ] tlnovelas · Job finished at 07/03/2026 15:41
+    [  ZAP  ] DePelícula · Job finished at 07/03/2026 15:41
+    [  ZAP  ] DejateTV · Job finished at 07/03/2026 15:41
+    [  ZAP  ] PTV Granada · Job finished at 07/03/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 07/03/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (07/03/2026 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (07/03/2026 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 07/03/2026 15:42
+    [  ZAP  ] PTV Málaga · Job finished at 07/03/2026 15:42
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (07/03/2026 15:42)
+    [  dazn  ] NFL Network · Job finished at 07/03/2026 15:42
+    [  dazn  ] Red Bull TV · Job finished at 07/03/2026 15:42
+    [  dazn  ] Unbeaten · Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+    [  DAZNCOM  ] Job finished at 07/03/2026 15:42
+[  M3  ] Job finished at 07/03/2026 16:07:25 done in 7m 23s
+[  M2  ] Job finished at 07/03/2026 16:16:46 done in 5m 44s
+[  M1  ] Job finished at 07/03/2026 16:28:02 done in 6m 1s
+[  DEP  ] Job finished at 07/03/2026 16:37:47 done in 4m 45s
+    [  miEPG  ] Job finished at 07/03/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 07/03/2026 16:44:36 done in 10s
+        [  REX -> MAN  ] Job (rex) finished at 07/03/2026 16:44:57 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 07/03/2026 16:45:31 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 07/03/2026 16:46:07 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 07/03/2026 16:47:04 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 07/03/2026 16:47:28 done in 5s
+            ... 3 min 42 s para REX
+            ... 3 min 31 s para crear xmls
+            ... 16:52:17 inicio git
+            ... 16:54:34 fin git
+[  ZFR  ] Job finished at 07/03/2026 18:01:25 done in 1m 23s
+[  ZPT  ] Job finished at 07/03/2026 18:11:33 done in 1m 31s
+[  ZDE  ] Job finished at 07/03/2026 18:26:50 done in 6m 48s
+[  ZUK  ] Job finished at 07/03/2026 18:47:07 done in 1m 5s
+[  ZVAR  ---> Error] Unable to update channel 100% Navidad (Rakuten TV) ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from 100% Navidad (Rakuten TV) ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] retry 1 of 2 times ( Todo Crimen (Rakuten TV )
+[  ZVAR  ] Job finished at 07/03/2026 18:59:45 done in 3m 43s
+[  VAR2  ---> Error] Unable to update channel TV3 Catalunya ( TV3 Catalunya )
+[  VAR2  ---> Error] no index page data received from TV3 Catalunya ( TV3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( TV3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel 3CatInfo Catalunya ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] no index page data received from 3CatInfo Catalunya ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( 3CatInfo Catalunya )
+[  VAR2  ---> Error] Unable to update channel SX3 Catalunya ( SX3 Catalunya )
+[  VAR2  ---> Error] no index page data received from SX3 Catalunya ( SX3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( SX3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel El 33 Catalunya ( El 33 Catalunya )
+[  VAR2  ---> Error] no index page data received from El 33 Catalunya ( El 33 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( El 33 Catalunya )
+[  VAR2  ---> Error] Unable to update channel Esport3 Catalunya ( Esport3 Catalunya )
+[  VAR2  ---> Error] no index page data received from Esport3 Catalunya ( Esport3 Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( Esport3 Catalunya )
+[  VAR2  ---> Error] Unable to update channel TV3CAT Catalunya ( TV3CAT Catalunya )
+[  VAR2  ---> Error] no index page data received from TV3CAT Catalunya ( TV3CAT Catalunya )
+[  VAR2  ---> Error] unable to update channel, try again later ( TV3CAT Catalunya )
+[  VAR2  ] Job finished at 07/03/2026 19:22:47 done in 6m 44s
+[  VAR1  ---> Error] no shows in indexpage! ( Distrito TV )
+[  VAR1  ] Job finished at 07/03/2026 19:27:37 done in 35s
+[  O2  ---> ERROR] WebGrab fallo con codigo 143. Restaurando backup.
+[  O1  ] Job finished at 07/03/2026 19:58:18 done in 9m 12s
+[  M3  ] Job finished at 07/03/2026 20:06:25 done in 6m 22s
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( Baby TV )
+[  M2  ---> Error] retry 1 of 2 times ( Baby TV )
+[  M2  ] Job finished at 07/03/2026 20:17:42 done in 6m 40s
+[  M1  ] Job finished at 07/03/2026 20:28:27 done in 6m 24s
+[  DEP  ] Job finished at 07/03/2026 20:37:48 done in 4m 47s
+    [  miEPG  ] Job finished at 07/03/2026 20:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 07/03/2026 20:44:36 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 07/03/2026 20:44:58 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 07/03/2026 20:45:33 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 07/03/2026 20:46:09 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 07/03/2026 20:47:06 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 07/03/2026 20:47:31 done in 5s
+            ... 3 min 45 s para REX
+            ... 3 min 34 s para crear xmls
+            ... 20:52:26 inicio git
