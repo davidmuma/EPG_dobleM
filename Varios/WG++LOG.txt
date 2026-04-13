@@ -1,0 +1,61 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 13/04/2026 06:01:30 done in 1m 27s
+[  ZPT  ] Job finished at 13/04/2026 06:11:18 done in 1m 16s
+[  ZDE  ] Job finished at 13/04/2026 06:26:23 done in 6m 21s
+[  ZUK  ] Job finished at 13/04/2026 06:48:47 done in 2m 45s
+[  ZVAR  ---> Error] Unable to update channel MTV Classic ( MTV Classic )
+[  ZVAR  ---> Error] no index page data received from MTV Classic ( MTV Classic )
+[  ZVAR  ---> Error] unable to update channel, try again later ( MTV Classic )
+[  ZVAR  ] Job finished at 13/04/2026 07:00:03 done in 4m 1s
+[  VAR2  ] Job finished at 13/04/2026 07:07:49 done in 2m 47s
+[  VAR1  ] Job finished at 13/04/2026 07:19:00 done in 8m 57s
+[  O2  ] Job finished at 13/04/2026 07:44:15 done in 6m 13s
+[  O1  ] Job finished at 13/04/2026 07:52:16 done in 3m 14s
+[  M3  ] Job finished at 13/04/2026 08:08:15 done in 8m 13s
+[  M2  ] Job finished at 13/04/2026 08:18:13 done in 7m 11s
+[  M1  ] Job finished at 13/04/2026 08:30:11 done in 8m 9s
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 14 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 15 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 16 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 17 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 18 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 19 )
+[  DEP  ] Job finished at 13/04/2026 08:38:37 done in 5m 35s
+    [  miEPG  ] Job finished at 13/04/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/04/2026 08:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 13/04/2026 08:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 13/04/2026 08:45:35 done in 14s
+        [  REX -> ORA  ] Job (rex) finished at 13/04/2026 08:46:11 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 13/04/2026 08:47:08 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 13/04/2026 08:47:30 done in 5s
+            ... 3 min 45 s para REX
+            ... 3 min 28 s para crear xmls
+            ... 08:52:16 inicio git
+            ... 08:54:27 fin git
+[  MDB  ] Job finished at 13/04/2026 11:00:11 done in 9s
+[  VAR2  ] Job finished at 13/04/2026 11:07:55 done in 2m 53s
+[  VAR1  ] Job finished at 13/04/2026 11:15:27 done in 5m 25s
+[  O2  ] Job finished at 13/04/2026 11:42:55 done in 4m 53s
+[  O1  ] Job finished at 13/04/2026 11:51:52 done in 2m 50s
+[  M3  ] Job finished at 13/04/2026 12:07:03 done in 7m 0s
+[  M2  ] Job finished at 13/04/2026 12:17:43 done in 6m 41s
+[  M1  ] Job finished at 13/04/2026 12:29:47 done in 7m 45s
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 14 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 15 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 16 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 17 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 18 )
+[  DEP  ---> Error] no shows in indexpage! ( M+ Liga de Campeones 19 )
+[  DEP  ] Job finished at 13/04/2026 12:38:17 done in 5m 15s
+    [  miEPG  ] Job finished at 13/04/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/04/2026 12:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 13/04/2026 12:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 13/04/2026 12:45:36 done in 14s
+        [  REX -> ORA  ] Job (rex) finished at 13/04/2026 12:46:15 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 13/04/2026 12:47:10 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 13/04/2026 12:47:33 done in 5s
+            ... 3 min 46 s para REX
+            ... 3 min 25 s para crear xmls
+            ... 12:52:14 inicio git
