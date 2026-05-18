@@ -1,0 +1,589 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 18/05/2026 06:01:39 done in 1m 37s
+[  ZPT  ] Job finished at 18/05/2026 06:11:12 done in 1m 9s
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] Unable to update channel DE | TRT Türk HD ( DE | TRT Türk HD )
+[  ZDE  ---> Error] no index page data received from DE | TRT Türk HD ( DE | TRT Türk HD )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | TRT Türk HD )
+[  ZDE  ] Job finished at 18/05/2026 06:24:19 done in 4m 17s
+[  ZUK  ] Job finished at 18/05/2026 06:47:40 done in 1m 38s
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] Unable to update channel 1+1 International ( 1+1 International )
+[  ZVAR  ---> Error] no index page data received from 1+1 International ( 1+1 International )
+[  ZVAR  ---> Error] unable to update channel, try again later ( 1+1 International )
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS 2 )
+[  ZVAR  ] Job finished at 18/05/2026 07:00:56 done in 4m 55s
+[  VAR2  ] Job finished at 18/05/2026 07:08:00 done in 2m 59s
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( acontra+ )
+[  VAR1  ---> Error] retry 1 of 2 times ( acontra+ )
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( VINX )
+[  VAR1  ---> Error] retry 1 of 2 times ( VINX )
+[  VAR1  ---> Error] Unable to update channel Playboy TV ( Playboy TV )
+[  VAR1  ---> Error] no index page data received from Playboy TV ( Playboy TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Playboy TV )
+[  VAR1  ---> Error] Unable to update channel Dark Rojo ( Dark Rojo )
+[  VAR1  ---> Error] no index page data received from Dark Rojo ( Dark Rojo )
+[  VAR1  ---> Error] unable to update channel, try again later ( Dark Rojo )
+[  VAR1  ---> Error] Unable to update channel AMC Anime ( AMC Anime )
+[  VAR1  ---> Error] no index page data received from AMC Anime ( AMC Anime )
+[  VAR1  ---> Error] unable to update channel, try again later ( AMC Anime )
+[  VAR1  ---> Error] Unable to update channel AMC+ Connect ( AMC+ Connect )
+[  VAR1  ---> Error] no index page data received from AMC+ Connect ( AMC+ Connect )
+[  VAR1  ---> Error] unable to update channel, try again later ( AMC+ Connect )
+[  VAR1  ---> Error] Unable to update channel Distrito TV ( Distrito TV )
+[  VAR1  ---> Error] no index page data received from Distrito TV ( Distrito TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Distrito TV )
+[  VAR1  ---> Error] Unable to update channel Escapa TV ( Escapa TV )
+[  VAR1  ---> Error] no index page data received from Escapa TV ( Escapa TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Escapa TV )
+[  VAR1  ---> Error] Unable to update channel Popular TV Región de Murcia ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] no index page data received from Popular TV Región de Murcia ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] unable to update channel, try again later ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] Unable to update channel La 7 Rioja ( La 7 Rioja )
+[  VAR1  ---> Error] no index page data received from La 7 Rioja ( La 7 Rioja )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 7 Rioja )
+[  VAR1  ---> Error] Unable to update channel TPA7 Asturias ( TPA7 Asturias )
+[  VAR1  ---> Error] no index page data received from TPA7 Asturias ( TPA7 Asturias )
+[  VAR1  ---> Error] unable to update channel, try again later ( TPA7 Asturias )
+[  VAR1  ---> Error] Unable to update channel Levante TV ( Levante TV )
+[  VAR1  ---> Error] no index page data received from Levante TV ( Levante TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Levante TV )
+[  VAR1  ---> Error] Unable to update channel Onda Algeciras TV ( Onda Algeciras TV )
+[  VAR1  ---> Error] no index page data received from Onda Algeciras TV ( Onda Algeciras TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Onda Algeciras TV )
+[  VAR1  ---> Error] Unable to update channel Tele Elx ( Tele Elx )
+[  VAR1  ---> Error] no index page data received from Tele Elx ( Tele Elx )
+[  VAR1  ---> Error] unable to update channel, try again later ( Tele Elx )
+[  VAR1  ---> Error] Unable to update channel 7teleValencia ( 7teleValencia )
+[  VAR1  ---> Error] no index page data received from 7teleValencia ( 7teleValencia )
+[  VAR1  ---> Error] unable to update channel, try again later ( 7teleValencia )
+[  VAR1  ---> Error] Unable to update channel Información TV ( Información TV )
+[  VAR1  ---> Error] no index page data received from Información TV ( Información TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Información TV )
+[  VAR1  ---> Error] Unable to update channel DAZN 1 BAR ( DAZN 1 BAR )
+[  VAR1  ---> Error] no index page data received from DAZN 1 BAR ( DAZN 1 BAR )
+[  VAR1  ---> Error] unable to update channel, try again later ( DAZN 1 BAR )
+[  VAR1  ---> Error] Unable to update channel DAZN 2 BAR ( DAZN 2 BAR )
+[  VAR1  ---> Error] no index page data received from DAZN 2 BAR ( DAZN 2 BAR )
+[  VAR1  ---> Error] unable to update channel, try again later ( DAZN 2 BAR )
+[  VAR1  ---> Error] Unable to update channel LaLiga TV BAR 4 ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] no index page data received from LaLiga TV BAR 4 ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] unable to update channel, try again later ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] Unable to update channel LaLiga TV BAR 5 ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] no index page data received from LaLiga TV BAR 5 ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] unable to update channel, try again later ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] Unable to update channel Iberalia caza ( Iberalia caza )
+[  VAR1  ---> Error] no index page data received from Iberalia caza ( Iberalia caza )
+[  VAR1  ---> Error] unable to update channel, try again later ( Iberalia caza )
+[  VAR1  ---> Error] Unable to update channel Iberalia pesca ( Iberalia pesca )
+[  VAR1  ---> Error] no index page data received from Iberalia pesca ( Iberalia pesca )
+[  VAR1  ---> Error] unable to update channel, try again later ( Iberalia pesca )
+[  VAR1  ---> Error] Unable to update channel Torolé TV ( Torolé TV )
+[  VAR1  ---> Error] no index page data received from Torolé TV ( Torolé TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Torolé TV )
+[  VAR1  ---> Error] Unable to update channel DBike ( DBike )
+[  VAR1  ---> Error] no index page data received from DBike ( DBike )
+[  VAR1  ---> Error] unable to update channel, try again later ( DBike )
+[  VAR1  ---> Error] Unable to update channel Antena Motor ( Antena Motor )
+[  VAR1  ---> Error] no index page data received from Antena Motor ( Antena Motor )
+[  VAR1  ---> Error] unable to update channel, try again later ( Antena Motor )
+[  VAR1  ---> Error] Unable to update channel Global Telenovelas ( Global Telenovelas )
+[  VAR1  ---> Error] no index page data received from Global Telenovelas ( Global Telenovelas )
+[  VAR1  ---> Error] unable to update channel, try again later ( Global Telenovelas )
+[  VAR1  ---> Error] Unable to update channel Global Tendencias ( Global Tendencias )
+[  VAR1  ---> Error] no index page data received from Global Tendencias ( Global Tendencias )
+[  VAR1  ---> Error] unable to update channel, try again later ( Global Tendencias )
+[  VAR1  ---> Error] Unable to update channel RekTV ( RekTV )
+[  VAR1  ---> Error] no index page data received from RekTV ( RekTV )
+[  VAR1  ---> Error] unable to update channel, try again later ( RekTV )
+[  VAR1  ---> Error] Unable to update channel Elche 7 TV ( Elche 7 TV )
+[  VAR1  ---> Error] no index page data received from Elche 7 TV ( Elche 7 TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Elche 7 TV )
+[  VAR1  ---> Error] Unable to update channel Pirineus TV ( Pirineus TV )
+[  VAR1  ---> Error] no index page data received from Pirineus TV ( Pirineus TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Pirineus TV )
+[  VAR1  ---> Error] Unable to update channel Viajes y Sabores ( Viajes y Sabores )
+[  VAR1  ---> Error] no index page data received from Viajes y Sabores ( Viajes y Sabores )
+[  VAR1  ---> Error] unable to update channel, try again later ( Viajes y Sabores )
+[  VAR1  ---> Error] Unable to update channel EsTuTele ( EsTuTele )
+[  VAR1  ---> Error] no index page data received from EsTuTele ( EsTuTele )
+[  VAR1  ---> Error] unable to update channel, try again later ( EsTuTele )
+[  VAR1  ---> Error] Unable to update channel Cine Friki ( Cine Friki )
+[  VAR1  ---> Error] no index page data received from Cine Friki ( Cine Friki )
+[  VAR1  ---> Error] unable to update channel, try again later ( Cine Friki )
+[  VAR1  ---> Error] Unable to update channel Crimen&Historia ( Crimen&Historia )
+[  VAR1  ---> Error] no index page data received from Crimen&Historia ( Crimen&Historia )
+[  VAR1  ---> Error] unable to update channel, try again later ( Crimen&Historia )
+[  VAR1  ---> Error] Unable to update channel Extreme Channel ( Extreme Channel )
+[  VAR1  ---> Error] no index page data received from Extreme Channel ( Extreme Channel )
+[  VAR1  ---> Error] unable to update channel, try again later ( Extreme Channel )
+[  VAR1  ---> Error] Unable to update channel VE PLUS TV ( VE PLUS TV )
+[  VAR1  ---> Error] no index page data received from VE PLUS TV ( VE PLUS TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( VE PLUS TV )
+[  VAR1  ---> Error] Unable to update channel Onda Cádiz TV ( Onda Cádiz TV )
+[  VAR1  ---> Error] no index page data received from Onda Cádiz TV ( Onda Cádiz TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Onda Cádiz TV )
+[  VAR1  ---> Error] Unable to update channel ATV Andorra Televisión ( ATV Andorra Televisión )
+[  VAR1  ---> Error] no index page data received from ATV Andorra Televisión ( ATV Andorra Televisión )
+[  VAR1  ---> Error] unable to update channel, try again later ( ATV Andorra Televisión )
+[  VAR1  ---> Error] Unable to update channel Stingray Classica ( Stingray Classica )
+[  VAR1  ---> Error] no index page data received from Stingray Classica ( Stingray Classica )
+[  VAR1  ---> Error] unable to update channel, try again later ( Stingray Classica )
+[  VAR1  ---> Error] Unable to update channel GCM ( GCM )
+[  VAR1  ---> Error] no index page data received from GCM ( GCM )
+[  VAR1  ---> Error] unable to update channel, try again later ( GCM )
+[  VAR1  ---> Error] Unable to update channel AZ Corazón ( AZ Corazón )
+[  VAR1  ---> Error] no index page data received from AZ Corazón ( AZ Corazón )
+[  VAR1  ---> Error] unable to update channel, try again later ( AZ Corazón )
+[  VAR1  ---> Error] Unable to update channel La 1 Cataluña ( La 1 Cataluña )
+[  VAR1  ---> Error] no index page data received from La 1 Cataluña ( La 1 Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 1 Cataluña )
+[  VAR1  ---> Error] Unable to update channel La 2 Cataluña ( La 2 Cataluña )
+[  VAR1  ---> Error] no index page data received from La 2 Cataluña ( La 2 Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 2 Cataluña )
+[  VAR1  ---> Error] Unable to update channel 24 horas Cataluña ( 24 horas Cataluña )
+[  VAR1  ---> Error] no index page data received from 24 horas Cataluña ( 24 horas Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( 24 horas Cataluña )
+[  VAR1  ---> Error] Unable to update channel La 1 Canarias ( La 1 Canarias )
+[  VAR1  ---> Error] no index page data received from La 1 Canarias ( La 1 Canarias )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 1 Canarias )
+[  VAR1  ---> Error] Unable to update channel La 2 Canarias ( La 2 Canarias )
+[  VAR1  ---> Error] no index page data received from La 2 Canarias ( La 2 Canarias )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 2 Canarias )
+[  VAR1  ] Job finished at 18/05/2026 07:16:31 done in 6m 28s
+[  O2  ] Job finished at 18/05/2026 07:44:21 done in 6m 18s
+[  O1  ] Job finished at 18/05/2026 07:52:07 done in 3m 5s
+[  M3  ] Job finished at 18/05/2026 08:06:43 done in 6m 42s
+[  M2  ] Job finished at 18/05/2026 08:17:08 done in 6m 5s
+[  M1  ] Job finished at 18/05/2026 08:27:59 done in 5m 58s
+[  DEP  ] Job finished at 18/05/2026 08:36:28 done in 3m 26s
+    [  miEPG  ] Job finished at 18/05/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 18/05/2026 08:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 18/05/2026 08:44:57 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 18/05/2026 08:45:32 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 18/05/2026 08:46:11 done in 16s
+        [  REX -> MOV  ] Job (rex) finished at 18/05/2026 08:47:10 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 18/05/2026 08:47:32 done in 5s
+            ... 3 min 46 s para REX
+            ... 3 min 22 s para crear xmls
+            ... 08:52:11 inicio git
+            ... 08:54:28 fin git
+[  MDB  ] Job finished at 18/05/2026 11:00:13 done in 10s
+[  VAR2  ] Job finished at 18/05/2026 11:08:12 done in 3m 10s
+[  VAR1  ---> Error] Unable to update channel Playboy TV ( Playboy TV )
+[  VAR1  ---> Error] no index page data received from Playboy TV ( Playboy TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Playboy TV )
+[  VAR1  ---> Error] Unable to update channel Dark Rojo ( Dark Rojo )
+[  VAR1  ---> Error] no index page data received from Dark Rojo ( Dark Rojo )
+[  VAR1  ---> Error] unable to update channel, try again later ( Dark Rojo )
+[  VAR1  ---> Error] Unable to update channel AMC Anime ( AMC Anime )
+[  VAR1  ---> Error] no index page data received from AMC Anime ( AMC Anime )
+[  VAR1  ---> Error] unable to update channel, try again later ( AMC Anime )
+[  VAR1  ---> Error] Unable to update channel AMC+ Connect ( AMC+ Connect )
+[  VAR1  ---> Error] no index page data received from AMC+ Connect ( AMC+ Connect )
+[  VAR1  ---> Error] unable to update channel, try again later ( AMC+ Connect )
+[  VAR1  ---> Error] Unable to update channel Distrito TV ( Distrito TV )
+[  VAR1  ---> Error] no index page data received from Distrito TV ( Distrito TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Distrito TV )
+[  VAR1  ---> Error] Unable to update channel Escapa TV ( Escapa TV )
+[  VAR1  ---> Error] no index page data received from Escapa TV ( Escapa TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Escapa TV )
+[  VAR1  ---> Error] Unable to update channel Popular TV Región de Murcia ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] no index page data received from Popular TV Región de Murcia ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] unable to update channel, try again later ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] Unable to update channel La 7 Rioja ( La 7 Rioja )
+[  VAR1  ---> Error] no index page data received from La 7 Rioja ( La 7 Rioja )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 7 Rioja )
+[  VAR1  ---> Error] Unable to update channel TPA7 Asturias ( TPA7 Asturias )
+[  VAR1  ---> Error] no index page data received from TPA7 Asturias ( TPA7 Asturias )
+[  VAR1  ---> Error] unable to update channel, try again later ( TPA7 Asturias )
+[  VAR1  ---> Error] Unable to update channel Levante TV ( Levante TV )
+[  VAR1  ---> Error] no index page data received from Levante TV ( Levante TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Levante TV )
+[  VAR1  ---> Error] Unable to update channel Onda Algeciras TV ( Onda Algeciras TV )
+[  VAR1  ---> Error] no index page data received from Onda Algeciras TV ( Onda Algeciras TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Onda Algeciras TV )
+[  VAR1  ---> Error] Unable to update channel Tele Elx ( Tele Elx )
+[  VAR1  ---> Error] no index page data received from Tele Elx ( Tele Elx )
+[  VAR1  ---> Error] unable to update channel, try again later ( Tele Elx )
+[  VAR1  ---> Error] Unable to update channel 7teleValencia ( 7teleValencia )
+[  VAR1  ---> Error] no index page data received from 7teleValencia ( 7teleValencia )
+[  VAR1  ---> Error] unable to update channel, try again later ( 7teleValencia )
+[  VAR1  ---> Error] Unable to update channel Información TV ( Información TV )
+[  VAR1  ---> Error] no index page data received from Información TV ( Información TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Información TV )
+[  VAR1  ---> Error] Unable to update channel DAZN 1 BAR ( DAZN 1 BAR )
+[  VAR1  ---> Error] no index page data received from DAZN 1 BAR ( DAZN 1 BAR )
+[  VAR1  ---> Error] unable to update channel, try again later ( DAZN 1 BAR )
+[  VAR1  ---> Error] Unable to update channel DAZN 2 BAR ( DAZN 2 BAR )
+[  VAR1  ---> Error] no index page data received from DAZN 2 BAR ( DAZN 2 BAR )
+[  VAR1  ---> Error] unable to update channel, try again later ( DAZN 2 BAR )
+[  VAR1  ---> Error] Unable to update channel LaLiga TV BAR 4 ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] no index page data received from LaLiga TV BAR 4 ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] unable to update channel, try again later ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] Unable to update channel LaLiga TV BAR 5 ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] no index page data received from LaLiga TV BAR 5 ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] unable to update channel, try again later ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] Unable to update channel Iberalia caza ( Iberalia caza )
+[  VAR1  ---> Error] no index page data received from Iberalia caza ( Iberalia caza )
+[  VAR1  ---> Error] unable to update channel, try again later ( Iberalia caza )
+[  VAR1  ---> Error] Unable to update channel Iberalia pesca ( Iberalia pesca )
+[  VAR1  ---> Error] no index page data received from Iberalia pesca ( Iberalia pesca )
+[  VAR1  ---> Error] unable to update channel, try again later ( Iberalia pesca )
+[  VAR1  ---> Error] Unable to update channel Torolé TV ( Torolé TV )
+[  VAR1  ---> Error] no index page data received from Torolé TV ( Torolé TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Torolé TV )
+[  VAR1  ---> Error] Unable to update channel DBike ( DBike )
+[  VAR1  ---> Error] no index page data received from DBike ( DBike )
+[  VAR1  ---> Error] unable to update channel, try again later ( DBike )
+[  VAR1  ---> Error] Unable to update channel Antena Motor ( Antena Motor )
+[  VAR1  ---> Error] no index page data received from Antena Motor ( Antena Motor )
+[  VAR1  ---> Error] unable to update channel, try again later ( Antena Motor )
+[  VAR1  ---> Error] Unable to update channel Global Telenovelas ( Global Telenovelas )
+[  VAR1  ---> Error] no index page data received from Global Telenovelas ( Global Telenovelas )
+[  VAR1  ---> Error] unable to update channel, try again later ( Global Telenovelas )
+[  VAR1  ---> Error] Unable to update channel Global Tendencias ( Global Tendencias )
+[  VAR1  ---> Error] no index page data received from Global Tendencias ( Global Tendencias )
+[  VAR1  ---> Error] unable to update channel, try again later ( Global Tendencias )
+[  VAR1  ---> Error] Unable to update channel RekTV ( RekTV )
+[  VAR1  ---> Error] no index page data received from RekTV ( RekTV )
+[  VAR1  ---> Error] unable to update channel, try again later ( RekTV )
+[  VAR1  ---> Error] Unable to update channel Elche 7 TV ( Elche 7 TV )
+[  VAR1  ---> Error] no index page data received from Elche 7 TV ( Elche 7 TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Elche 7 TV )
+[  VAR1  ---> Error] Unable to update channel Pirineus TV ( Pirineus TV )
+[  VAR1  ---> Error] no index page data received from Pirineus TV ( Pirineus TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Pirineus TV )
+[  VAR1  ---> Error] Unable to update channel Viajes y Sabores ( Viajes y Sabores )
+[  VAR1  ---> Error] no index page data received from Viajes y Sabores ( Viajes y Sabores )
+[  VAR1  ---> Error] unable to update channel, try again later ( Viajes y Sabores )
+[  VAR1  ---> Error] Unable to update channel EsTuTele ( EsTuTele )
+[  VAR1  ---> Error] no index page data received from EsTuTele ( EsTuTele )
+[  VAR1  ---> Error] unable to update channel, try again later ( EsTuTele )
+[  VAR1  ---> Error] Unable to update channel Cine Friki ( Cine Friki )
+[  VAR1  ---> Error] no index page data received from Cine Friki ( Cine Friki )
+[  VAR1  ---> Error] unable to update channel, try again later ( Cine Friki )
+[  VAR1  ---> Error] Unable to update channel Crimen&Historia ( Crimen&Historia )
+[  VAR1  ---> Error] no index page data received from Crimen&Historia ( Crimen&Historia )
+[  VAR1  ---> Error] unable to update channel, try again later ( Crimen&Historia )
+[  VAR1  ---> Error] Unable to update channel Extreme Channel ( Extreme Channel )
+[  VAR1  ---> Error] no index page data received from Extreme Channel ( Extreme Channel )
+[  VAR1  ---> Error] unable to update channel, try again later ( Extreme Channel )
+[  VAR1  ---> Error] Unable to update channel VE PLUS TV ( VE PLUS TV )
+[  VAR1  ---> Error] no index page data received from VE PLUS TV ( VE PLUS TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( VE PLUS TV )
+[  VAR1  ---> Error] Unable to update channel Onda Cádiz TV ( Onda Cádiz TV )
+[  VAR1  ---> Error] no index page data received from Onda Cádiz TV ( Onda Cádiz TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Onda Cádiz TV )
+[  VAR1  ---> Error] Unable to update channel ATV Andorra Televisión ( ATV Andorra Televisión )
+[  VAR1  ---> Error] no index page data received from ATV Andorra Televisión ( ATV Andorra Televisión )
+[  VAR1  ---> Error] unable to update channel, try again later ( ATV Andorra Televisión )
+[  VAR1  ---> Error] Unable to update channel Stingray Classica ( Stingray Classica )
+[  VAR1  ---> Error] no index page data received from Stingray Classica ( Stingray Classica )
+[  VAR1  ---> Error] unable to update channel, try again later ( Stingray Classica )
+[  VAR1  ---> Error] Unable to update channel GCM ( GCM )
+[  VAR1  ---> Error] no index page data received from GCM ( GCM )
+[  VAR1  ---> Error] unable to update channel, try again later ( GCM )
+[  VAR1  ---> Error] Unable to update channel AZ Corazón ( AZ Corazón )
+[  VAR1  ---> Error] no index page data received from AZ Corazón ( AZ Corazón )
+[  VAR1  ---> Error] unable to update channel, try again later ( AZ Corazón )
+[  VAR1  ---> Error] Unable to update channel La 1 Cataluña ( La 1 Cataluña )
+[  VAR1  ---> Error] no index page data received from La 1 Cataluña ( La 1 Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 1 Cataluña )
+[  VAR1  ---> Error] Unable to update channel La 2 Cataluña ( La 2 Cataluña )
+[  VAR1  ---> Error] no index page data received from La 2 Cataluña ( La 2 Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 2 Cataluña )
+[  VAR1  ---> Error] Unable to update channel 24 horas Cataluña ( 24 horas Cataluña )
+[  VAR1  ---> Error] no index page data received from 24 horas Cataluña ( 24 horas Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( 24 horas Cataluña )
+[  VAR1  ---> Error] Unable to update channel La 1 Canarias ( La 1 Canarias )
+[  VAR1  ---> Error] no index page data received from La 1 Canarias ( La 1 Canarias )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 1 Canarias )
+[  VAR1  ---> Error] Unable to update channel La 2 Canarias ( La 2 Canarias )
+[  VAR1  ---> Error] no index page data received from La 2 Canarias ( La 2 Canarias )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 2 Canarias )
+[  VAR1  ] Job finished at 18/05/2026 11:14:43 done in 4m 42s
+[  O2  ] Job finished at 18/05/2026 11:42:56 done in 4m 55s
+[  O1  ] Job finished at 18/05/2026 11:51:39 done in 2m 37s
+[  M3  ] Job finished at 18/05/2026 12:05:31 done in 5m 29s
+[  M2  ] Job finished at 18/05/2026 12:16:01 done in 4m 59s
+[  M1  ] Job finished at 18/05/2026 12:27:28 done in 5m 25s
+[  DEP  ] Job finished at 18/05/2026 12:36:21 done in 3m 19s
+    [  miEPG  ] Job finished at 18/05/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 18/05/2026 12:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 18/05/2026 12:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 18/05/2026 12:45:32 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 18/05/2026 12:46:08 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 18/05/2026 12:47:05 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 18/05/2026 12:47:27 done in 5s
+            ... 3 min 41 s para REX
+            ... 3 min 17 s para crear xmls
+            ... 12:52:03 inicio git
+            ... 12:54:29 fin git
+    [  TIVI  ]  error de validación xml
+    [  NBA  ] NBA TV · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 18/05/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 18/05/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 18/05/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 18/05/2026 15:40
+    [  GOL  ] Gol Classics · Job finished at 18/05/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 18/05/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 18/05/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 18/05/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 18/05/2026 15:40
+    [  ZAP  ] DePelícula · Job finished at 18/05/2026 15:40
+    [  ZAP  ] DejateTV · Job finished at 18/05/2026 15:40
+    [  ZAP  ] PTV Granada · Job finished at 18/05/2026 15:40
+    [  ZAP  ---> Error] PTV Sevilla no existe o no tiene información (18/05/2026 15:40)
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (18/05/2026 15:40)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (18/05/2026 15:40)
+    [  ZAP  ] PTV Linares · Job finished at 18/05/2026 15:40
+    [  ZAP  ] PTV Málaga · Job finished at 18/05/2026 15:40
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (18/05/2026 15:41)
+    [  dazn  ] NFL Network · Job finished at 18/05/2026 15:41
+    [  dazn  ] Red Bull TV · Job finished at 18/05/2026 15:41
+    [  dazn  ] Unbeaten · Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+    [  DAZNCOM  ] Job finished at 18/05/2026 15:41
+[  M3  ] Job finished at 18/05/2026 16:05:34 done in 5m 31s
+[  M2  ] Job finished at 18/05/2026 16:16:10 done in 5m 7s
+[  M1  ] Job finished at 18/05/2026 16:27:26 done in 5m 24s
+[  DEP  ] Job finished at 18/05/2026 16:36:18 done in 3m 16s
+    [  miEPG  ] Job finished at 18/05/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 18/05/2026 16:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 18/05/2026 16:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 18/05/2026 16:45:31 done in 13s
+        [  REX -> ORA  ] Job (rex) finished at 18/05/2026 16:46:08 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 18/05/2026 16:47:04 done in 19s
+        [  REX -> DEP  ] Job (rex) finished at 18/05/2026 16:47:26 done in 5s
+            ... 3 min 41 s para REX
+            ... 3 min 12 s para crear xmls
+            ... 16:51:56 inicio git
+            ... 16:54:22 fin git
+[  ZFR  ] Job finished at 18/05/2026 18:01:27 done in 1m 25s
+[  ZPT  ] Job finished at 18/05/2026 18:11:13 done in 1m 11s
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] index subpage loop reached maximum number (4) ( DE | TRT Türk HD )
+[  ZDE  ---> Error] see log file for details ( DE | TRT Türk HD )
+[  ZDE  ---> Error] Unable to update channel DE | TRT Türk HD ( DE | TRT Türk HD )
+[  ZDE  ---> Error] no index page data received from DE | TRT Türk HD ( DE | TRT Türk HD )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | TRT Türk HD )
+[  ZDE  ] Job finished at 18/05/2026 18:23:10 done in 3m 8s
+[  ZUK  ] Job finished at 18/05/2026 18:46:59 done in 58s
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] index subpage loop reached maximum number (4) ( 1+1 International )
+[  ZVAR  ---> Error] see log file for details ( 1+1 International )
+[  ZVAR  ---> Error] Unable to update channel 1+1 International ( 1+1 International )
+[  ZVAR  ---> Error] no index page data received from 1+1 International ( 1+1 International )
+[  ZVAR  ---> Error] unable to update channel, try again later ( 1+1 International )
+[  ZVAR  ---> Error] Unable to update channel 100% Navidad (Rakuten TV) ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from 100% Navidad (Rakuten TV) ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( 100% Navidad (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS 2 )
+[  ZVAR  ] Job finished at 18/05/2026 18:59:34 done in 3m 31s
+[  VAR2  ] Job finished at 18/05/2026 19:08:12 done in 3m 10s
+[  VAR1  ---> Error] Unable to update channel Playboy TV ( Playboy TV )
+[  VAR1  ---> Error] no index page data received from Playboy TV ( Playboy TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Playboy TV )
+[  VAR1  ---> Error] Unable to update channel Dark Rojo ( Dark Rojo )
+[  VAR1  ---> Error] no index page data received from Dark Rojo ( Dark Rojo )
+[  VAR1  ---> Error] unable to update channel, try again later ( Dark Rojo )
+[  VAR1  ---> Error] Unable to update channel AMC Anime ( AMC Anime )
+[  VAR1  ---> Error] no index page data received from AMC Anime ( AMC Anime )
+[  VAR1  ---> Error] unable to update channel, try again later ( AMC Anime )
+[  VAR1  ---> Error] Unable to update channel AMC+ Connect ( AMC+ Connect )
+[  VAR1  ---> Error] no index page data received from AMC+ Connect ( AMC+ Connect )
+[  VAR1  ---> Error] unable to update channel, try again later ( AMC+ Connect )
+[  VAR1  ---> Error] Unable to update channel Distrito TV ( Distrito TV )
+[  VAR1  ---> Error] no index page data received from Distrito TV ( Distrito TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Distrito TV )
+[  VAR1  ---> Error] Unable to update channel Escapa TV ( Escapa TV )
+[  VAR1  ---> Error] no index page data received from Escapa TV ( Escapa TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Escapa TV )
+[  VAR1  ---> Error] Unable to update channel Popular TV Región de Murcia ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] no index page data received from Popular TV Región de Murcia ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] unable to update channel, try again later ( Popular TV Región de Murcia )
+[  VAR1  ---> Error] Unable to update channel La 7 Rioja ( La 7 Rioja )
+[  VAR1  ---> Error] no index page data received from La 7 Rioja ( La 7 Rioja )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 7 Rioja )
+[  VAR1  ---> Error] Unable to update channel TPA7 Asturias ( TPA7 Asturias )
+[  VAR1  ---> Error] no index page data received from TPA7 Asturias ( TPA7 Asturias )
+[  VAR1  ---> Error] unable to update channel, try again later ( TPA7 Asturias )
+[  VAR1  ---> Error] Unable to update channel Levante TV ( Levante TV )
+[  VAR1  ---> Error] no index page data received from Levante TV ( Levante TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Levante TV )
+[  VAR1  ---> Error] Unable to update channel Onda Algeciras TV ( Onda Algeciras TV )
+[  VAR1  ---> Error] no index page data received from Onda Algeciras TV ( Onda Algeciras TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Onda Algeciras TV )
+[  VAR1  ---> Error] Unable to update channel Tele Elx ( Tele Elx )
+[  VAR1  ---> Error] no index page data received from Tele Elx ( Tele Elx )
+[  VAR1  ---> Error] unable to update channel, try again later ( Tele Elx )
+[  VAR1  ---> Error] Unable to update channel 7teleValencia ( 7teleValencia )
+[  VAR1  ---> Error] no index page data received from 7teleValencia ( 7teleValencia )
+[  VAR1  ---> Error] unable to update channel, try again later ( 7teleValencia )
+[  VAR1  ---> Error] Unable to update channel Información TV ( Información TV )
+[  VAR1  ---> Error] no index page data received from Información TV ( Información TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Información TV )
+[  VAR1  ---> Error] Unable to update channel DAZN 1 BAR ( DAZN 1 BAR )
+[  VAR1  ---> Error] no index page data received from DAZN 1 BAR ( DAZN 1 BAR )
+[  VAR1  ---> Error] unable to update channel, try again later ( DAZN 1 BAR )
+[  VAR1  ---> Error] Unable to update channel DAZN 2 BAR ( DAZN 2 BAR )
+[  VAR1  ---> Error] no index page data received from DAZN 2 BAR ( DAZN 2 BAR )
+[  VAR1  ---> Error] unable to update channel, try again later ( DAZN 2 BAR )
+[  VAR1  ---> Error] Unable to update channel LaLiga TV BAR 4 ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] no index page data received from LaLiga TV BAR 4 ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] unable to update channel, try again later ( LaLiga TV BAR 4 )
+[  VAR1  ---> Error] Unable to update channel LaLiga TV BAR 5 ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] no index page data received from LaLiga TV BAR 5 ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] unable to update channel, try again later ( LaLiga TV BAR 5 )
+[  VAR1  ---> Error] Unable to update channel Iberalia caza ( Iberalia caza )
+[  VAR1  ---> Error] no index page data received from Iberalia caza ( Iberalia caza )
+[  VAR1  ---> Error] unable to update channel, try again later ( Iberalia caza )
+[  VAR1  ---> Error] Unable to update channel Iberalia pesca ( Iberalia pesca )
+[  VAR1  ---> Error] no index page data received from Iberalia pesca ( Iberalia pesca )
+[  VAR1  ---> Error] unable to update channel, try again later ( Iberalia pesca )
+[  VAR1  ---> Error] Unable to update channel Torolé TV ( Torolé TV )
+[  VAR1  ---> Error] no index page data received from Torolé TV ( Torolé TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Torolé TV )
+[  VAR1  ---> Error] Unable to update channel DBike ( DBike )
+[  VAR1  ---> Error] no index page data received from DBike ( DBike )
+[  VAR1  ---> Error] unable to update channel, try again later ( DBike )
+[  VAR1  ---> Error] Unable to update channel Antena Motor ( Antena Motor )
+[  VAR1  ---> Error] no index page data received from Antena Motor ( Antena Motor )
+[  VAR1  ---> Error] unable to update channel, try again later ( Antena Motor )
+[  VAR1  ---> Error] Unable to update channel Global Telenovelas ( Global Telenovelas )
+[  VAR1  ---> Error] no index page data received from Global Telenovelas ( Global Telenovelas )
+[  VAR1  ---> Error] unable to update channel, try again later ( Global Telenovelas )
+[  VAR1  ---> Error] Unable to update channel Global Tendencias ( Global Tendencias )
+[  VAR1  ---> Error] no index page data received from Global Tendencias ( Global Tendencias )
+[  VAR1  ---> Error] unable to update channel, try again later ( Global Tendencias )
+[  VAR1  ---> Error] Unable to update channel RekTV ( RekTV )
+[  VAR1  ---> Error] no index page data received from RekTV ( RekTV )
+[  VAR1  ---> Error] unable to update channel, try again later ( RekTV )
+[  VAR1  ---> Error] Unable to update channel Elche 7 TV ( Elche 7 TV )
+[  VAR1  ---> Error] no index page data received from Elche 7 TV ( Elche 7 TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Elche 7 TV )
+[  VAR1  ---> Error] Unable to update channel Pirineus TV ( Pirineus TV )
+[  VAR1  ---> Error] no index page data received from Pirineus TV ( Pirineus TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Pirineus TV )
+[  VAR1  ---> Error] Unable to update channel Viajes y Sabores ( Viajes y Sabores )
+[  VAR1  ---> Error] no index page data received from Viajes y Sabores ( Viajes y Sabores )
+[  VAR1  ---> Error] unable to update channel, try again later ( Viajes y Sabores )
+[  VAR1  ---> Error] Unable to update channel EsTuTele ( EsTuTele )
+[  VAR1  ---> Error] no index page data received from EsTuTele ( EsTuTele )
+[  VAR1  ---> Error] unable to update channel, try again later ( EsTuTele )
+[  VAR1  ---> Error] Unable to update channel Cine Friki ( Cine Friki )
+[  VAR1  ---> Error] no index page data received from Cine Friki ( Cine Friki )
+[  VAR1  ---> Error] unable to update channel, try again later ( Cine Friki )
+[  VAR1  ---> Error] Unable to update channel Crimen&Historia ( Crimen&Historia )
+[  VAR1  ---> Error] no index page data received from Crimen&Historia ( Crimen&Historia )
+[  VAR1  ---> Error] unable to update channel, try again later ( Crimen&Historia )
+[  VAR1  ---> Error] Unable to update channel Extreme Channel ( Extreme Channel )
+[  VAR1  ---> Error] no index page data received from Extreme Channel ( Extreme Channel )
+[  VAR1  ---> Error] unable to update channel, try again later ( Extreme Channel )
+[  VAR1  ---> Error] Unable to update channel VE PLUS TV ( VE PLUS TV )
+[  VAR1  ---> Error] no index page data received from VE PLUS TV ( VE PLUS TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( VE PLUS TV )
+[  VAR1  ---> Error] Unable to update channel Onda Cádiz TV ( Onda Cádiz TV )
+[  VAR1  ---> Error] no index page data received from Onda Cádiz TV ( Onda Cádiz TV )
+[  VAR1  ---> Error] unable to update channel, try again later ( Onda Cádiz TV )
+[  VAR1  ---> Error] Unable to update channel ATV Andorra Televisión ( ATV Andorra Televisión )
+[  VAR1  ---> Error] no index page data received from ATV Andorra Televisión ( ATV Andorra Televisión )
+[  VAR1  ---> Error] unable to update channel, try again later ( ATV Andorra Televisión )
+[  VAR1  ---> Error] Unable to update channel Stingray Classica ( Stingray Classica )
+[  VAR1  ---> Error] no index page data received from Stingray Classica ( Stingray Classica )
+[  VAR1  ---> Error] unable to update channel, try again later ( Stingray Classica )
+[  VAR1  ---> Error] Unable to update channel GCM ( GCM )
+[  VAR1  ---> Error] no index page data received from GCM ( GCM )
+[  VAR1  ---> Error] unable to update channel, try again later ( GCM )
+[  VAR1  ---> Error] Unable to update channel AZ Corazón ( AZ Corazón )
+[  VAR1  ---> Error] no index page data received from AZ Corazón ( AZ Corazón )
+[  VAR1  ---> Error] unable to update channel, try again later ( AZ Corazón )
+[  VAR1  ---> Error] Unable to update channel La 1 Cataluña ( La 1 Cataluña )
+[  VAR1  ---> Error] no index page data received from La 1 Cataluña ( La 1 Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 1 Cataluña )
+[  VAR1  ---> Error] Unable to update channel La 2 Cataluña ( La 2 Cataluña )
+[  VAR1  ---> Error] no index page data received from La 2 Cataluña ( La 2 Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 2 Cataluña )
+[  VAR1  ---> Error] Unable to update channel 24 horas Cataluña ( 24 horas Cataluña )
+[  VAR1  ---> Error] no index page data received from 24 horas Cataluña ( 24 horas Cataluña )
+[  VAR1  ---> Error] unable to update channel, try again later ( 24 horas Cataluña )
+[  VAR1  ---> Error] Unable to update channel La 1 Canarias ( La 1 Canarias )
+[  VAR1  ---> Error] no index page data received from La 1 Canarias ( La 1 Canarias )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 1 Canarias )
+[  VAR1  ---> Error] Unable to update channel La 2 Canarias ( La 2 Canarias )
+[  VAR1  ---> Error] no index page data received from La 2 Canarias ( La 2 Canarias )
+[  VAR1  ---> Error] unable to update channel, try again later ( La 2 Canarias )
+[  VAR1  ] Job finished at 18/05/2026 19:15:16 done in 5m 14s
+[  O2  ] Job finished at 18/05/2026 19:42:47 done in 4m 45s
+[  O1  ] Job finished at 18/05/2026 19:54:45 done in 5m 42s
+[  M3  ] Job finished at 18/05/2026 20:05:57 done in 5m 55s
+[  M2  ] Job finished at 18/05/2026 20:16:11 done in 5m 9s
+[  M1  ] Job finished at 18/05/2026 20:27:33 done in 5m 31s
+[  DEP  ] Job finished at 18/05/2026 20:36:29 done in 3m 27s
+    [  miEPG  ] Job finished at 18/05/2026 20:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 18/05/2026 20:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 18/05/2026 20:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 18/05/2026 20:45:32 done in 12s
+        [  REX -> ORA  ] Job (rex) finished at 18/05/2026 20:46:14 done in 18s
+        [  REX -> MOV  ] Job (rex) finished at 18/05/2026 20:47:12 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 18/05/2026 20:47:35 done in 5s
+            ... 3 min 51 s para REX
+            ... 3 min 16 s para crear xmls
+            ... 20:52:11 inicio git
