@@ -1,0 +1,167 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 14/06/2026 06:01:35 done in 1m 33s
+[  ZPT  ] Job finished at 14/06/2026 06:11:19 done in 1m 17s
+[  ZDE  ] Job finished at 14/06/2026 06:24:12 done in 4m 10s
+[  ZUK  ] Job finished at 14/06/2026 06:47:58 done in 1m 56s
+[  ZVAR  ---> Error] Unable to update channel En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Sci-Fi (Rakuten TV) ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Sci-Fi (Rakuten TV) ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Red Bull TV (Rakuten TV) ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Red Bull TV (Rakuten TV) ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] no index page data received from FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] unable to update channel, try again later ( FIFA+ )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( CNN en Español )
+[  ZVAR  ---> Error] retry 1 of 2 times ( CNN en Español )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( CNN en Español )
+[  ZVAR  ---> Error] retry 2 of 2 times ( CNN en Español )
+[  ZVAR  ---> Error] Unable to update channel CNN en Español ( CNN en Español )
+[  ZVAR  ---> Error] no index page data received from CNN en Español ( CNN en Español )
+[  ZVAR  ---> Error] unable to update channel, try again later ( CNN en Español )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( Concert Channel )
+[  ZVAR  ---> Error] retry 1 of 2 times ( Concert Channel )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( Concert Channel )
+[  ZVAR  ---> Error] retry 2 of 2 times ( Concert Channel )
+[  ZVAR  ---> Error] Unable to update channel Concert Channel ( Concert Channel )
+[  ZVAR  ---> Error] no index page data received from Concert Channel ( Concert Channel )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Concert Channel )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( Star TVE HD )
+[  ZVAR  ---> Error] retry 1 of 2 times ( Star TVE HD )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( Star TVE HD )
+[  ZVAR  ---> Error] retry 2 of 2 times ( Star TVE HD )
+[  ZVAR  ---> Error] Unable to update channel Star TVE HD ( Star TVE HD )
+[  ZVAR  ---> Error] no index page data received from Star TVE HD ( Star TVE HD )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Star TVE HD )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( Discovery Turbo )
+[  ZVAR  ---> Error] retry 1 of 2 times ( Discovery Turbo )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( Discovery Turbo )
+[  ZVAR  ---> Error] retry 2 of 2 times ( Discovery Turbo )
+[  ZVAR  ---> Error] Unable to update channel Discovery Turbo ( Discovery Turbo )
+[  ZVAR  ---> Error] no index page data received from Discovery Turbo ( Discovery Turbo )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Discovery Turbo )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( FOX SPORTS )
+[  ZVAR  ---> Error] retry 1 of 2 times ( FOX SPORTS )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( FOX SPORTS )
+[  ZVAR  ---> Error] retry 2 of 2 times ( FOX SPORTS )
+[  ZVAR  ---> Error] Unable to update channel FOX SPORTS ( FOX SPORTS )
+[  ZVAR  ---> Error] no index page data received from FOX SPORTS ( FOX SPORTS )
+[  ZVAR  ---> Error] unable to update channel, try again later ( FOX SPORTS )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] retry 1 of 2 times ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] retry 2 of 2 times ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] Unable to update channel FOX SPORTS 2 ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] no index page data received from FOX SPORTS 2 ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] unable to update channel, try again later ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( FOX SPORTS 3 )
+[  ZVAR  ---> Error] retry 1 of 2 times ( FOX SPORTS 3 )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( FOX SPORTS 3 )
+[  ZVAR  ---> Error] retry 2 of 2 times ( FOX SPORTS 3 )
+[  ZVAR  ---> Error] Unable to update channel FOX SPORTS 3 ( FOX SPORTS 3 )
+[  ZVAR  ---> Error] no index page data received from FOX SPORTS 3 ( FOX SPORTS 3 )
+[  ZVAR  ---> Error] unable to update channel, try again later ( FOX SPORTS 3 )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( ESPN )
+[  ZVAR  ---> Error] retry 1 of 2 times ( ESPN )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( ESPN )
+[  ZVAR  ---> Error] retry 2 of 2 times ( ESPN )
+[  ZVAR  ---> Error] Unable to update channel ESPN ( ESPN )
+[  ZVAR  ---> Error] no index page data received from ESPN ( ESPN )
+[  ZVAR  ---> Error] unable to update channel, try again later ( ESPN )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( ESPN 2 )
+[  ZVAR  ---> Error] retry 1 of 2 times ( ESPN 2 )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( ESPN 2 )
+[  ZVAR  ---> Error] retry 2 of 2 times ( ESPN 2 )
+[  ZVAR  ---> Error] Unable to update channel ESPN 2 ( ESPN 2 )
+[  ZVAR  ---> Error] no index page data received from ESPN 2 ( ESPN 2 )
+[  ZVAR  ---> Error] unable to update channel, try again later ( ESPN 2 )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( ESPN 3 )
+[  ZVAR  ---> Error] retry 1 of 2 times ( ESPN 3 )
+[  ZVAR  ---> Error] error downloading page : TimeOut (40 sec) ( ESPN 3 )
+[  ZVAR  ---> Error] retry 2 of 2 times ( ESPN 3 )
+[  ZVAR  ---> Error] Unable to update channel ESPN 3 ( ESPN 3 )
+[  ZVAR  ---> Error] no index page data received from ESPN 3 ( ESPN 3 )
+[  ZVAR  ---> Error] unable to update channel, try again later ( ESPN 3 )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( ESPN 4 )
+[  ZVAR  ---> Error] retry 1 of 2 times ( ESPN 4 )
+[  ZVAR  ---> ERROR] WebGrab fallo con codigo 143. Restaurando backup.
+[  VAR2  ] Job finished at 14/06/2026 07:07:33 done in 2m 30s
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( acontra+ )
+[  VAR1  ---> Error] retry 1 of 2 times ( acontra+ )
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( Record )
+[  VAR1  ---> Error] retry 1 of 2 times ( Record )
+[  VAR1  ] Job finished at 14/06/2026 07:17:47 done in 7m 45s
+[  O2  ] Job finished at 14/06/2026 07:43:20 done in 5m 18s
+[  O1  ] Job finished at 14/06/2026 07:52:28 done in 3m 27s
+[  M3  ] Job finished at 14/06/2026 08:07:13 done in 7m 11s
+[  M2  ] Job finished at 14/06/2026 08:17:25 done in 6m 22s
+[  M1  ] Job finished at 14/06/2026 08:28:31 done in 6m 30s
+[  DEP  ] Job finished at 14/06/2026 08:37:05 done in 4m 4s
+    [  miEPG  ] Job finished at 14/06/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 14/06/2026 08:44:34 done in 10s
+        [  REX -> MAN  ] Job (rex) finished at 14/06/2026 08:44:50 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 14/06/2026 08:45:27 done in 13s
+        [  REX -> ORA  ] Job (rex) finished at 14/06/2026 08:46:02 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 14/06/2026 08:47:00 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 14/06/2026 08:47:24 done in 5s
+            ... 3 min 37 s para REX
+            ... 3 min 15 s para crear xmls
+            ... 08:51:53 inicio git
+            ... 08:54:04 fin git
+[  MDB  ] Job finished at 14/06/2026 11:00:11 done in 9s
+[  VAR2  ] Job finished at 14/06/2026 11:07:56 done in 2m 54s
+[  VAR1  ] Job finished at 14/06/2026 11:14:13 done in 4m 11s
+[  O2  ] Job finished at 14/06/2026 11:42:18 done in 4m 16s
+[  O1  ] Job finished at 14/06/2026 11:51:54 done in 2m 52s
+[  M3  ] Job finished at 14/06/2026 12:05:52 done in 5m 50s
+[  M2  ] Job finished at 14/06/2026 12:16:04 done in 5m 2s
+[  M1  ] Job finished at 14/06/2026 12:27:28 done in 5m 26s
+[  DEP  ] Job finished at 14/06/2026 12:36:48 done in 3m 46s
+    [  miEPG  ] Job finished at 14/06/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 14/06/2026 12:44:33 done in 10s
+        [  REX -> MAN  ] Job (rex) finished at 14/06/2026 12:44:49 done in 4s
+        [  REX -> VAR  ] Job (rex) finished at 14/06/2026 12:45:25 done in 13s
+        [  REX -> ORA  ] Job (rex) finished at 14/06/2026 12:46:00 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 14/06/2026 12:46:59 done in 22s
+        [  REX -> DEP  ] Job (rex) finished at 14/06/2026 12:47:22 done in 5s
+            ... 3 min 36 s para REX
+            ... 3 min 10 s para crear xmls
+            ... 12:51:46 inicio git

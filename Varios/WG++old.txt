@@ -1,0 +1,235 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 13/06/2026 06:01:31 done in 1m 28s
+[  ZPT  ] Job finished at 13/06/2026 06:11:11 done in 1m 9s
+[  ZDE  ] Job finished at 13/06/2026 06:25:39 done in 5m 37s
+[  ZUK  ] Job finished at 13/06/2026 06:48:13 done in 2m 11s
+[  ZVAR  ---> Error] Unable to update channel En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Sci-Fi (Rakuten TV) ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Sci-Fi (Rakuten TV) ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Red Bull TV (Rakuten TV) ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Red Bull TV (Rakuten TV) ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] no index page data received from FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] unable to update channel, try again later ( FIFA+ )
+[  ZVAR  ---> Error] no shows in indexpage! ( Atrescine )
+[  ZVAR  ---> Error] no shows in indexpage! ( Vivid TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( MTV Classic )
+[  ZVAR  ] Job finished at 13/06/2026 06:58:37 done in 2m 35s
+[  VAR2  ] Job finished at 13/06/2026 07:07:53 done in 2m 51s
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( VINX )
+[  VAR1  ---> Error] retry 1 of 2 times ( VINX )
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( NHK WORLD )
+[  VAR1  ---> Error] retry 1 of 2 times ( NHK WORLD )
+[  VAR1  ] Job finished at 13/06/2026 07:20:38 done in 10m 36s
+[  O2  ] Job finished at 13/06/2026 07:43:38 done in 5m 36s
+[  O1  ] Job finished at 13/06/2026 07:53:18 done in 4m 16s
+[  M3  ] Job finished at 13/06/2026 08:07:31 done in 7m 30s
+[  M2  ] Job finished at 13/06/2026 08:17:22 done in 6m 21s
+[  M1  ] Job finished at 13/06/2026 08:28:53 done in 6m 52s
+[  DEP  ] Job finished at 13/06/2026 08:37:11 done in 4m 10s
+    [  miEPG  ] Job finished at 13/06/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/06/2026 08:44:35 done in 10s
+        [  REX -> MAN  ] Job (rex) finished at 13/06/2026 08:44:52 done in 4s
+        [  REX -> VAR  ] Job (rex) finished at 13/06/2026 08:45:30 done in 14s
+        [  REX -> ORA  ] Job (rex) finished at 13/06/2026 08:46:08 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 13/06/2026 08:47:10 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 13/06/2026 08:47:37 done in 6s
+            ... 3 min 51 s para REX
+            ... 3 min 24 s para crear xmls
+            ... 08:52:18 inicio git
+            ... 08:54:38 fin git
+[  MDB  ] Job finished at 13/06/2026 11:00:12 done in 10s
+[  VAR2  ] Job finished at 13/06/2026 11:08:01 done in 2m 59s
+[  VAR1  ] Job finished at 13/06/2026 11:14:37 done in 4m 34s
+[  O2  ] Job finished at 13/06/2026 11:42:26 done in 4m 24s
+[  O1  ] Job finished at 13/06/2026 11:51:58 done in 2m 56s
+[  M3  ] Job finished at 13/06/2026 12:06:01 done in 5m 59s
+[  M2  ] Job finished at 13/06/2026 12:16:13 done in 5m 11s
+[  M1  ] Job finished at 13/06/2026 12:27:44 done in 5m 42s
+[  DEP  ] Job finished at 13/06/2026 12:37:01 done in 3m 59s
+    [  miEPG  ] Job finished at 13/06/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/06/2026 12:44:34 done in 10s
+        [  REX -> MAN  ] Job (rex) finished at 13/06/2026 12:44:51 done in 4s
+        [  REX -> VAR  ] Job (rex) finished at 13/06/2026 12:45:29 done in 13s
+        [  REX -> ORA  ] Job (rex) finished at 13/06/2026 12:46:05 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 13/06/2026 12:47:05 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 13/06/2026 12:47:29 done in 5s
+            ... 3 min 43 s para REX
+            ... 3 min 17 s para crear xmls
+            ... 12:52:02 inicio git
+            ... 12:54:25 fin git
+    [  TIVI  ]  Job finished at 13/06/2026 15:33
+    [  NBA  ] NBA TV · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 13/06/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 13/06/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 13/06/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 13/06/2026 15:40
+    [  GOL  ] Gol Classics · Job finished at 13/06/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 13/06/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 13/06/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 13/06/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 13/06/2026 15:40
+    [  ZAP  ] DePelícula · Job finished at 13/06/2026 15:40
+    [  ZAP  ] DejateTV · Job finished at 13/06/2026 15:40
+    [  ZAP  ---> Error] PTV Granada no existe o no tiene información (13/06/2026 15:40)
+    [  ZAP  ---> Error] PTV Sevilla no existe o no tiene información (13/06/2026 15:40)
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (13/06/2026 15:41)
+    [  ZAP  ---> Error] PTV Córdoba no existe o no tiene información (13/06/2026 15:41)
+    [  ZAP  ] PTV Linares · Job finished at 13/06/2026 15:41
+    [  ZAP  ---> Error] PTV Málaga no existe o no tiene información (13/06/2026 15:41)
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (13/06/2026 15:41)
+    [  dazn  ] Unbeaten (DAZN) · Job finished at 13/06/2026 15:41
+    [  dazn  ] Mundial (DAZN) · Job finished at 13/06/2026 15:41
+    [  dazn  ] NFL Network (DAZN) · Job finished at 13/06/2026 15:41
+    [  dazn  ---> Error] Rally TV (DAZN) no existe o no tiene información (13/06/2026 15:41)
+    [  dazn  ] Red Bull TV (DAZN) · Job finished at 13/06/2026 15:41
+    [  dazn  ] Primera Federación (DAZN) · Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/06/2026 15:41
+[  M3  ] Job finished at 13/06/2026 16:06:24 done in 6m 21s
+[  M2  ] Job finished at 13/06/2026 16:16:17 done in 5m 15s
+[  M1  ] Job finished at 13/06/2026 16:27:49 done in 5m 47s
+[  DEP  ] Job finished at 13/06/2026 16:37:08 done in 4m 6s
+    [  miEPG  ] Job finished at 13/06/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/06/2026 16:44:34 done in 10s
+        [  REX -> MAN  ] Job (rex) finished at 13/06/2026 16:44:51 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 13/06/2026 16:45:28 done in 13s
+        [  REX -> ORA  ] Job (rex) finished at 13/06/2026 16:46:05 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 13/06/2026 16:47:02 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 13/06/2026 16:47:26 done in 5s
+            ... 3 min 40 s para REX
+            ... 3 min 14 s para crear xmls
+            ... 16:51:56 inicio git
+            ... 16:54:08 fin git
+[  ZFR  ] Job finished at 13/06/2026 18:01:20 done in 1m 18s
+[  ZPT  ] Job finished at 13/06/2026 18:11:13 done in 1m 11s
+[  ZDE  ] Job finished at 13/06/2026 18:22:20 done in 2m 18s
+[  ZUK  ] Job finished at 13/06/2026 18:47:09 done in 1m 7s
+[  ZVAR  ---> Error] Unable to update channel En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Sci-Fi (Rakuten TV) ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Sci-Fi (Rakuten TV) ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Red Bull TV (Rakuten TV) ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Red Bull TV (Rakuten TV) ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Red Bull TV (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] no index page data received from FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] unable to update channel, try again later ( FIFA+ )
+[  ZVAR  ---> Error] no shows in indexpage! ( Atrescine )
+[  ZVAR  ---> Error] no shows in indexpage! ( Vivid TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( MTV Classic )
+[  ZVAR  ] Job finished at 13/06/2026 18:58:10 done in 2m 8s
+[  VAR2  ] Job finished at 13/06/2026 19:07:45 done in 2m 43s
+[  VAR1  ] Job finished at 13/06/2026 19:14:28 done in 4m 26s
+[  O2  ] Job finished at 13/06/2026 19:42:32 done in 4m 30s
+[  O1  ] Job finished at 13/06/2026 19:52:02 done in 2m 59s
+[  M3  ] Job finished at 13/06/2026 20:06:27 done in 6m 25s
+[  M2  ] Job finished at 13/06/2026 20:16:18 done in 5m 15s
+[  M1  ] Job finished at 13/06/2026 20:27:46 done in 5m 44s
+[  DEP  ] Job finished at 13/06/2026 20:37:05 done in 4m 3s
+    [  miEPG  ] Job finished at 13/06/2026 20:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/06/2026 20:44:34 done in 10s
+        [  REX -> MAN  ] Job (rex) finished at 13/06/2026 20:44:51 done in 4s
+        [  REX -> VAR  ] Job (rex) finished at 13/06/2026 20:45:28 done in 13s
+        [  REX -> ORA  ] Job (rex) finished at 13/06/2026 20:46:05 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 13/06/2026 20:47:03 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 13/06/2026 20:47:27 done in 5s
+            ... 3 min 42 s para REX
+            ... 3 min 14 s para crear xmls
+            ... 20:51:57 inicio git
+            ... 20:54:13 fin git
+<---  FIN  --->
