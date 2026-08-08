@@ -1,0 +1,401 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 07/08/2026 06:01:34 done in 1m 32s
+[  ZPT  ] Job finished at 07/08/2026 06:11:11 done in 1m 8s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1 ( DE | DAZN 1 )
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1 ( DE | DAZN 1 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | DAZN 1 )
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2 ( DE | DAZN 2 )
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2 ( DE | DAZN 2 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | DAZN 2 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 1 ( DE | Sky Sport Austria 1 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 1 ( DE | Sky Sport Austria 1 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 1 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 2 ( DE | Sky Sport Austria 2 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 2 ( DE | Sky Sport Austria 2 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 2 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 3 ( DE | Sky Sport Austria 3 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 3 ( DE | Sky Sport Austria 3 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 3 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 4 ( DE | Sky Sport Austria 4 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 4 ( DE | Sky Sport Austria 4 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 4 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 5 ( DE | Sky Sport Austria 5 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 5 ( DE | Sky Sport Austria 5 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 5 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 6 ( DE | Sky Sport Austria 6 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 6 ( DE | Sky Sport Austria 6 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 6 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 7 ( DE | Sky Sport Austria 7 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 7 ( DE | Sky Sport Austria 7 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 7 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 8 ( DE | Sky Sport Austria 8 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 8 ( DE | Sky Sport Austria 8 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 8 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga ( DE | Sky Sport Bundesliga )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga ( DE | Sky Sport Bundesliga )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 1 ( DE | Sky Sport Bundesliga 1 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 1 ( DE | Sky Sport Bundesliga 1 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 1 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 2 ( DE | Sky Sport Bundesliga 2 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 2 ( DE | Sky Sport Bundesliga 2 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 2 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 3 ( DE | Sky Sport Bundesliga 3 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 3 ( DE | Sky Sport Bundesliga 3 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 3 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 4 ( DE | Sky Sport Bundesliga 4 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 4 ( DE | Sky Sport Bundesliga 4 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 4 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 5 ( DE | Sky Sport Bundesliga 5 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 5 ( DE | Sky Sport Bundesliga 5 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 5 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 6 ( DE | Sky Sport Bundesliga 6 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 6 ( DE | Sky Sport Bundesliga 6 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 6 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 7 ( DE | Sky Sport Bundesliga 7 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 7 ( DE | Sky Sport Bundesliga 7 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 7 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 8 ( DE | Sky Sport Bundesliga 8 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 8 ( DE | Sky Sport Bundesliga 8 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 8 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 9 ( DE | Sky Sport Bundesliga 9 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 9 ( DE | Sky Sport Bundesliga 9 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 9 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 10 ( DE | Sky Sport Bundesliga 10 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 10 ( DE | Sky Sport Bundesliga 10 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 10 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 1 ( DE | Sky Sport 1 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 1 ( DE | Sky Sport 1 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 1 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 2 ( DE | Sky Sport 2 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 2 ( DE | Sky Sport 2 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 2 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 3 ( DE | Sky Sport 3 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 3 ( DE | Sky Sport 3 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 3 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 4 ( DE | Sky Sport 4 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 4 ( DE | Sky Sport 4 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 4 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 5 ( DE | Sky Sport 5 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 5 ( DE | Sky Sport 5 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 5 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 6 ( DE | Sky Sport 6 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 6 ( DE | Sky Sport 6 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 6 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 7 ( DE | Sky Sport 7 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 7 ( DE | Sky Sport 7 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 7 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 8 ( DE | Sky Sport 8 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 8 ( DE | Sky Sport 8 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 8 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 9 ( DE | Sky Sport 9 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 9 ( DE | Sky Sport 9 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 9 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 10 ( DE | Sky Sport 10 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 10 ( DE | Sky Sport 10 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 10 )
+[  ZDE  ---> Error] Unable to update channel DE | Motorvision+ ( DE | Motorvision+ )
+[  ZDE  ---> Error] no index page data received from DE | Motorvision+ ( DE | Motorvision+ )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Motorvision+ )
+[  ZDE  ] Job finished at 07/08/2026 06:22:01 done in 1m 59s
+[  ZUK  ---> Error] error downloading page : TimeOut (20 sec) ( UK | Sky Sports Racing )
+[  ZUK  ---> Error] retry 1 of 2 times ( UK | Sky Sports Racing )
+[  ZUK  ] Job finished at 07/08/2026 06:48:27 done in 2m 25s
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS 4 )
+[  ZVAR  ---> Error] no shows in indexpage! ( Atrescine )
+[  ZVAR  ---> Error] no shows in indexpage! ( Vivid TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( MTV Classic )
+[  ZVAR  ] Job finished at 07/08/2026 06:59:55 done in 3m 53s
+[  VAR2  ---> Error] no shows in indexpage! ( Libertad Digital TV )
+[  VAR2  ] Job finished at 07/08/2026 07:08:16 done in 3m 14s
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( Record )
+[  VAR1  ---> Error] retry 1 of 2 times ( Record )
+[  VAR1  ---> Error] Unable to update channel Los Conciertos de Radio 3 ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] Current culture: es-ES ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] time parsing error : String '' was not recognized as a valid DateTime. ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] nextstartdatetime time scrubbed :  ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] computer date/time format: 07/08/2026 07:18:43 ( Los Conciertos de Radio 3 )
+[  VAR1  ] Job finished at 07/08/2026 07:19:37 done in 9m 36s
+[  O2  ] Job finished at 07/08/2026 07:43:40 done in 5m 38s
+[  O1  ] Job finished at 07/08/2026 07:53:19 done in 4m 17s
+[  M3  ] Job finished at 07/08/2026 08:07:52 done in 7m 50s
+[  M2  ] Job finished at 07/08/2026 08:18:11 done in 7m 9s
+[  M1  ] Job finished at 07/08/2026 08:30:02 done in 8m 0s
+[  DEP  ] Job finished at 07/08/2026 08:36:42 done in 3m 40s
+    [  miEPG  ] Job finished at 07/08/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 07/08/2026 08:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 07/08/2026 08:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 07/08/2026 08:45:37 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 07/08/2026 08:46:16 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 07/08/2026 08:47:20 done in 23s
+        [  REX -> DEP  ] Job (rex) finished at 07/08/2026 08:47:43 done in 5s
+            ... 3 min 57 s para REX
+            ... 3 min 36 s para crear xmls
+            ... 08:52:47 inicio git
+            ... 08:55:32 fin git
+[  MDB  ] Job finished at 07/08/2026 11:00:21 done in 18s
+[  VAR2  ---> Error] no shows in indexpage! ( Libertad Digital TV )
+[  VAR2  ] Job finished at 07/08/2026 11:08:50 done in 3m 48s
+[  VAR1  ---> Error] Unable to update channel Los Conciertos de Radio 3 ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] Current culture: es-ES ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] time parsing error : String '' was not recognized as a valid DateTime. ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] nextstartdatetime time scrubbed :  ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] computer date/time format: 07/08/2026 11:14:06 ( Los Conciertos de Radio 3 )
+[  VAR1  ] Job finished at 07/08/2026 11:15:00 done in 4m 58s
+[  O2  ] Job finished at 07/08/2026 11:42:16 done in 4m 14s
+[  O1  ] Job finished at 07/08/2026 11:51:56 done in 2m 54s
+[  M3  ] Job finished at 07/08/2026 12:06:23 done in 6m 20s
+[  M2  ] Job finished at 07/08/2026 12:16:44 done in 5m 43s
+[  M1  ] Job finished at 07/08/2026 12:28:01 done in 5m 59s
+[  DEP  ] Job finished at 07/08/2026 12:36:22 done in 3m 20s
+    [  miEPG  ] Job finished at 07/08/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 07/08/2026 12:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 07/08/2026 12:44:55 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 07/08/2026 12:45:35 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 07/08/2026 12:46:14 done in 14s
+        [  REX -> MOV  ] Job (rex) finished at 07/08/2026 12:47:20 done in 25s
+        [  REX -> DEP  ] Job (rex) finished at 07/08/2026 12:47:43 done in 5s
+            ... 3 min 57 s para REX
+            ... 3 min 31 s para crear xmls
+            ... 12:52:37 inicio git
+            ... 12:55:27 fin git
+    [  TIVI  ]  error de validación xml
+    [  NBA  ] NBA TV · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 07/08/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 07/08/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 07/08/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 07/08/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 07/08/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 07/08/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 07/08/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 07/08/2026 15:40
+    [  ZAP  ] DePelícula · Job finished at 07/08/2026 15:40
+    [  ZAP  ---> Error] DejateTV no existe o no tiene información (07/08/2026 15:40)
+    [  ZAP  ] PTV Granada · Job finished at 07/08/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 07/08/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (07/08/2026 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 07/08/2026 15:41
+    [  ZAP  ] PTV Linares · Job finished at 07/08/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 07/08/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (07/08/2026 15:41)
+    [  dazn  ] Unbeaten (DAZN) · Job finished at 07/08/2026 15:41
+    [  dazn  ] Mundial (DAZN) · Job finished at 07/08/2026 15:41
+    [  dazn  ] NFL Network (DAZN) · Job finished at 07/08/2026 15:41
+    [  dazn  ---> Error] Rally TV (DAZN) no existe o no tiene información (07/08/2026 15:41)
+    [  dazn  ] Red Bull TV (DAZN) · Job finished at 07/08/2026 15:41
+    [  dazn  ] Primera Federación (DAZN) · Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+    [  DAZNCOM  ] Job finished at 07/08/2026 15:41
+[  M3  ] Job finished at 07/08/2026 16:06:35 done in 6m 33s
+[  M2  ] Job finished at 07/08/2026 16:16:43 done in 5m 41s
+[  M1  ] Job finished at 07/08/2026 16:27:55 done in 5m 53s
+[  DEP  ] Job finished at 07/08/2026 16:36:22 done in 3m 20s
+    [  miEPG  ] Job finished at 07/08/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 07/08/2026 16:44:35 done in 10s
+        [  REX -> MAN  ] Job (rex) finished at 07/08/2026 16:44:52 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 07/08/2026 16:45:31 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 07/08/2026 16:46:08 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 07/08/2026 16:47:06 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 07/08/2026 16:47:28 done in 5s
+            ... 3 min 42 s para REX
+            ... 3 min 19 s para crear xmls
+            ... 16:52:05 inicio git
+            ... 16:54:45 fin git
+[  ZFR  ] Job finished at 07/08/2026 18:01:22 done in 1m 20s
+[  ZPT  ] Job finished at 07/08/2026 18:11:17 done in 1m 16s
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 1 ( DE | DAZN 1 )
+[  ZDE  ---> Error] no index page data received from DE | DAZN 1 ( DE | DAZN 1 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | DAZN 1 )
+[  ZDE  ---> Error] Unable to update channel DE | DAZN 2 ( DE | DAZN 2 )
+[  ZDE  ---> Error] no index page data received from DE | DAZN 2 ( DE | DAZN 2 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | DAZN 2 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 1 ( DE | Sky Sport Austria 1 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 1 ( DE | Sky Sport Austria 1 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 1 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 2 ( DE | Sky Sport Austria 2 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 2 ( DE | Sky Sport Austria 2 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 2 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 3 ( DE | Sky Sport Austria 3 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 3 ( DE | Sky Sport Austria 3 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 3 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 4 ( DE | Sky Sport Austria 4 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 4 ( DE | Sky Sport Austria 4 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 4 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 5 ( DE | Sky Sport Austria 5 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 5 ( DE | Sky Sport Austria 5 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 5 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 6 ( DE | Sky Sport Austria 6 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 6 ( DE | Sky Sport Austria 6 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 6 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 7 ( DE | Sky Sport Austria 7 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 7 ( DE | Sky Sport Austria 7 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 7 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Austria 8 ( DE | Sky Sport Austria 8 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Austria 8 ( DE | Sky Sport Austria 8 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Austria 8 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga ( DE | Sky Sport Bundesliga )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga ( DE | Sky Sport Bundesliga )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 1 ( DE | Sky Sport Bundesliga 1 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 1 ( DE | Sky Sport Bundesliga 1 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 1 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 2 ( DE | Sky Sport Bundesliga 2 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 2 ( DE | Sky Sport Bundesliga 2 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 2 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 3 ( DE | Sky Sport Bundesliga 3 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 3 ( DE | Sky Sport Bundesliga 3 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 3 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 4 ( DE | Sky Sport Bundesliga 4 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 4 ( DE | Sky Sport Bundesliga 4 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 4 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 5 ( DE | Sky Sport Bundesliga 5 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 5 ( DE | Sky Sport Bundesliga 5 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 5 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 6 ( DE | Sky Sport Bundesliga 6 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 6 ( DE | Sky Sport Bundesliga 6 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 6 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 7 ( DE | Sky Sport Bundesliga 7 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 7 ( DE | Sky Sport Bundesliga 7 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 7 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 8 ( DE | Sky Sport Bundesliga 8 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 8 ( DE | Sky Sport Bundesliga 8 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 8 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 9 ( DE | Sky Sport Bundesliga 9 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 9 ( DE | Sky Sport Bundesliga 9 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 9 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport Bundesliga 10 ( DE | Sky Sport Bundesliga 10 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport Bundesliga 10 ( DE | Sky Sport Bundesliga 10 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport Bundesliga 10 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 1 ( DE | Sky Sport 1 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 1 ( DE | Sky Sport 1 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 1 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 2 ( DE | Sky Sport 2 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 2 ( DE | Sky Sport 2 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 2 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 3 ( DE | Sky Sport 3 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 3 ( DE | Sky Sport 3 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 3 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 4 ( DE | Sky Sport 4 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 4 ( DE | Sky Sport 4 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 4 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 5 ( DE | Sky Sport 5 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 5 ( DE | Sky Sport 5 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 5 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 6 ( DE | Sky Sport 6 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 6 ( DE | Sky Sport 6 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 6 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 7 ( DE | Sky Sport 7 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 7 ( DE | Sky Sport 7 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 7 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 8 ( DE | Sky Sport 8 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 8 ( DE | Sky Sport 8 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 8 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 9 ( DE | Sky Sport 9 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 9 ( DE | Sky Sport 9 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 9 )
+[  ZDE  ---> Error] Unable to update channel DE | Sky Sport 10 ( DE | Sky Sport 10 )
+[  ZDE  ---> Error] no index page data received from DE | Sky Sport 10 ( DE | Sky Sport 10 )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Sky Sport 10 )
+[  ZDE  ---> Error] Unable to update channel DE | Motorvision+ ( DE | Motorvision+ )
+[  ZDE  ---> Error] no index page data received from DE | Motorvision+ ( DE | Motorvision+ )
+[  ZDE  ---> Error] unable to update channel, try again later ( DE | Motorvision+ )
+[  ZDE  ] Job finished at 07/08/2026 18:22:21 done in 2m 20s
+[  ZUK  ] Job finished at 07/08/2026 18:46:43 done in 41s
+[  ZVAR  ---> Error] Unable to update channel En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Sci-Fi (Rakuten TV) ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Sci-Fi (Rakuten TV) ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Sci-Fi (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Todo Crimen (Rakuten TV) ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Todo Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Crimen (Rakuten TV) ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Crimen (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Thrillers (Rakuten TV) ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Thrillers (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from MyTime Movie Network (Rakuten TV) ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( MyTime Movie Network (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Cine Español (Rakuten TV) ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Cine Español (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Películas Románticas (Rakuten TV) ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Películas Románticas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Dramas (Rakuten TV) ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Dramas (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Comedias (Rakuten TV) ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Comedias (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Acción (Rakuten TV) ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Acción (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Pelis Top (Rakuten TV) ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Pelis Top (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Red Bull TV ( Red Bull TV )
+[  ZVAR  ---> Error] no index page data received from Red Bull TV ( Red Bull TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Red Bull TV )
+[  ZVAR  ---> Error] Unable to update channel FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] no index page data received from FIFA+ ( FIFA+ )
+[  ZVAR  ---> Error] unable to update channel, try again later ( FIFA+ )
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS 4 )
+[  ZVAR  ---> Error] no shows in indexpage! ( Atrescine )
+[  ZVAR  ---> Error] no shows in indexpage! ( Vivid TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( MTV Classic )
+[  ZVAR  ] Job finished at 07/08/2026 18:58:00 done in 1m 59s
+[  VAR2  ---> Error] no shows in indexpage! ( Libertad Digital TV )
+[  VAR2  ] Job finished at 07/08/2026 19:08:23 done in 3m 20s
+[  VAR1  ---> Error] Unable to update channel Los Conciertos de Radio 3 ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] Current culture: es-ES ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] time parsing error : String '' was not recognized as a valid DateTime. ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] nextstartdatetime time scrubbed :  ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] computer date/time format: 07/08/2026 19:14:03 ( Los Conciertos de Radio 3 )
+[  VAR1  ] Job finished at 07/08/2026 19:15:24 done in 5m 23s
+[  O2  ] Job finished at 07/08/2026 19:42:30 done in 4m 28s
+[  O1  ] Job finished at 07/08/2026 19:51:54 done in 2m 52s
+[  M3  ] Job finished at 07/08/2026 20:06:16 done in 6m 15s
+[  M2  ] Job finished at 07/08/2026 20:16:25 done in 5m 24s
+[  M1  ] Job finished at 07/08/2026 20:27:56 done in 5m 54s
+[  DEP  ] Job finished at 07/08/2026 20:36:26 done in 3m 24s
+    [  miEPG  ] Job finished at 07/08/2026 20:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 07/08/2026 20:44:34 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 07/08/2026 20:44:52 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 07/08/2026 20:45:30 done in 14s
+        [  REX -> ORA  ] Job (rex) finished at 07/08/2026 20:46:06 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 07/08/2026 20:47:04 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 07/08/2026 20:47:27 done in 5s
+            ... 3 min 41 s para REX
+            ... 3 min 19 s para crear xmls
+            ... 20:52:08 inicio git
+            ... 20:54:41 fin git
+<---  FIN  --->
