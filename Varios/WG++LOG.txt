@@ -1,0 +1,147 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 15/09/2026 06:01:42 done in 1m 39s
+[  ZPT  ] Job finished at 15/09/2026 06:11:25 done in 1m 24s
+[  ZDE  ] Job finished at 15/09/2026 06:24:30 done in 4m 29s
+[  ZUK  ---> Error] Unable to update channel UK | Sky Sports Action ( UK | Sky Sports Action )
+[  ZUK  ---> Error] no index page data received from UK | Sky Sports Action ( UK | Sky Sports Action )
+[  ZUK  ---> Error] unable to update channel, try again later ( UK | Sky Sports Action )
+[  ZUK  ] Job finished at 15/09/2026 06:48:34 done in 2m 32s
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS 4 )
+[  ZVAR  ---> Error] no shows in indexpage! ( Star TVE HD )
+[  ZVAR  ] Job finished at 15/09/2026 07:00:10 done in 4m 8s
+[  VAR2  ] Job finished at 15/09/2026 07:08:50 done in 3m 48s
+[  VAR1  ] Job finished at 15/09/2026 07:24:04 done in 14m 2s
+[  O2  ] Job finished at 15/09/2026 07:43:46 done in 5m 43s
+[  O1  ] Job finished at 15/09/2026 07:52:53 done in 3m 51s
+[  M3  ] Job finished at 15/09/2026 08:07:24 done in 7m 22s
+[  M2  ] Job finished at 15/09/2026 08:19:34 done in 8m 32s
+[  M1  ] Job finished at 15/09/2026 08:29:23 done in 7m 21s
+[  DEP  ] Job finished at 15/09/2026 08:37:13 done in 4m 11s
+    [  miEPG  ] Job finished at 15/09/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 15/09/2026 08:44:38 done in 12s
+        [  REX -> MAN  ] Job (rex) finished at 15/09/2026 08:44:58 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 15/09/2026 08:45:41 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 15/09/2026 08:46:18 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 15/09/2026 08:47:20 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 15/09/2026 08:47:45 done in 6s
+            ... 3 min 58 s para REX
+            ... 3 min 52 s para crear xmls
+            ... 08:52:59 inicio git
+            ... 08:55:24 fin git
+[  MDB  ] Job finished at 15/09/2026 11:01:02 done in 1m 0s
+[  VAR2  ] Job finished at 15/09/2026 11:08:44 done in 3m 42s
+[  VAR1  ] Job finished at 15/09/2026 11:15:35 done in 5m 33s
+[  O2  ] Job finished at 15/09/2026 11:42:29 done in 4m 26s
+[  O1  ] Job finished at 15/09/2026 11:52:05 done in 3m 3s
+[  M3  ] Job finished at 15/09/2026 12:06:02 done in 5m 59s
+[  M2  ] Job finished at 15/09/2026 12:17:57 done in 6m 55s
+[  M1  ] Job finished at 15/09/2026 12:27:26 done in 5m 24s
+[  DEP  ] Job finished at 15/09/2026 12:36:49 done in 3m 47s
+    [  miEPG  ] Job finished at 15/09/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 15/09/2026 12:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 15/09/2026 12:44:58 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 15/09/2026 12:45:41 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 15/09/2026 12:46:20 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 15/09/2026 12:47:23 done in 23s
+        [  REX -> DEP  ] Job (rex) finished at 15/09/2026 12:47:50 done in 7s
+            ... 4 min 3 s para REX
+            ... 3 min 55 s para crear xmls
+            ... 12:53:08 inicio git
+            ... 12:55:43 fin git
+[  VAR1  ] Job finished at 15/09/2026 15:12:28 done in 8m 19s
+    [  TIVI  ]  Job finished at 15/09/2026 15:33
+    [  NBA  ] NBA TV · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 2 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 3 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 4 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 5 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 6 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 8 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 9 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 10 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 11 · Job finished at 15/09/2026 15:40
+    [  BAR  ] Liga de Campeones BAR 12 · Job finished at 15/09/2026 15:40
+    [  BAR  ] GolStadium BAR · Job finished at 15/09/2026 15:40
+    [  BAR  ] DAZN F1 BAR · Job finished at 15/09/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 15/09/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 15/09/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 15/09/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 15/09/2026 15:40
+    [  ZAP  ---> Error] DePelícula no existe o no tiene información (15/09/2026 15:41)
+    [  ZAP  ---> Error] DejateTV no existe o no tiene información (15/09/2026 15:41)
+    [  ZAP  ] PTV Granada · Job finished at 15/09/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 15/09/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (15/09/2026 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 15/09/2026 15:41
+    [  ZAP  ] PTV Linares · Job finished at 15/09/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 15/09/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (15/09/2026 15:41)
+    [  dazn  ] Unbeaten (DAZN) · Job finished at 15/09/2026 15:41
+    [  dazn  ] Mundial (DAZN) · Job finished at 15/09/2026 15:41
+    [  dazn  ] NFL Network (DAZN) · Job finished at 15/09/2026 15:41
+    [  dazn  ---> Error] Rally TV (DAZN) no existe o no tiene información (15/09/2026 15:41)
+    [  dazn  ] Red Bull TV (DAZN) · Job finished at 15/09/2026 15:41
+    [  dazn  ] Primera Federación (DAZN) · Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNCOM  ] Job finished at 15/09/2026 15:41
+    [  DAZNMOT  ] Job finished at 15/09/2026 15:41
+    [  DAZNMOT  ] Job finished at 15/09/2026 15:41
+[  M3  ] Job finished at 15/09/2026 16:06:04 done in 6m 2s
+[  M2  ] Job finished at 15/09/2026 16:18:15 done in 7m 13s
+[  M1  ] Job finished at 15/09/2026 16:27:36 done in 5m 34s
+[  DEP  ] Job finished at 15/09/2026 16:36:54 done in 3m 52s
+    [  miEPG  ] Job finished at 15/09/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 15/09/2026 16:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 15/09/2026 16:44:56 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 15/09/2026 16:45:39 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 15/09/2026 16:46:17 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 15/09/2026 16:47:17 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 15/09/2026 16:47:41 done in 5s
+            ... 3 min 54 s para REX
+            ... 3 min 58 s para crear xmls
+            ... 16:53:05 inicio git
+            ... 16:55:35 fin git
+[  ZFR  ] Job finished at 15/09/2026 18:01:31 done in 1m 28s
+[  ZPT  ] Job finished at 15/09/2026 18:11:23 done in 1m 21s
+[  ZDE  ] Job finished at 15/09/2026 18:23:34 done in 3m 32s
+[  ZUK  ---> Error] Unable to update channel UK | Sky Sports Action ( UK | Sky Sports Action )
+[  ZUK  ---> Error] no index page data received from UK | Sky Sports Action ( UK | Sky Sports Action )
+[  ZUK  ---> Error] unable to update channel, try again later ( UK | Sky Sports Action )
+[  ZUK  ] Job finished at 15/09/2026 18:46:58 done in 55s
+[  ZVAR  ---> Error] no shows in indexpage! ( DSPORTS 4 )
+[  ZVAR  ---> Error] no shows in indexpage! ( Star TVE HD )
+[  ZVAR  ] Job finished at 15/09/2026 18:58:56 done in 2m 55s
+[  VAR2  ] Job finished at 15/09/2026 19:08:34 done in 3m 32s
+[  VAR1  ] Job finished at 15/09/2026 19:16:27 done in 6m 25s
+[  O2  ] Job finished at 15/09/2026 19:42:50 done in 4m 47s
+[  O1  ] Job finished at 15/09/2026 19:52:22 done in 3m 20s
+[  M3  ] Job finished at 15/09/2026 20:06:47 done in 6m 45s
+[  M2  ] Job finished at 15/09/2026 20:18:21 done in 7m 19s
+[  M1  ---> Error] error downloading page : TimeOut (20 sec) ( National Geographic HD )
+[  M1  ---> Error] retry 1 of 2 times ( National Geographic HD )
+[  M1  ] Job finished at 15/09/2026 20:30:35 done in 8m 33s
+[  DEP  ] Job finished at 15/09/2026 20:37:06 done in 4m 4s
+    [  miEPG  ] Job finished at 15/09/2026 20:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 15/09/2026 20:44:39 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 15/09/2026 20:44:59 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 15/09/2026 20:45:43 done in 16s
+        [  REX -> ORA  ] Job (rex) finished at 15/09/2026 20:46:20 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 15/09/2026 20:47:21 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 15/09/2026 20:47:45 done in 5s
+            ... 4 min 0 s para REX
+            ... 3 min 57 s para crear xmls
+            ... 20:53:10 inicio git
