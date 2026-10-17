@@ -1,0 +1,127 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 17/10/2026 06:01:32 done in 1m 30s
+[  ZPT  ] Job finished at 17/10/2026 06:11:19 done in 1m 17s
+[  ZDE  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  ZUK  ] Job finished at 17/10/2026 06:49:24 done in 3m 21s
+[  ZVAR  ] Job finished at 17/10/2026 06:59:54 done in 3m 52s
+[  VAR2  ---> Error] no shows in indexpage! ( TV Costa Brava )
+[  VAR2  ] Job finished at 17/10/2026 07:07:53 done in 2m 50s
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( Nós Televisión )
+[  VAR1  ---> Error] retry 1 of 2 times ( Nós Televisión )
+[  VAR1  ---> Error] error downloading page : TimeOut (20 sec) ( RTP Internacional )
+[  VAR1  ---> Error] retry 1 of 2 times ( RTP Internacional )
+[  VAR1  ---> Error] no shows in indexpage! ( En Play )
+[  VAR1  ] Job finished at 17/10/2026 07:23:27 done in 13m 26s
+[  O2  ] Job finished at 17/10/2026 07:44:14 done in 6m 13s
+[  O1  ] Job finished at 17/10/2026 07:53:36 done in 4m 34s
+[  M3  ] Job finished at 17/10/2026 08:08:30 done in 8m 28s
+[  M2  ] Job finished at 17/10/2026 08:18:05 done in 7m 3s
+[  M1  ] Job finished at 17/10/2026 08:29:14 done in 7m 12s
+[  DEP  ] Job finished at 17/10/2026 08:37:25 done in 4m 23s
+    [  miEPG  ] Job finished at 17/10/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 17/10/2026 08:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 17/10/2026 08:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 17/10/2026 08:45:39 done in 16s
+        [  REX -> ORA  ] Job (rex) finished at 17/10/2026 08:46:16 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 17/10/2026 08:47:17 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 17/10/2026 08:47:40 done in 5s
+            ... 3 min 55 s para REX
+            ... 3 min 37 s para crear xmls
+            ... 08:52:42 inicio git
+            ... 08:55:08 fin git
+[  MDB  ] Job finished at 17/10/2026 11:00:48 done in 45s
+[  VAR2  ] Job finished at 17/10/2026 11:07:58 done in 2m 56s
+[  VAR1  ---> Error] no shows in indexpage! ( En Play )
+[  VAR1  ] Job finished at 17/10/2026 11:15:51 done in 5m 50s
+[  O2  ] Job finished at 17/10/2026 11:42:39 done in 4m 37s
+[  O1  ] Job finished at 17/10/2026 11:52:14 done in 3m 12s
+[  M3  ] Job finished at 17/10/2026 12:06:53 done in 6m 51s
+[  M2  ] Job finished at 17/10/2026 12:16:51 done in 5m 48s
+[  M1  ] Job finished at 17/10/2026 12:27:50 done in 5m 49s
+[  DEP  ] Job finished at 17/10/2026 12:37:09 done in 4m 8s
+    [  miEPG  ] Job finished at 17/10/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 17/10/2026 12:44:39 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 17/10/2026 12:44:58 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 17/10/2026 12:45:42 done in 16s
+        [  REX -> ORA  ] Job (rex) finished at 17/10/2026 12:46:20 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 17/10/2026 12:47:20 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 17/10/2026 12:47:44 done in 5s
+            ... 3 min 59 s para REX
+            ... 3 min 50 s para crear xmls
+            ... 12:53:00 inicio git
+            ... 12:55:30 fin git
+    [  TIVI  ]  Job finished at 17/10/2026 15:33
+    [  NBA  ] NBA TV · Job finished at 17/10/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 17/10/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 17/10/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 17/10/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 17/10/2026 15:41
+    [  ZAP  ] DePelícula · Job finished at 17/10/2026 15:41
+    [  ZAP  ---> Error] DejateTV no existe o no tiene información (17/10/2026 15:41)
+    [  ZAP  ] PTV Granada · Job finished at 17/10/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 17/10/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (17/10/2026 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 17/10/2026 15:41
+    [  ZAP  ] PTV Linares · Job finished at 17/10/2026 15:41
+    [  ZAP  ---> Error] PTV Málaga no existe o no tiene información (17/10/2026 15:41)
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (17/10/2026 15:41)
+    [  dazn  ] Unbeaten (DAZN) · Job finished at 17/10/2026 15:41
+    [  dazn  ] NFL Network (DAZN) · Job finished at 17/10/2026 15:41
+    [  dazn  ] Red Bull TV (DAZN) · Job finished at 17/10/2026 15:41
+    [  dazn  ] Primera Federación (DAZN) · Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 17/10/2026 15:41
+    [  DAZNMOT  ] Job finished at 17/10/2026 15:42
+[  M3  ] Job finished at 17/10/2026 16:06:31 done in 6m 29s
+[  M2  ] Job finished at 17/10/2026 16:17:15 done in 6m 13s
+[  M1  ] Job finished at 17/10/2026 16:27:49 done in 5m 47s
+[  DEP  ] Job finished at 17/10/2026 16:37:06 done in 4m 4s
+    [  miEPG  ] Job finished at 17/10/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 17/10/2026 16:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 17/10/2026 16:44:58 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 17/10/2026 16:45:40 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 17/10/2026 16:46:17 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 17/10/2026 16:47:16 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 17/10/2026 16:47:39 done in 5s
+            ... 3 min 54 s para REX
+            ... 3 min 50 s para crear xmls
+            ... 16:52:54 inicio git
+            ... 16:55:19 fin git
+[  ZFR  ] Job finished at 17/10/2026 18:01:22 done in 1m 19s
+[  ZPT  ] Job finished at 17/10/2026 18:11:29 done in 1m 27s
+[  ZDE  ---> ERROR] WebGrab fallo con codigo 137. Restaurando backup.
+[  ZUK  ] Job finished at 17/10/2026 18:47:17 done in 1m 14s
+[  ZVAR  ] Job finished at 17/10/2026 18:59:23 done in 3m 21s
+[  VAR2  ] Job finished at 17/10/2026 19:07:49 done in 2m 48s
+[  VAR1  ---> Error] no shows in indexpage! ( En Play )
+[  VAR1  ] Job finished at 17/10/2026 19:16:52 done in 6m 50s
+[  O2  ] Job finished at 17/10/2026 19:43:00 done in 4m 57s
+[  O1  ] Job finished at 17/10/2026 19:52:22 done in 3m 20s
+[  M3  ] Job finished at 17/10/2026 20:06:43 done in 6m 40s
+[  M2  ] Job finished at 17/10/2026 20:16:40 done in 5m 38s
+[  M1  ] Job finished at 17/10/2026 20:27:46 done in 5m 44s
+[  DEP  ] Job finished at 17/10/2026 20:37:06 done in 4m 4s
+    [  miEPG  ] Job finished at 17/10/2026 20:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 17/10/2026 20:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 17/10/2026 20:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 17/10/2026 20:45:39 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 17/10/2026 20:46:16 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 17/10/2026 20:47:16 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 17/10/2026 20:47:40 done in 5s
+            ... 3 min 54 s para REX
+            ... 3 min 42 s para crear xmls
+            ... 20:52:47 inicio git
