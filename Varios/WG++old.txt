@@ -1,0 +1,140 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 23/10/2026 06:01:39 done in 1m 37s
+[  ZPT  ] Job finished at 23/10/2026 06:11:20 done in 1m 18s
+[  ZDE  ] Job finished at 23/10/2026 06:21:15 done in 1m 13s
+[  ZUK  ] Job finished at 23/10/2026 06:49:04 done in 3m 2s
+[  ZVAR  ] Job finished at 23/10/2026 06:59:39 done in 3m 38s
+[  VAR2  ---> Error] no shows in indexpage! ( Canal Terres de l'Ebre )
+[  VAR2  ] Job finished at 23/10/2026 07:08:05 done in 3m 4s
+[  VAR1  ---> Error] no shows in indexpage! ( En Play )
+[  VAR1  ] Job finished at 23/10/2026 07:22:24 done in 12m 21s
+[  O2  ] Job finished at 23/10/2026 07:43:45 done in 5m 42s
+[  O1  ] Job finished at 23/10/2026 07:53:47 done in 4m 45s
+[  M3  ] Job finished at 23/10/2026 08:07:38 done in 7m 36s
+[  M2  ] Job finished at 23/10/2026 08:17:50 done in 6m 48s
+[  M1  ] Job finished at 23/10/2026 08:29:45 done in 7m 43s
+[  DEP  ] Job finished at 23/10/2026 08:37:29 done in 4m 27s
+    [  miEPG  ] Job finished at 23/10/2026 08:46
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 23/10/2026 08:46:51 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 23/10/2026 08:47:10 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 23/10/2026 08:47:52 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 23/10/2026 08:48:26 done in 11s
+        [  REX -> MOV  ] Job (rex) finished at 23/10/2026 08:49:27 done in 23s
+        [  REX -> DEP  ] Job (rex) finished at 23/10/2026 08:49:50 done in 5s
+            ... 6 min 5 s para REX
+            ... 3 min 42 s para crear xmls
+            ... 08:54:57 inicio git
+            ... 08:57:18 fin git
+[  MDB  ] Job finished at 23/10/2026 11:00:32 done in 29s
+[  VAR2  ---> Error] no shows in indexpage! ( Canal Terres de l'Ebre )
+[  VAR2  ] Job finished at 23/10/2026 11:08:08 done in 3m 6s
+[  VAR1  ---> Error] no shows in indexpage! ( En Play )
+[  VAR1  ] Job finished at 23/10/2026 11:17:08 done in 7m 6s
+[  O2  ] Job finished at 23/10/2026 11:42:43 done in 4m 42s
+[  O1  ] Job finished at 23/10/2026 11:52:43 done in 3m 41s
+[  M3  ] Job finished at 23/10/2026 12:06:36 done in 6m 33s
+[  M2  ] Job finished at 23/10/2026 12:17:02 done in 6m 0s
+[  M1  ] Job finished at 23/10/2026 12:28:05 done in 6m 3s
+[  DEP  ] Job finished at 23/10/2026 12:37:29 done in 4m 27s
+    [  miEPG  ] Job finished at 23/10/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 23/10/2026 12:44:36 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 23/10/2026 12:44:55 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 23/10/2026 12:45:37 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 23/10/2026 12:46:11 done in 11s
+        [  REX -> MOV  ] Job (rex) finished at 23/10/2026 12:47:10 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 23/10/2026 12:47:34 done in 5s
+            ... 3 min 49 s para REX
+            ... 3 min 44 s para crear xmls
+            ... 12:52:44 inicio git
+            ... 12:55:20 fin git
+    [  TIVI  ]  Job finished at 23/10/2026 15:33
+    [  NBA  ] NBA TV · Job finished at 23/10/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 23/10/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 23/10/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 23/10/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 23/10/2026 15:40
+    [  ZAP  ] DePelícula · Job finished at 23/10/2026 15:41
+    [  ZAP  ---> Error] DejateTV no existe o no tiene información (23/10/2026 15:41)
+    [  ZAP  ] PTV Granada · Job finished at 23/10/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 23/10/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (23/10/2026 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 23/10/2026 15:41
+    [  ZAP  ] PTV Linares · Job finished at 23/10/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 23/10/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (23/10/2026 15:41)
+    [  dazn  ] Unbeaten (DAZN) · Job finished at 23/10/2026 15:41
+    [  dazn  ] NFL Network (DAZN) · Job finished at 23/10/2026 15:41
+    [  dazn  ] Red Bull TV (DAZN) · Job finished at 23/10/2026 15:41
+    [  dazn  ] Primera Federación (DAZN) · Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 23/10/2026 15:41
+    [  DAZNMOT  ] Job finished at 23/10/2026 15:41
+[  MDB  ] Job finished at 23/10/2026 15:49:12 done in 16s
+[  M3  ] Job finished at 23/10/2026 16:06:23 done in 6m 21s
+[  M2  ] Job finished at 23/10/2026 16:16:56 done in 5m 54s
+[  M1  ] Job finished at 23/10/2026 16:28:02 done in 6m 0s
+[  DEP  ] Job finished at 23/10/2026 16:37:36 done in 4m 34s
+    [  miEPG  ] Job finished at 23/10/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 23/10/2026 16:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 23/10/2026 16:44:58 done in 6s
+        [  REX -> VAR  ] Job (rex) finished at 23/10/2026 16:45:41 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 23/10/2026 16:46:17 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 23/10/2026 16:47:17 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 23/10/2026 16:47:42 done in 5s
+            ... 3 min 55 s para REX
+            ... 3 min 43 s para crear xmls
+            ... 16:52:48 inicio git
+            ... 16:55:15 fin git
+[  ZFR  ] Job finished at 23/10/2026 18:01:33 done in 1m 31s
+[  ZPT  ] Job finished at 23/10/2026 18:11:57 done in 1m 55s
+[  ZDE  ---> Error] no shows in indexpage! ( DE | Motorvision TV )
+[  ZDE  ] Job finished at 23/10/2026 18:23:33 done in 3m 31s
+[  ZUK  ] Job finished at 23/10/2026 18:47:24 done in 1m 22s
+[  ZVAR  ] Job finished at 23/10/2026 18:59:52 done in 3m 50s
+[  VAR2  ---> Error] no shows in indexpage! ( Canal Terres de l'Ebre )
+[  VAR2  ] Job finished at 23/10/2026 19:08:39 done in 3m 36s
+[  VAR1  ] Job finished at 23/10/2026 19:17:39 done in 7m 37s
+[  O2  ] Job finished at 23/10/2026 19:42:39 done in 4m 37s
+[  O1  ] Job finished at 23/10/2026 19:52:39 done in 3m 38s
+[  M3  ] Job finished at 23/10/2026 20:06:26 done in 6m 24s
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( Nick JR )
+[  M2  ---> Error] retry 1 of 2 times ( Nick JR )
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( Nick JR )
+[  M2  ---> Error] retry 1 of 2 times ( Nick JR )
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( MTV España )
+[  M2  ---> Error] retry 1 of 2 times ( MTV España )
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( Classica HD )
+[  M2  ---> Error] retry 1 of 2 times ( Classica HD )
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( France 24 (en Francais )
+[  M2  ---> Error] retry 1 of 2 times ( France 24 (en Francais )
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( TVG Europa HD )
+[  M2  ---> Error] retry 1 of 2 times ( TVG Europa HD )
+[  M2  ] Job finished at 23/10/2026 20:20:34 done in 9m 32s
+[  M1  ] Job finished at 23/10/2026 20:28:19 done in 6m 18s
+[  DEP  ] Job finished at 23/10/2026 20:37:46 done in 4m 44s
+    [  miEPG  ] Job finished at 23/10/2026 20:46
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 23/10/2026 20:46:51 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 23/10/2026 20:47:10 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 23/10/2026 20:47:53 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 23/10/2026 20:48:28 done in 11s
+        [  REX -> MOV  ] Job (rex) finished at 23/10/2026 20:49:27 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 23/10/2026 20:49:51 done in 5s
+            ... 6 min 5 s para REX
+            ... 3 min 48 s para crear xmls
+            ... 20:55:03 inicio git
+            ... 20:57:28 fin git
+<---  FIN  --->
