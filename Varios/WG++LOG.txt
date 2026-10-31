@@ -1,0 +1,130 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 31/10/2026 06:01:43 done in 1m 40s
+[  ZPT  ] Job finished at 31/10/2026 06:11:30 done in 1m 28s
+[  ZDE  ---> Error] no shows in indexpage! ( DE | Motorvision TV )
+[  ZDE  ] Job finished at 31/10/2026 06:22:08 done in 2m 6s
+[  ZUK  ] Job finished at 31/10/2026 06:49:43 done in 3m 40s
+[  ZVAR  ] Job finished at 31/10/2026 07:00:23 done in 4m 22s
+[  VAR2  ] Job finished at 31/10/2026 07:08:05 done in 3m 3s
+[  VAR1  ---> Error] Unable to update channel etb1 euskera ( etb1 euskera )
+[  VAR1  ---> Error] no index page data received from etb1 euskera ( etb1 euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1 euskera )
+[  VAR1  ---> Error] Unable to update channel etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] no index page data received from etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb2 euskera )
+[  VAR1  ---> Error] Unable to update channel etb1ON euskera ( etb1ON euskera )
+[  VAR1  ---> Error] no index page data received from etb1ON euskera ( etb1ON euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1ON euskera )
+[  VAR1  ---> Error] Unable to update channel etb2ON euskera ( etb2ON euskera )
+[  VAR1  ---> Error] no index page data received from etb2ON euskera ( etb2ON euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb2ON euskera )
+[  VAR1  ---> Error] Unable to update channel Los Conciertos de Radio 3 ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] Current culture: es-ES ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] time parsing error : String '' was not recognized as a valid DateTime. ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] nextstartdatetime time scrubbed :  ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] computer date/time format: 31/10/2026 07:17:36 ( Los Conciertos de Radio 3 )
+[  VAR1  ] Job finished at 31/10/2026 07:18:59 done in 8m 56s
+[  O2  ] Job finished at 31/10/2026 07:44:02 done in 6m 0s
+[  O1  ] Job finished at 31/10/2026 07:54:16 done in 5m 15s
+[  M3  ] Job finished at 31/10/2026 08:09:10 done in 9m 8s
+[  M2  ] Job finished at 31/10/2026 08:18:28 done in 7m 26s
+[  M1  ] Job finished at 31/10/2026 08:30:00 done in 7m 58s
+[  DEP  ] Job finished at 31/10/2026 08:37:20 done in 4m 18s
+    [  miEPG  ] Job finished at 31/10/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 31/10/2026 08:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 31/10/2026 08:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 31/10/2026 08:45:36 done in 14s
+        [  REX -> ORA  ] Job (rex) finished at 31/10/2026 08:46:15 done in 14s
+        [  REX -> MOV  ] Job (rex) finished at 31/10/2026 08:47:15 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 31/10/2026 08:47:38 done in 5s
+            ... 3 min 53 s para REX
+            ... 3 min 48 s para crear xmls
+            ... 08:52:51 inicio git
+            ... 08:55:20 fin git
+[  MDB  ] Job finished at 31/10/2026 11:01:59 done in 2s
+[  VAR2  ---> Error] no shows in indexpage! ( TAC12 )
+[  VAR2  ] Job finished at 31/10/2026 11:08:20 done in 3m 18s
+[  VAR1  ---> Error] Unable to update channel etb1 euskera ( etb1 euskera )
+[  VAR1  ---> Error] no index page data received from etb1 euskera ( etb1 euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1 euskera )
+[  VAR1  ---> Error] Unable to update channel etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] no index page data received from etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb2 euskera )
+[  VAR1  ---> Error] Unable to update channel etb1ON euskera ( etb1ON euskera )
+[  VAR1  ---> Error] no index page data received from etb1ON euskera ( etb1ON euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1ON euskera )
+[  VAR1  ---> Error] Unable to update channel etb2ON euskera ( etb2ON euskera )
+[  VAR1  ---> Error] no index page data received from etb2ON euskera ( etb2ON euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb2ON euskera )
+[  VAR1  ---> Error] Unable to update channel Los Conciertos de Radio 3 ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] Current culture: es-ES ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] time parsing error : String '' was not recognized as a valid DateTime. ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] nextstartdatetime time scrubbed :  ( Los Conciertos de Radio 3 )
+[  VAR1  ---> Error] computer date/time format: 31/10/2026 11:14:48 ( Los Conciertos de Radio 3 )
+[  VAR1  ] Job finished at 31/10/2026 11:16:05 done in 6m 4s
+[  O2  ] Job finished at 31/10/2026 11:42:48 done in 4m 46s
+[  O1  ] Job finished at 31/10/2026 11:52:55 done in 3m 53s
+[  M3  ] Job finished at 31/10/2026 12:06:51 done in 6m 49s
+[  M2  ] Job finished at 31/10/2026 12:17:00 done in 5m 58s
+[  M1  ] Job finished at 31/10/2026 12:28:02 done in 6m 0s
+[  DEP  ] Job finished at 31/10/2026 12:37:04 done in 4m 2s
+    [  miEPG  ] Job finished at 31/10/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 31/10/2026 12:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 31/10/2026 12:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 31/10/2026 12:45:48 done in 22s
+        [  REX -> ORA  ] Job (rex) finished at 31/10/2026 12:46:25 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 31/10/2026 12:47:24 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 31/10/2026 12:47:47 done in 5s
+            ... 4 min 2 s para REX
+            ... 3 min 43 s para crear xmls
+            ... 12:52:58 inicio git
+            ... 12:56:08 fin git
+[  MDB  ] Job finished at 31/10/2026 13:27:36 done in 21s
+    [  TIVI  ]  Job finished at 31/10/2026 15:33
+    [  NBA  ] NBA TV · Job finished at 31/10/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 31/10/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 31/10/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 31/10/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 31/10/2026 15:41
+    [  ZAP  ] DePelícula · Job finished at 31/10/2026 15:41
+    [  ZAP  ---> Error] DejateTV no existe o no tiene información (31/10/2026 15:41)
+    [  ZAP  ] PTV Granada · Job finished at 31/10/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 31/10/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (31/10/2026 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 31/10/2026 15:41
+    [  ZAP  ] PTV Linares · Job finished at 31/10/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 31/10/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (31/10/2026 15:41)
+    [  dazn  ] Unbeaten (DAZN) · Job finished at 31/10/2026 15:41
+    [  dazn  ] NFL Network (DAZN) · Job finished at 31/10/2026 15:41
+    [  dazn  ] Red Bull TV (DAZN) · Job finished at 31/10/2026 15:41
+    [  dazn  ] Primera Federación (DAZN) · Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+    [  DAZNCOM  ] Job finished at 31/10/2026 15:41
+[  M3  ] Job finished at 31/10/2026 16:06:41 done in 6m 39s
+[  M2  ] Job finished at 31/10/2026 16:17:32 done in 6m 30s
+[  M1  ] Job finished at 31/10/2026 16:28:20 done in 6m 18s
+[  DEP  ] Job finished at 31/10/2026 16:37:19 done in 4m 17s
+    [  miEPG  ] Job finished at 31/10/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 31/10/2026 16:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 31/10/2026 16:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 31/10/2026 16:45:36 done in 14s
+        [  REX -> ORA  ] Job (rex) finished at 31/10/2026 16:46:13 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 31/10/2026 16:47:11 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 31/10/2026 16:47:34 done in 5s
+            ... 3 min 47 s para REX
+            ... 3 min 36 s para crear xmls
+            ... 16:52:34 inicio git
