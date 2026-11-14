@@ -1,0 +1,158 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 13/11/2026 06:01:42 done in 1m 40s
+[  ZPT  ] Job finished at 13/11/2026 06:11:23 done in 1m 21s
+[  ZDE  ---> Error] no shows in indexpage! ( DE | Motorvision TV )
+[  ZDE  ] Job finished at 13/11/2026 06:22:18 done in 2m 16s
+[  ZUK  ] Job finished at 13/11/2026 06:49:16 done in 3m 14s
+[  ZVAR  ---> Error] no shows in indexpage! ( En Familia (Rakuten TV )
+[  ZVAR  ] Job finished at 13/11/2026 07:00:07 done in 4m 5s
+[  VAR2  ---> Error] no shows in indexpage! ( TV Costa Brava )
+[  VAR2  ] Job finished at 13/11/2026 07:08:13 done in 3m 11s
+[  VAR1  ---> Error] Unable to update channel etb1 euskera ( etb1 euskera )
+[  VAR1  ---> Error] no index page data received from etb1 euskera ( etb1 euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1 euskera )
+[  VAR1  ---> Error] Unable to update channel etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] no index page data received from etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb2 euskera )
+[  VAR1  ] Job finished at 13/11/2026 07:23:19 done in 13m 17s
+[  O2  ] Job finished at 13/11/2026 07:43:30 done in 5m 28s
+[  O1  ] Job finished at 13/11/2026 07:54:00 done in 4m 58s
+[  M3  ---> Error] error downloading page : TimeOut (20 sec) ( DMAX )
+[  M3  ---> Error] retry 1 of 2 times ( DMAX )
+[  M3  ---> Error] error downloading page : TimeOut (20 sec) ( etb2ON )
+[  M3  ---> Error] retry 1 of 2 times ( etb2ON )
+[  M3  ] Job finished at 13/11/2026 08:09:01 done in 8m 59s
+[  M2  ] Job finished at 13/11/2026 08:18:22 done in 7m 20s
+[  M1  ] Job finished at 13/11/2026 08:29:21 done in 7m 19s
+[  DEP  ] Job finished at 13/11/2026 08:37:45 done in 4m 42s
+    [  miEPG  ] Job finished at 13/11/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/11/2026 08:44:45 done in 17s
+        [  REX -> MAN  ] Job (rex) finished at 13/11/2026 08:45:04 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 13/11/2026 08:45:47 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 13/11/2026 08:46:25 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 13/11/2026 08:47:36 done in 22s
+        [  REX -> DEP  ] Job (rex) finished at 13/11/2026 08:48:03 done in 5s
+            ... 4 min 16 s para REX
+            ... 3 min 55 s para crear xmls
+            ... 08:53:22 inicio git
+            ... 08:56:01 fin git
+[  VAR2  ] Job finished at 13/11/2026 11:08:34 done in 3m 32s
+[  VAR1  ---> Error] Unable to update channel etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] no index page data received from etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb2 euskera )
+[  VAR1  ] Job finished at 13/11/2026 11:16:59 done in 6m 57s
+[  MDB  ] Job finished at 13/11/2026 11:20:40 done in 2s
+[  O2  ] Job finished at 13/11/2026 11:42:58 done in 4m 57s
+[  O1  ] Job finished at 13/11/2026 11:52:53 done in 3m 51s
+[  M3  ---> Error] error downloading page : TimeOut (20 sec) ( EWTN )
+[  M3  ---> Error] retry 1 of 2 times ( EWTN )
+[  M3  ---> Error] error downloading page : TimeOut (20 sec) ( Betevé )
+[  M3  ---> Error] retry 1 of 2 times ( Betevé )
+[  M3  ] Job finished at 13/11/2026 12:07:37 done in 7m 35s
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( 24 Horas )
+[  M2  ---> Error] retry 1 of 2 times ( 24 Horas )
+[  M2  ---> Error] error downloading page : TimeOut (20 sec) ( Canal Extremadura SAT )
+[  M2  ---> Error] retry 1 of 2 times ( Canal Extremadura SAT )
+[  M2  ] Job finished at 13/11/2026 12:18:23 done in 7m 21s
+[  M1  ---> Error] error downloading page : TimeOut (20 sec) ( Canal FlixOlé 2 )
+[  M1  ---> Error] retry 1 of 2 times ( Canal FlixOlé 2 )
+[  M1  ] Job finished at 13/11/2026 12:28:41 done in 6m 39s
+[  DEP  ] Job finished at 13/11/2026 12:37:41 done in 4m 39s
+    [  miEPG  ] Job finished at 13/11/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/11/2026 12:44:37 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 13/11/2026 12:44:55 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 13/11/2026 12:45:39 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 13/11/2026 12:46:27 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 13/11/2026 12:47:28 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 13/11/2026 12:47:52 done in 5s
+            ... 4 min 5 s para REX
+            ... 3 min 54 s para crear xmls
+            ... 12:53:13 inicio git
+            ... 12:55:56 fin git
+    [  TIVI  ]  Job finished at 13/11/2026 15:33
+    [  NBA  ] NBA TV · Job finished at 13/11/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 13/11/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 13/11/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 13/11/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 13/11/2026 15:40
+    [  ZAP  ] DePelícula · Job finished at 13/11/2026 15:41
+    [  ZAP  ---> Error] DejateTV no existe o no tiene información (13/11/2026 15:41)
+    [  ZAP  ] PTV Granada · Job finished at 13/11/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 13/11/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (13/11/2026 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 13/11/2026 15:41
+    [  ZAP  ] PTV Linares · Job finished at 13/11/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 13/11/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (13/11/2026 15:41)
+    [  dazn  ] Unbeaten (DAZN) · Job finished at 13/11/2026 15:41
+    [  dazn  ] NFL Network (DAZN) · Job finished at 13/11/2026 15:41
+    [  dazn  ] Red Bull TV (DAZN) · Job finished at 13/11/2026 15:41
+    [  dazn  ] Primera Federación (DAZN) · Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 13/11/2026 15:41
+[  M3  ] Job finished at 13/11/2026 16:06:51 done in 6m 49s
+[  M2  ] Job finished at 13/11/2026 16:17:12 done in 6m 10s
+[  M1  ] Job finished at 13/11/2026 16:28:02 done in 6m 0s
+[  DEP  ] Job finished at 13/11/2026 16:37:23 done in 4m 20s
+    [  miEPG  ] Job finished at 13/11/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/11/2026 16:44:39 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 13/11/2026 16:44:57 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 13/11/2026 16:45:40 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 13/11/2026 16:46:18 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 13/11/2026 16:47:17 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 13/11/2026 16:47:41 done in 5s
+            ... 3 min 56 s para REX
+            ... 3 min 43 s para crear xmls
+            ... 16:52:50 inicio git
+            ... 16:55:36 fin git
+[  ZFR  ] Job finished at 13/11/2026 18:01:24 done in 1m 23s
+[  ZPT  ] Job finished at 13/11/2026 18:11:20 done in 1m 18s
+[  ZDE  ---> Error] no shows in indexpage! ( DE | Motorvision TV )
+[  ZDE  ] Job finished at 13/11/2026 18:21:07 done in 1m 5s
+[  ZUK  ] Job finished at 13/11/2026 18:47:23 done in 1m 21s
+[  ZVAR  ---> Error] Unable to update channel En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from En Familia (Rakuten TV) ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] error downloading page : TimeOut (20 sec) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] retry 1 of 2 times ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] Unable to update channel Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] no index page data received from Estilo y Vida (Rakuten TV) ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ---> Error] unable to update channel, try again later ( Estilo y Vida (Rakuten TV )
+[  ZVAR  ] Job finished at 13/11/2026 19:00:17 done in 4m 16s
+[  VAR2  ] Job finished at 13/11/2026 19:08:52 done in 3m 49s
+[  VAR1  ---> Error] Unable to update channel etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] no index page data received from etb2 euskera ( etb2 euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb2 euskera )
+[  VAR1  ] Job finished at 13/11/2026 19:17:43 done in 7m 41s
+[  O2  ] Job finished at 13/11/2026 19:42:50 done in 4m 48s
+[  O1  ] Job finished at 13/11/2026 19:52:54 done in 3m 52s
+[  M3  ] Job finished at 13/11/2026 20:06:58 done in 6m 56s
+[  M2  ] Job finished at 13/11/2026 20:17:19 done in 6m 17s
+[  M1  ] Job finished at 13/11/2026 20:27:53 done in 5m 52s
+[  DEP  ] Job finished at 13/11/2026 20:37:25 done in 4m 23s
+    [  miEPG  ] Job finished at 13/11/2026 20:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 13/11/2026 20:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 13/11/2026 20:44:56 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 13/11/2026 20:45:39 done in 15s
+        [  REX -> ORA  ] Job (rex) finished at 13/11/2026 20:46:17 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 13/11/2026 20:47:17 done in 20s
+        [  REX -> DEP  ] Job (rex) finished at 13/11/2026 20:47:40 done in 5s
+            ... 3 min 54 s para REX
+            ... 3 min 47 s para crear xmls
+            ... 20:52:52 inicio git
+            ... 20:56:00 fin git
+<---  FIN  --->
