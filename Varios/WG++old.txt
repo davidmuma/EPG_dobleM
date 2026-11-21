@@ -1,0 +1,159 @@
+<--- INICIO --->
+[  ZFR  ] Job finished at 20/11/2026 06:01:47 done in 1m 45s
+[  ZPT  ] Job finished at 20/11/2026 06:11:23 done in 1m 21s
+[  ZDE  ---> Error] no shows in indexpage! ( DE | Motorvision TV )
+[  ZDE  ] Job finished at 20/11/2026 06:22:18 done in 2m 15s
+[  ZUK  ] Job finished at 20/11/2026 06:49:03 done in 3m 1s
+[  ZVAR  ---> Error] no shows in indexpage! ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( Red Bull TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( FOX SPORTS )
+[  ZVAR  ---> Error] no shows in indexpage! ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] no shows in indexpage! ( FOX SPORTS 3 )
+[  ZVAR  ] Job finished at 20/11/2026 07:00:06 done in 4m 5s
+[  VAR2  ] Job finished at 20/11/2026 07:08:35 done in 3m 33s
+[  VAR1  ---> Error] Unable to update channel etb1ON euskera ( etb1ON euskera )
+[  VAR1  ---> Error] no index page data received from etb1ON euskera ( etb1ON euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1ON euskera )
+[  VAR1  ---> Error] Unable to update channel etb1ON TDT euskera ( etb1ON TDT euskera )
+[  VAR1  ---> Error] no index page data received from etb1ON TDT euskera ( etb1ON TDT euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1ON TDT euskera )
+[  VAR1  ---> Error] no shows in indexpage! ( rtve )
+[  VAR1  ---> Error] No suitable time structure found to merge the indexpage pages!! ( TVE Internacional Europa )
+[  VAR1  ---> Error] Unable to update Channel, try again later ( TVE Internacional Europa )
+[  VAR1  ---> Error] No suitable time structure found to merge the indexpage pages!! ( Star TVE )
+[  VAR1  ---> Error] Unable to update Channel, try again later ( Star TVE )
+[  VAR1  ] Job finished at 20/11/2026 07:24:13 done in 14m 11s
+[  O2  ] Job finished at 20/11/2026 07:43:50 done in 5m 48s
+[  O1  ] Job finished at 20/11/2026 07:54:24 done in 5m 22s
+[  M3  ] Job finished at 20/11/2026 08:09:00 done in 8m 58s
+[  M2  ] Job finished at 20/11/2026 08:18:57 done in 7m 55s
+[  M1  ] Job finished at 20/11/2026 08:29:39 done in 7m 37s
+[  DEP  ] Job finished at 20/11/2026 08:38:02 done in 5m 0s
+    [  miEPG  ] Job finished at 20/11/2026 08:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 20/11/2026 08:44:39 done in 12s
+        [  REX -> MAN  ] Job (rex) finished at 20/11/2026 08:44:58 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 20/11/2026 08:45:43 done in 16s
+        [  REX -> ORA  ] Job (rex) finished at 20/11/2026 08:46:21 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 20/11/2026 08:47:24 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 20/11/2026 08:47:49 done in 5s
+            ... 4 min 3 s para REX
+            ... 3 min 56 s para crear xmls
+            ... 08:53:12 inicio git
+            ... 08:55:59 fin git
+[  MDB  ] Job finished at 20/11/2026 11:03:00 done in 2s
+[  VAR2  ] Job finished at 20/11/2026 11:08:46 done in 3m 44s
+[  VAR1  ---> Error] Unable to update channel etb1ON TDT euskera ( etb1ON TDT euskera )
+[  VAR1  ---> Error] no index page data received from etb1ON TDT euskera ( etb1ON TDT euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1ON TDT euskera )
+[  VAR1  ---> Error] no shows in indexpage! ( rtve )
+[  VAR1  ---> Error] No suitable time structure found to merge the indexpage pages!! ( TVE Internacional Europa )
+[  VAR1  ---> Error] Unable to update Channel, try again later ( TVE Internacional Europa )
+[  VAR1  ---> Error] No suitable time structure found to merge the indexpage pages!! ( Star TVE )
+[  VAR1  ---> Error] Unable to update Channel, try again later ( Star TVE )
+[  VAR1  ] Job finished at 20/11/2026 11:17:36 done in 7m 34s
+[  O2  ] Job finished at 20/11/2026 11:42:52 done in 4m 50s
+[  O1  ] Job finished at 20/11/2026 11:53:10 done in 4m 8s
+[  M3  ] Job finished at 20/11/2026 12:07:02 done in 7m 0s
+[  M2  ] Job finished at 20/11/2026 12:17:31 done in 6m 29s
+[  M1  ] Job finished at 20/11/2026 12:28:28 done in 6m 26s
+[  DEP  ] Job finished at 20/11/2026 12:37:44 done in 4m 42s
+    [  miEPG  ] Job finished at 20/11/2026 12:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 20/11/2026 12:44:44 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 20/11/2026 12:45:03 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 20/11/2026 12:45:49 done in 16s
+        [  REX -> ORA  ] Job (rex) finished at 20/11/2026 12:46:27 done in 13s
+        [  REX -> MOV  ] Job (rex) finished at 20/11/2026 12:47:31 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 20/11/2026 12:47:55 done in 5s
+            ... 4 min 9 s para REX
+            ... 4 min 3 s para crear xmls
+            ... 12:53:27 inicio git
+            ... 12:56:14 fin git
+    [  TIVI  ]  Job finished at 20/11/2026 15:33
+    [  NBA  ] NBA TV · Job finished at 20/11/2026 15:40
+    [  CLI  ] Náutica TV · Job finished at 20/11/2026 15:40
+    [  CLI  ] Dhípica · Job finished at 20/11/2026 15:40
+    [  CLI  ] Fight Time · Job finished at 20/11/2026 15:40
+    [  ZAP  ] tlnovelas · Job finished at 20/11/2026 15:41
+    [  ZAP  ] DePelícula · Job finished at 20/11/2026 15:41
+    [  ZAP  ---> Error] DejateTV no existe o no tiene información (20/11/2026 15:41)
+    [  ZAP  ] PTV Granada · Job finished at 20/11/2026 15:41
+    [  ZAP  ] PTV Sevilla · Job finished at 20/11/2026 15:41
+    [  ZAP  ---> Error] PTV Almeria no existe o no tiene información (20/11/2026 15:41)
+    [  ZAP  ] PTV Córdoba · Job finished at 20/11/2026 15:41
+    [  ZAP  ] PTV Linares · Job finished at 20/11/2026 15:41
+    [  ZAP  ] PTV Málaga · Job finished at 20/11/2026 15:41
+    [  ZAP  ---> Error] PTV Baños de la Encina no existe o no tiene información (20/11/2026 15:41)
+    [  dazn  ] Unbeaten (DAZN) · Job finished at 20/11/2026 15:41
+    [  dazn  ] NFL Network (DAZN) · Job finished at 20/11/2026 15:41
+    [  dazn  ] Red Bull TV (DAZN) · Job finished at 20/11/2026 15:41
+    [  dazn  ] Primera Federación (DAZN) · Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:41
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:42
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:42
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:42
+    [  DAZNCOM  ] Job finished at 20/11/2026 15:42
+[  M3  ] Job finished at 20/11/2026 16:07:10 done in 7m 8s
+[  M2  ] Job finished at 20/11/2026 16:17:17 done in 6m 16s
+[  M1  ] Job finished at 20/11/2026 16:28:09 done in 6m 7s
+[  DEP  ] Job finished at 20/11/2026 16:37:34 done in 4m 32s
+    [  miEPG  ] Job finished at 20/11/2026 16:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 20/11/2026 16:44:39 done in 12s
+        [  REX -> MAN  ] Job (rex) finished at 20/11/2026 16:44:58 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 20/11/2026 16:45:43 done in 16s
+        [  REX -> ORA  ] Job (rex) finished at 20/11/2026 16:46:23 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 20/11/2026 16:47:28 done in 24s
+        [  REX -> DEP  ] Job (rex) finished at 20/11/2026 16:47:53 done in 5s
+            ... 4 min 6 s para REX
+            ... 3 min 53 s para crear xmls
+            ... 16:53:13 inicio git
+            ... 16:55:47 fin git
+[  ZFR  ] Job finished at 20/11/2026 18:01:32 done in 1m 29s
+[  ZPT  ] Job finished at 20/11/2026 18:11:21 done in 1m 19s
+[  ZDE  ---> Error] no shows in indexpage! ( DE | Motorvision TV )
+[  ZDE  ] Job finished at 20/11/2026 18:21:30 done in 1m 27s
+[  ZUK  ] Job finished at 20/11/2026 18:47:12 done in 1m 10s
+[  ZVAR  ---> Error] no shows in indexpage! ( En Familia (Rakuten TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( Red Bull TV )
+[  ZVAR  ---> Error] no shows in indexpage! ( FOX SPORTS )
+[  ZVAR  ---> Error] no shows in indexpage! ( FOX SPORTS 2 )
+[  ZVAR  ---> Error] no shows in indexpage! ( FOX SPORTS 3 )
+[  ZVAR  ] Job finished at 20/11/2026 18:59:43 done in 3m 42s
+[  VAR2  ] Job finished at 20/11/2026 19:09:05 done in 4m 3s
+[  VAR1  ---> Error] Unable to update channel etb1ON TDT euskera ( etb1ON TDT euskera )
+[  VAR1  ---> Error] no index page data received from etb1ON TDT euskera ( etb1ON TDT euskera )
+[  VAR1  ---> Error] unable to update channel, try again later ( etb1ON TDT euskera )
+[  VAR1  ---> Error] no shows in indexpage! ( rtve )
+[  VAR1  ---> Error] No suitable time structure found to merge the indexpage pages!! ( TVE Internacional Europa )
+[  VAR1  ---> Error] Unable to update Channel, try again later ( TVE Internacional Europa )
+[  VAR1  ---> Error] No suitable time structure found to merge the indexpage pages!! ( Star TVE )
+[  VAR1  ---> Error] Unable to update Channel, try again later ( Star TVE )
+[  VAR1  ] Job finished at 20/11/2026 19:18:26 done in 8m 24s
+[  O2  ] Job finished at 20/11/2026 19:43:28 done in 5m 26s
+[  O1  ] Job finished at 20/11/2026 19:52:57 done in 3m 55s
+[  M3  ] Job finished at 20/11/2026 20:07:00 done in 6m 58s
+[  M2  ] Job finished at 20/11/2026 20:17:23 done in 6m 21s
+[  M1  ] Job finished at 20/11/2026 20:28:12 done in 6m 10s
+[  DEP  ] Job finished at 20/11/2026 20:37:49 done in 4m 47s
+    [  miEPG  ] Job finished at 20/11/2026 20:44
+       <--- REX --->
+        [  REX -> ZZZ  ] Job (rex) finished at 20/11/2026 20:44:38 done in 11s
+        [  REX -> MAN  ] Job (rex) finished at 20/11/2026 20:44:57 done in 5s
+        [  REX -> VAR  ] Job (rex) finished at 20/11/2026 20:45:42 done in 16s
+        [  REX -> ORA  ] Job (rex) finished at 20/11/2026 20:46:26 done in 12s
+        [  REX -> MOV  ] Job (rex) finished at 20/11/2026 20:47:31 done in 21s
+        [  REX -> DEP  ] Job (rex) finished at 20/11/2026 20:47:55 done in 5s
+            ... 4 min 10 s para REX
+            ... 3 min 56 s para crear xmls
+            ... 20:53:20 inicio git
+            ... 20:56:02 fin git
+<---  FIN  --->
